@@ -7,6 +7,8 @@ import pp_ops
 import partial_open_images_v7.partial_open_images_v7_dataset_builder
 import data_filters
 
+import fire
+
 
 # A function to convert the "Train", "Validation" and "Test" parts of open images to their respective wake vision variants.
 def open_images_to_wv(
@@ -63,29 +65,29 @@ def open_images_to_wv(
         )
 
     # Correct labels according to new labels from scale.ai run.
-    if split_name != "train":
-        try:
-            (
-                verified_person_list,
-                verified_non_person_list,
-                verified_exclude_list,
-                verified_depiction_list,
-            ) = read_clean_csv(f"cleaned_csvs/wv_{split_name}_cleaned.csv")
-        except FileNotFoundError:
-            raise FileNotFoundError(
-                f"Could not find the file wv_{split_name}_cleaned.csv in the cleaned_csvs directory. Please download this file from the github repository, or generate it yourself using the scripts in the cleanlab_cleaning directory"
-            )
-        ds_split = ds_split.map(
-            lambda ds_entry: correct_label_issues(
-                ds_entry,
-                verified_person_list,
-                verified_non_person_list,
-                verified_exclude_list,
-                verified_depiction_list,
-                cfg,
-            ),
-            num_parallel_calls=tf.data.AUTOTUNE,
-        )
+    # if split_name != "train":
+    #     try:
+    #         (
+    #             verified_person_list,
+    #             verified_non_person_list,
+    #             verified_exclude_list,
+    #             verified_depiction_list,
+    #         ) = read_clean_csv(f"cleaned_csvs/wv_{split_name}_cleaned.csv")
+    #     except FileNotFoundError:
+    #         raise FileNotFoundError(
+    #             f"Could not find the file wv_{split_name}_cleaned.csv in the cleaned_csvs directory. Please download this file from the github repository, or generate it yourself using the scripts in the cleanlab_cleaning directory"
+    #         )
+    #     ds_split = ds_split.map(
+    #         lambda ds_entry: correct_label_issues(
+    #             ds_entry,
+    #             verified_person_list,
+    #             verified_non_person_list,
+    #             verified_exclude_list,
+    #             verified_depiction_list,
+    #             cfg,
+    #         ),
+    #         num_parallel_calls=tf.data.AUTOTUNE,
+    #     )
 
     # Filter the dataset into a part with persons and a part with no persons
     person_ds = ds_split.filter(data_filters.person_filter)
@@ -323,6 +325,11 @@ def get_wake_vision(cfg=default_cfg, batch_size=None):
 
     return train, val, test
 
+def smoketest_wakevision(cfg=default_cfg):
+    cfg.WV_DIR = "/n/netscratch/janapa_reddi_lab/Lab/mmaz/openimages/"
+    print(cfg.WV_DIR)
+    get_wake_vision(cfg=cfg)
+    print("smoketest finished")
 
 def get_lighting(cfg=default_cfg, batch_size=None, split="test"):
     if split != "train" and split != "validation" and split != "test":
@@ -466,4 +473,9 @@ def get_depiction_eval(cfg=default_cfg, batch_size=None, split="test"):
             'depictions_non_persons': depictions_non_persons,
             'non_person_no_depictions': non_person_no_depictions})
     
+
+
     
+
+if __name__ == "__main__":
+    fire.Fire(smoketest_wakevision)
