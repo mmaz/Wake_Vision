@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 from pathlib import Path
 import tensorflow_datasets as tfds
+import collections
 
 import sys
 
@@ -62,6 +63,22 @@ def save_car_images(
         tf.io.write_file(str(target_fn), encoded_image)
 
 
+def report_balance(
+    image_dir: Path = Path(
+        "/n/netscratch/janapa_reddi_lab/Lab/mmaz/holy/astro205/labelstudio_images/wakevision_cars"
+    ),
+):
+    """
+    report balance of dataset
+    """
+    counter = collections.Counter()
+    for image_path in image_dir.iterdir():
+        # example filename: test_ix_04130_label_1.jpg
+        label_id = int(image_path.name.split("_")[-1].split(".")[0])
+        counter[label_id] += 1
+    print(counter) # Counter({0: 254, 1: 246})
+
+
 def get_car_sizes():
     test = get_car_ds()["test"]
     # test dataset size
@@ -75,4 +92,4 @@ def get_car_sizes():
 
 
 if __name__ == "__main__":
-    fire.Fire(save_car_images)
+    fire.Fire(report_balance)
