@@ -2,6 +2,8 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 from pathlib import Path
+import tensorflow as tf
+import numpy as np
 import tensorflow_datasets as tfds
 # %%
 # pip install -e . failed
@@ -34,11 +36,11 @@ builder = tfds.builder(
     "partial_open_images_v7",
     data_dir=cfg.WV_DIR,
 )
-# see experiment_config.py
+# see experiment_config.py, image-level labels:
 assert builder.info.features["objects"]["label"].str2int("/m/01g317") == 14048
 # boxable car:
-print(builder.info.features["objects"]["label"].str2int(label_name))
-# 3303
+print(builder.info.features["bobjects"]["label"].str2int(label_name))
+# 570
 # %%
 
 # %%
@@ -53,7 +55,10 @@ test = test.unbatch().batch(1)
 # %%
 # sample images from test
 # %%
-for image,label in test.take(1):
+for image,label in test.skip(104).take(1):
+    if tf.reduce_min(image) < 0:
+        image = (image + 1) / 2 
+    # print(image.dtype, "--", tf.reduce_min(image), "---", tf.reduce_max(image))
     print(image.shape, label.shape)
     plt.imshow(image[0])
     plt.show()

@@ -41,7 +41,7 @@ def get_car_cfg(experiment_name=None):
     cfg.IMAGE_LEVEL_SKULL_DICTIONARY = {}
 
     # Bounding Box Label Dictionaries
-    cfg.BBOX_PERSON_DICTIONARY = { "Car": 3303 }
+    cfg.BBOX_PERSON_DICTIONARY = { "Car": 570 }
     cfg.BBOX_BODY_PART_DICTIONARY = { }
     cfg.BBOX_SKULL_DICTIONARY = { }
 
