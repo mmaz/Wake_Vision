@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 from pathlib import Path
 import tensorflow_datasets as tfds
 import collections
+import json
 
 import sys
 
@@ -15,6 +16,7 @@ import fire
 import tensorflow as tf
 import tqdm
 import numpy as np
+import sklearn.metrics
 
 
 def get_car_ds():
@@ -63,7 +65,7 @@ def save_car_images(
         tf.io.write_file(str(target_fn), encoded_image)
 
 
-def report_balance(
+def report_tfds_balance(
     image_dir: Path = Path(
         "/n/netscratch/janapa_reddi_lab/Lab/mmaz/holy/astro205/labelstudio_images/wakevision_cars"
     ),
@@ -76,7 +78,66 @@ def report_balance(
         # example filename: test_ix_04130_label_1.jpg
         label_id = int(image_path.name.split("_")[-1].split(".")[0])
         counter[label_id] += 1
-    print(counter) # Counter({0: 254, 1: 246})
+    print(counter)  # Counter({0: 254, 1: 246})
+
+
+def human_val_classification_report(
+    labelstudio_json: Path = Path(
+        "/n/holylabs/LABS/janapa_reddi_lab/Users/mmaz/wakevision_work/Wake_Vision/wakevision-at-2025-04-29-00-04-5e08b2ab.json"
+    ),
+):
+    """
+    entries are saved in the following format:
+
+      {
+        "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00024_label_1.jpg",
+        "id": 1678,
+        "choice": "car",
+        "annotator": 1,
+        "annotation_id": 649,
+        "created_at": "2025-04-28T23:31:40.472616Z",
+        "updated_at": "2025-04-28T23:31:40.472649Z",
+        "lead_time": 1.341
+    },
+    {
+        "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00031_label_0.jpg",
+        "id": 1679,
+        "choice": "background",
+        "annotator": 1,
+        "annotation_id": 650,
+        "created_at": "2025-04-28T23:31:42.438735Z",
+        "updated_at": "2025-04-28T23:31:42.438764Z",
+        "lead_time": 1.073
+    },
+
+    label_1 indicates that WakeVision considers the image a car, likewise label_0 background
+    choice: [car, background] indicates human-assigned label (without knowledge of wakevision's label)
+
+    this function generates a classification report treating human-assigned labels as ground truth
+    """
+    label_data = json.loads(labelstudio_json.read_text())
+    y_pred = []
+    y_true = []
+    for entry in label_data:
+        # example filename: test_ix_04130_label_1.jpg
+        wakevision_label_id = int(entry["image"].split("_")[-1].split(".")[0])
+        y_pred.append(wakevision_label_id)
+        y_true.append(1 if entry["choice"] == "car" else 0)
+
+    y_pred = np.array(y_pred)
+    y_true = np.array(y_true)
+
+    # print confusion matrix
+    cm = sklearn.metrics.confusion_matrix(y_true=y_true, y_pred=y_pred)
+    print("Confusion matrix")
+    print(cm)
+
+    # print classification report
+    print(
+        sklearn.metrics.classification_report(
+            y_true, y_pred, target_names=["background", "car"]
+        )
+    )
 
 
 def get_car_sizes():
@@ -92,4 +153,4 @@ def get_car_sizes():
 
 
 if __name__ == "__main__":
-    fire.Fire(report_balance)
+    fire.Fire(human_val_classification_report)

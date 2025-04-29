@@ -1,0 +1,5002 @@
+[
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00012_label_1.jpg",
+    "id": 1677,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 648,
+    "created_at": "2025-04-28T23:31:38.348718Z",
+    "updated_at": "2025-04-28T23:31:38.348742Z",
+    "lead_time": 18.506
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00024_label_1.jpg",
+    "id": 1678,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 649,
+    "created_at": "2025-04-28T23:31:40.472616Z",
+    "updated_at": "2025-04-28T23:31:40.472649Z",
+    "lead_time": 1.341
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00031_label_0.jpg",
+    "id": 1679,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 650,
+    "created_at": "2025-04-28T23:31:42.438735Z",
+    "updated_at": "2025-04-28T23:31:42.438764Z",
+    "lead_time": 1.073
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00037_label_0.jpg",
+    "id": 1680,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 651,
+    "created_at": "2025-04-28T23:31:44.343591Z",
+    "updated_at": "2025-04-28T23:31:44.343624Z",
+    "lead_time": 1.055
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00038_label_1.jpg",
+    "id": 1681,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 652,
+    "created_at": "2025-04-28T23:31:46.073439Z",
+    "updated_at": "2025-04-28T23:31:46.073472Z",
+    "lead_time": 0.877
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00047_label_0.jpg",
+    "id": 1682,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 653,
+    "created_at": "2025-04-28T23:31:47.977691Z",
+    "updated_at": "2025-04-28T23:31:47.977723Z",
+    "lead_time": 1.026
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00068_label_1.jpg",
+    "id": 1683,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 654,
+    "created_at": "2025-04-28T23:31:49.714009Z",
+    "updated_at": "2025-04-28T23:31:49.714041Z",
+    "lead_time": 0.89
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00074_label_1.jpg",
+    "id": 1684,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 655,
+    "created_at": "2025-04-28T23:31:51.352202Z",
+    "updated_at": "2025-04-28T23:31:51.352237Z",
+    "lead_time": 0.748
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00075_label_0.jpg",
+    "id": 1685,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 656,
+    "created_at": "2025-04-28T23:31:53.380627Z",
+    "updated_at": "2025-04-28T23:31:53.380664Z",
+    "lead_time": 1.198
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00076_label_1.jpg",
+    "id": 1686,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 657,
+    "created_at": "2025-04-28T23:31:56.040572Z",
+    "updated_at": "2025-04-28T23:31:56.040605Z",
+    "lead_time": 1.611
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00100_label_1.jpg",
+    "id": 1687,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 658,
+    "created_at": "2025-04-28T23:31:58.039127Z",
+    "updated_at": "2025-04-28T23:31:58.039157Z",
+    "lead_time": 1.222
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00121_label_0.jpg",
+    "id": 1688,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 659,
+    "created_at": "2025-04-28T23:31:59.959624Z",
+    "updated_at": "2025-04-28T23:31:59.959651Z",
+    "lead_time": 1.039
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00123_label_0.jpg",
+    "id": 1689,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 660,
+    "created_at": "2025-04-28T23:32:01.717037Z",
+    "updated_at": "2025-04-28T23:32:01.717064Z",
+    "lead_time": 0.963
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00128_label_1.jpg",
+    "id": 1690,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 661,
+    "created_at": "2025-04-28T23:32:04.061740Z",
+    "updated_at": "2025-04-28T23:32:04.061769Z",
+    "lead_time": 1.559
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00133_label_0.jpg",
+    "id": 1691,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 662,
+    "created_at": "2025-04-28T23:32:06.056888Z",
+    "updated_at": "2025-04-28T23:32:06.056922Z",
+    "lead_time": 1.159
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00152_label_1.jpg",
+    "id": 1692,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 663,
+    "created_at": "2025-04-28T23:32:08.267895Z",
+    "updated_at": "2025-04-28T23:32:08.267925Z",
+    "lead_time": 1.383
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00175_label_0.jpg",
+    "id": 1693,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 664,
+    "created_at": "2025-04-28T23:32:10.056399Z",
+    "updated_at": "2025-04-28T23:32:10.056428Z",
+    "lead_time": 1.029
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00178_label_1.jpg",
+    "id": 1694,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 665,
+    "created_at": "2025-04-28T23:32:14.076607Z",
+    "updated_at": "2025-04-28T23:32:14.076641Z",
+    "lead_time": 3.262
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00184_label_1.jpg",
+    "id": 1695,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 666,
+    "created_at": "2025-04-28T23:32:16.407517Z",
+    "updated_at": "2025-04-28T23:32:16.407550Z",
+    "lead_time": 1.548
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00191_label_0.jpg",
+    "id": 1696,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 667,
+    "created_at": "2025-04-28T23:32:18.334575Z",
+    "updated_at": "2025-04-28T23:32:18.334604Z",
+    "lead_time": 1.112
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00198_label_1.jpg",
+    "id": 1697,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 668,
+    "created_at": "2025-04-28T23:32:20.533399Z",
+    "updated_at": "2025-04-28T23:32:20.533430Z",
+    "lead_time": 1.437
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00199_label_0.jpg",
+    "id": 1698,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 669,
+    "created_at": "2025-04-28T23:32:22.331012Z",
+    "updated_at": "2025-04-28T23:32:22.331039Z",
+    "lead_time": 0.954
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00206_label_1.jpg",
+    "id": 1699,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 670,
+    "created_at": "2025-04-28T23:32:24.111707Z",
+    "updated_at": "2025-04-28T23:32:24.111744Z",
+    "lead_time": 0.995
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00215_label_0.jpg",
+    "id": 1700,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 671,
+    "created_at": "2025-04-28T23:32:25.983396Z",
+    "updated_at": "2025-04-28T23:32:25.983427Z",
+    "lead_time": 1.024
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00223_label_0.jpg",
+    "id": 1701,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 672,
+    "created_at": "2025-04-28T23:32:28.594644Z",
+    "updated_at": "2025-04-28T23:32:28.594670Z",
+    "lead_time": 1.795
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00225_label_0.jpg",
+    "id": 1702,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 673,
+    "created_at": "2025-04-28T23:32:30.638413Z",
+    "updated_at": "2025-04-28T23:32:30.638441Z",
+    "lead_time": 1.241
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00231_label_0.jpg",
+    "id": 1703,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 674,
+    "created_at": "2025-04-28T23:32:32.763492Z",
+    "updated_at": "2025-04-28T23:32:32.763521Z",
+    "lead_time": 1.045
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00240_label_1.jpg",
+    "id": 1704,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 675,
+    "created_at": "2025-04-28T23:32:34.622670Z",
+    "updated_at": "2025-04-28T23:32:34.622697Z",
+    "lead_time": 0.983
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00269_label_0.jpg",
+    "id": 1705,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 676,
+    "created_at": "2025-04-28T23:32:36.810026Z",
+    "updated_at": "2025-04-28T23:32:36.810056Z",
+    "lead_time": 1.102
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00280_label_1.jpg",
+    "id": 1706,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 677,
+    "created_at": "2025-04-28T23:32:38.902950Z",
+    "updated_at": "2025-04-28T23:32:38.902985Z",
+    "lead_time": 1.214
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00286_label_1.jpg",
+    "id": 1707,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 678,
+    "created_at": "2025-04-28T23:32:40.764836Z",
+    "updated_at": "2025-04-28T23:32:40.764866Z",
+    "lead_time": 1.028
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00290_label_1.jpg",
+    "id": 1708,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 679,
+    "created_at": "2025-04-28T23:32:43.251441Z",
+    "updated_at": "2025-04-28T23:32:43.251481Z",
+    "lead_time": 1.644
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00309_label_0.jpg",
+    "id": 1709,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 680,
+    "created_at": "2025-04-28T23:32:45.899150Z",
+    "updated_at": "2025-04-28T23:32:45.899178Z",
+    "lead_time": 1.837
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00312_label_1.jpg",
+    "id": 1710,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 681,
+    "created_at": "2025-04-28T23:32:48.115880Z",
+    "updated_at": "2025-04-28T23:32:48.115913Z",
+    "lead_time": 1.247
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00316_label_1.jpg",
+    "id": 1711,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 682,
+    "created_at": "2025-04-28T23:32:50.420348Z",
+    "updated_at": "2025-04-28T23:32:50.420381Z",
+    "lead_time": 1.468
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00326_label_1.jpg",
+    "id": 1712,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 683,
+    "created_at": "2025-04-28T23:32:52.755425Z",
+    "updated_at": "2025-04-28T23:32:52.755463Z",
+    "lead_time": 1.448
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00333_label_0.jpg",
+    "id": 1713,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 684,
+    "created_at": "2025-04-28T23:32:54.776402Z",
+    "updated_at": "2025-04-28T23:32:54.776434Z",
+    "lead_time": 1.199
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00339_label_0.jpg",
+    "id": 1714,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 685,
+    "created_at": "2025-04-28T23:32:56.583219Z",
+    "updated_at": "2025-04-28T23:32:56.583253Z",
+    "lead_time": 0.934
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00347_label_0.jpg",
+    "id": 1715,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 686,
+    "created_at": "2025-04-28T23:32:58.532547Z",
+    "updated_at": "2025-04-28T23:32:58.532575Z",
+    "lead_time": 1.065
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00355_label_0.jpg",
+    "id": 1716,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 687,
+    "created_at": "2025-04-28T23:33:00.358715Z",
+    "updated_at": "2025-04-28T23:33:00.358746Z",
+    "lead_time": 0.949
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00362_label_1.jpg",
+    "id": 1717,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 688,
+    "created_at": "2025-04-28T23:33:02.597543Z",
+    "updated_at": "2025-04-28T23:33:02.597575Z",
+    "lead_time": 1.207
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00363_label_0.jpg",
+    "id": 1718,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 689,
+    "created_at": "2025-04-28T23:33:04.570391Z",
+    "updated_at": "2025-04-28T23:33:04.570421Z",
+    "lead_time": 1.145
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00364_label_1.jpg",
+    "id": 1719,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 690,
+    "created_at": "2025-04-28T23:33:06.497216Z",
+    "updated_at": "2025-04-28T23:33:06.497249Z",
+    "lead_time": 1.048
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00365_label_0.jpg",
+    "id": 1720,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 691,
+    "created_at": "2025-04-28T23:33:08.453870Z",
+    "updated_at": "2025-04-28T23:33:08.453909Z",
+    "lead_time": 1.057
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00377_label_0.jpg",
+    "id": 1721,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 692,
+    "created_at": "2025-04-28T23:33:10.766798Z",
+    "updated_at": "2025-04-28T23:33:10.766826Z",
+    "lead_time": 1.504
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00386_label_1.jpg",
+    "id": 1722,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 693,
+    "created_at": "2025-04-28T23:33:12.653396Z",
+    "updated_at": "2025-04-28T23:33:12.653425Z",
+    "lead_time": 1.005
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00392_label_1.jpg",
+    "id": 1723,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 694,
+    "created_at": "2025-04-28T23:33:14.511583Z",
+    "updated_at": "2025-04-28T23:33:14.511614Z",
+    "lead_time": 1.045
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00404_label_1.jpg",
+    "id": 1724,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 695,
+    "created_at": "2025-04-28T23:33:16.980172Z",
+    "updated_at": "2025-04-28T23:33:16.980202Z",
+    "lead_time": 1.544
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00419_label_0.jpg",
+    "id": 1725,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 696,
+    "created_at": "2025-04-28T23:33:18.922799Z",
+    "updated_at": "2025-04-28T23:33:18.922830Z",
+    "lead_time": 1.112
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00430_label_1.jpg",
+    "id": 1726,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 697,
+    "created_at": "2025-04-28T23:33:20.965398Z",
+    "updated_at": "2025-04-28T23:33:20.965434Z",
+    "lead_time": 1.148
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00431_label_0.jpg",
+    "id": 1727,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 698,
+    "created_at": "2025-04-28T23:33:24.145130Z",
+    "updated_at": "2025-04-28T23:33:24.145162Z",
+    "lead_time": 2.223
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00432_label_1.jpg",
+    "id": 1728,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 699,
+    "created_at": "2025-04-28T23:33:26.080883Z",
+    "updated_at": "2025-04-28T23:33:26.080920Z",
+    "lead_time": 1.057
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00434_label_1.jpg",
+    "id": 1729,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 700,
+    "created_at": "2025-04-28T23:33:27.911321Z",
+    "updated_at": "2025-04-28T23:33:27.911352Z",
+    "lead_time": 0.944
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00460_label_1.jpg",
+    "id": 1730,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 701,
+    "created_at": "2025-04-28T23:33:29.887500Z",
+    "updated_at": "2025-04-28T23:33:29.887530Z",
+    "lead_time": 0.912
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00489_label_0.jpg",
+    "id": 1731,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 702,
+    "created_at": "2025-04-28T23:33:31.926491Z",
+    "updated_at": "2025-04-28T23:33:31.926527Z",
+    "lead_time": 1.131
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00491_label_0.jpg",
+    "id": 1732,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 703,
+    "created_at": "2025-04-28T23:33:35.079374Z",
+    "updated_at": "2025-04-28T23:33:35.079405Z",
+    "lead_time": 2.253
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00510_label_1.jpg",
+    "id": 1733,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 704,
+    "created_at": "2025-04-28T23:33:36.989860Z",
+    "updated_at": "2025-04-28T23:33:36.989890Z",
+    "lead_time": 1.057
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00527_label_0.jpg",
+    "id": 1734,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 705,
+    "created_at": "2025-04-28T23:33:38.962631Z",
+    "updated_at": "2025-04-28T23:33:38.962663Z",
+    "lead_time": 1.144
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00537_label_0.jpg",
+    "id": 1735,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 706,
+    "created_at": "2025-04-28T23:33:41.088041Z",
+    "updated_at": "2025-04-28T23:33:41.088068Z",
+    "lead_time": 1.294
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00544_label_1.jpg",
+    "id": 1736,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 707,
+    "created_at": "2025-04-28T23:33:43.010277Z",
+    "updated_at": "2025-04-28T23:33:43.010312Z",
+    "lead_time": 1.014
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00556_label_1.jpg",
+    "id": 1737,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 708,
+    "created_at": "2025-04-28T23:33:44.756096Z",
+    "updated_at": "2025-04-28T23:33:44.756136Z",
+    "lead_time": 0.902
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00558_label_1.jpg",
+    "id": 1738,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 709,
+    "created_at": "2025-04-28T23:33:46.586922Z",
+    "updated_at": "2025-04-28T23:33:46.586951Z",
+    "lead_time": 0.989
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00564_label_1.jpg",
+    "id": 1739,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 710,
+    "created_at": "2025-04-28T23:33:48.283188Z",
+    "updated_at": "2025-04-28T23:33:48.283220Z",
+    "lead_time": 0.858
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00592_label_1.jpg",
+    "id": 1740,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 711,
+    "created_at": "2025-04-28T23:33:49.947251Z",
+    "updated_at": "2025-04-28T23:33:49.947288Z",
+    "lead_time": 0.858
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00596_label_1.jpg",
+    "id": 1741,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 712,
+    "created_at": "2025-04-28T23:33:51.700726Z",
+    "updated_at": "2025-04-28T23:33:51.700755Z",
+    "lead_time": 0.855
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00610_label_1.jpg",
+    "id": 1742,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 713,
+    "created_at": "2025-04-28T23:33:53.544144Z",
+    "updated_at": "2025-04-28T23:33:53.544186Z",
+    "lead_time": 0.965
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00616_label_1.jpg",
+    "id": 1743,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 714,
+    "created_at": "2025-04-28T23:33:55.243317Z",
+    "updated_at": "2025-04-28T23:33:55.243357Z",
+    "lead_time": 0.829
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00619_label_0.jpg",
+    "id": 1744,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 715,
+    "created_at": "2025-04-28T23:33:57.166467Z",
+    "updated_at": "2025-04-28T23:33:57.166493Z",
+    "lead_time": 1.074
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00629_label_0.jpg",
+    "id": 1745,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 716,
+    "created_at": "2025-04-28T23:33:59.236783Z",
+    "updated_at": "2025-04-28T23:33:59.236816Z",
+    "lead_time": 1.222
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00643_label_0.jpg",
+    "id": 1746,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 717,
+    "created_at": "2025-04-28T23:34:01.346306Z",
+    "updated_at": "2025-04-28T23:34:01.346336Z",
+    "lead_time": 1.142
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00657_label_0.jpg",
+    "id": 1747,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 718,
+    "created_at": "2025-04-28T23:34:03.172789Z",
+    "updated_at": "2025-04-28T23:34:03.172816Z",
+    "lead_time": 0.983
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00666_label_1.jpg",
+    "id": 1748,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 719,
+    "created_at": "2025-04-28T23:34:05.045226Z",
+    "updated_at": "2025-04-28T23:34:05.045254Z",
+    "lead_time": 1.014
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00669_label_0.jpg",
+    "id": 1749,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 720,
+    "created_at": "2025-04-28T23:34:07.708904Z",
+    "updated_at": "2025-04-28T23:34:07.708930Z",
+    "lead_time": 1.801
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00687_label_0.jpg",
+    "id": 1750,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 721,
+    "created_at": "2025-04-28T23:34:09.668629Z",
+    "updated_at": "2025-04-28T23:34:09.668652Z",
+    "lead_time": 1.102
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00693_label_0.jpg",
+    "id": 1751,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 723,
+    "created_at": "2025-04-28T23:35:16.991845Z",
+    "updated_at": "2025-04-28T23:35:16.991874Z",
+    "lead_time": 10.22
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00696_label_1.jpg",
+    "id": 1752,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 722,
+    "created_at": "2025-04-28T23:35:10.295463Z",
+    "updated_at": "2025-04-28T23:35:10.295490Z",
+    "lead_time": 4.429
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00698_label_1.jpg",
+    "id": 1753,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 724,
+    "created_at": "2025-04-28T23:35:23.902362Z",
+    "updated_at": "2025-04-28T23:35:23.902393Z",
+    "lead_time": 6.106
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00701_label_0.jpg",
+    "id": 1754,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 725,
+    "created_at": "2025-04-28T23:35:26.873339Z",
+    "updated_at": "2025-04-28T23:35:26.873367Z",
+    "lead_time": 2.032
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00706_label_1.jpg",
+    "id": 1755,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 726,
+    "created_at": "2025-04-28T23:35:29.054432Z",
+    "updated_at": "2025-04-28T23:35:29.054466Z",
+    "lead_time": 1.268
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00790_label_1.jpg",
+    "id": 1756,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 727,
+    "created_at": "2025-04-28T23:35:31.191685Z",
+    "updated_at": "2025-04-28T23:35:31.191717Z",
+    "lead_time": 1.223
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00795_label_0.jpg",
+    "id": 1757,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 728,
+    "created_at": "2025-04-28T23:35:33.483668Z",
+    "updated_at": "2025-04-28T23:35:33.483702Z",
+    "lead_time": 1.378
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00796_label_1.jpg",
+    "id": 1758,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 729,
+    "created_at": "2025-04-28T23:35:35.616574Z",
+    "updated_at": "2025-04-28T23:35:35.616604Z",
+    "lead_time": 1.142
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00810_label_1.jpg",
+    "id": 1759,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 730,
+    "created_at": "2025-04-28T23:35:37.732626Z",
+    "updated_at": "2025-04-28T23:35:37.732652Z",
+    "lead_time": 1.098
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00813_label_0.jpg",
+    "id": 1760,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 731,
+    "created_at": "2025-04-28T23:36:13.621618Z",
+    "updated_at": "2025-04-28T23:36:13.621646Z",
+    "lead_time": 34.837
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00863_label_0.jpg",
+    "id": 1761,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 732,
+    "created_at": "2025-04-28T23:36:17.951004Z",
+    "updated_at": "2025-04-28T23:36:17.951034Z",
+    "lead_time": 3.375
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00865_label_0.jpg",
+    "id": 1762,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 733,
+    "created_at": "2025-04-28T23:36:21.290714Z",
+    "updated_at": "2025-04-28T23:36:21.290747Z",
+    "lead_time": 2.15
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00872_label_1.jpg",
+    "id": 1763,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 734,
+    "created_at": "2025-04-28T23:36:23.507179Z",
+    "updated_at": "2025-04-28T23:36:23.507210Z",
+    "lead_time": 1.296
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00885_label_0.jpg",
+    "id": 1764,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 735,
+    "created_at": "2025-04-28T23:36:25.521915Z",
+    "updated_at": "2025-04-28T23:36:25.521943Z",
+    "lead_time": 1.06
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00910_label_1.jpg",
+    "id": 1765,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 736,
+    "created_at": "2025-04-28T23:36:27.568644Z",
+    "updated_at": "2025-04-28T23:36:27.568671Z",
+    "lead_time": 1.157
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00911_label_0.jpg",
+    "id": 1766,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 737,
+    "created_at": "2025-04-28T23:36:29.645406Z",
+    "updated_at": "2025-04-28T23:36:29.645438Z",
+    "lead_time": 1.173
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00917_label_0.jpg",
+    "id": 1767,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 738,
+    "created_at": "2025-04-28T23:36:31.626477Z",
+    "updated_at": "2025-04-28T23:36:31.626515Z",
+    "lead_time": 0.987
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00919_label_0.jpg",
+    "id": 1768,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 739,
+    "created_at": "2025-04-28T23:37:00.240809Z",
+    "updated_at": "2025-04-28T23:37:00.240840Z",
+    "lead_time": 27.651
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00924_label_1.jpg",
+    "id": 1769,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 740,
+    "created_at": "2025-04-28T23:37:11.607697Z",
+    "updated_at": "2025-04-28T23:37:11.607728Z",
+    "lead_time": 10.415
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00947_label_0.jpg",
+    "id": 1770,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 741,
+    "created_at": "2025-04-28T23:37:15.029780Z",
+    "updated_at": "2025-04-28T23:37:15.029813Z",
+    "lead_time": 2.503
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00957_label_0.jpg",
+    "id": 1771,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 742,
+    "created_at": "2025-04-28T23:37:17.720269Z",
+    "updated_at": "2025-04-28T23:37:17.720297Z",
+    "lead_time": 1.697
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00981_label_0.jpg",
+    "id": 1772,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 743,
+    "created_at": "2025-04-28T23:37:19.749074Z",
+    "updated_at": "2025-04-28T23:37:19.749100Z",
+    "lead_time": 1.151
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_00996_label_1.jpg",
+    "id": 1773,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 744,
+    "created_at": "2025-04-28T23:37:21.855187Z",
+    "updated_at": "2025-04-28T23:37:21.855218Z",
+    "lead_time": 1.16
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01039_label_0.jpg",
+    "id": 1774,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 745,
+    "created_at": "2025-04-28T23:37:28.113184Z",
+    "updated_at": "2025-04-28T23:37:28.113219Z",
+    "lead_time": 5.117
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01043_label_0.jpg",
+    "id": 1775,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 746,
+    "created_at": "2025-04-28T23:37:30.846661Z",
+    "updated_at": "2025-04-28T23:37:30.846694Z",
+    "lead_time": 1.744
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01065_label_0.jpg",
+    "id": 1776,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 747,
+    "created_at": "2025-04-28T23:37:32.815132Z",
+    "updated_at": "2025-04-28T23:37:32.815161Z",
+    "lead_time": 1.074
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01072_label_1.jpg",
+    "id": 1777,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 748,
+    "created_at": "2025-04-28T23:37:34.912366Z",
+    "updated_at": "2025-04-28T23:37:34.912397Z",
+    "lead_time": 1.146
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01074_label_1.jpg",
+    "id": 1778,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 749,
+    "created_at": "2025-04-28T23:37:36.906208Z",
+    "updated_at": "2025-04-28T23:37:36.906235Z",
+    "lead_time": 0.966
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01079_label_0.jpg",
+    "id": 1779,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 750,
+    "created_at": "2025-04-28T23:37:39.063410Z",
+    "updated_at": "2025-04-28T23:37:39.063440Z",
+    "lead_time": 1.171
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01093_label_0.jpg",
+    "id": 1780,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 751,
+    "created_at": "2025-04-28T23:37:40.961024Z",
+    "updated_at": "2025-04-28T23:37:40.961059Z",
+    "lead_time": 0.966
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01102_label_1.jpg",
+    "id": 1781,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 752,
+    "created_at": "2025-04-28T23:37:42.956221Z",
+    "updated_at": "2025-04-28T23:37:42.956253Z",
+    "lead_time": 1.096
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01107_label_0.jpg",
+    "id": 1782,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 753,
+    "created_at": "2025-04-28T23:37:44.937752Z",
+    "updated_at": "2025-04-28T23:37:44.937785Z",
+    "lead_time": 1.018
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01117_label_0.jpg",
+    "id": 1783,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 754,
+    "created_at": "2025-04-28T23:37:46.851784Z",
+    "updated_at": "2025-04-28T23:37:46.851818Z",
+    "lead_time": 0.963
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01140_label_1.jpg",
+    "id": 1784,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 755,
+    "created_at": "2025-04-28T23:37:49.036700Z",
+    "updated_at": "2025-04-28T23:37:49.036739Z",
+    "lead_time": 1.153
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01148_label_1.jpg",
+    "id": 1785,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 756,
+    "created_at": "2025-04-28T23:37:51.085146Z",
+    "updated_at": "2025-04-28T23:37:51.085176Z",
+    "lead_time": 1.135
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01166_label_1.jpg",
+    "id": 1786,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 757,
+    "created_at": "2025-04-28T23:37:53.156763Z",
+    "updated_at": "2025-04-28T23:37:53.156793Z",
+    "lead_time": 0.982
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01170_label_1.jpg",
+    "id": 1787,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 758,
+    "created_at": "2025-04-28T23:37:55.053718Z",
+    "updated_at": "2025-04-28T23:37:55.053749Z",
+    "lead_time": 0.952
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01202_label_1.jpg",
+    "id": 1788,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 759,
+    "created_at": "2025-04-28T23:37:57.082905Z",
+    "updated_at": "2025-04-28T23:37:57.082938Z",
+    "lead_time": 1.045
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01212_label_1.jpg",
+    "id": 1789,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 760,
+    "created_at": "2025-04-28T23:38:00.213950Z",
+    "updated_at": "2025-04-28T23:38:00.213980Z",
+    "lead_time": 2.139
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01215_label_0.jpg",
+    "id": 1790,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 761,
+    "created_at": "2025-04-28T23:38:02.392858Z",
+    "updated_at": "2025-04-28T23:38:02.392889Z",
+    "lead_time": 1.225
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01229_label_0.jpg",
+    "id": 1791,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 762,
+    "created_at": "2025-04-28T23:38:10.712462Z",
+    "updated_at": "2025-04-28T23:38:10.712493Z",
+    "lead_time": 7.386
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01243_label_0.jpg",
+    "id": 1792,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 763,
+    "created_at": "2025-04-28T23:38:52.944149Z",
+    "updated_at": "2025-04-28T23:38:52.944181Z",
+    "lead_time": 41.246
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01253_label_0.jpg",
+    "id": 1793,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 764,
+    "created_at": "2025-04-28T23:38:57.411505Z",
+    "updated_at": "2025-04-28T23:38:57.411540Z",
+    "lead_time": 3.487
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01268_label_1.jpg",
+    "id": 1794,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 765,
+    "created_at": "2025-04-28T23:39:24.101372Z",
+    "updated_at": "2025-04-28T23:39:24.101398Z",
+    "lead_time": 25.709
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01274_label_1.jpg",
+    "id": 1795,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 766,
+    "created_at": "2025-04-28T23:39:27.271935Z",
+    "updated_at": "2025-04-28T23:39:27.271976Z",
+    "lead_time": 2.182
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01290_label_1.jpg",
+    "id": 1796,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 767,
+    "created_at": "2025-04-28T23:39:29.496662Z",
+    "updated_at": "2025-04-28T23:39:29.496689Z",
+    "lead_time": 1.23
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01295_label_0.jpg",
+    "id": 1797,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 768,
+    "created_at": "2025-04-28T23:39:31.946285Z",
+    "updated_at": "2025-04-28T23:39:31.946314Z",
+    "lead_time": 1.536
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01304_label_1.jpg",
+    "id": 1798,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 769,
+    "created_at": "2025-04-28T23:39:33.882573Z",
+    "updated_at": "2025-04-28T23:39:33.882603Z",
+    "lead_time": 1.004
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01313_label_0.jpg",
+    "id": 1799,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 770,
+    "created_at": "2025-04-28T23:39:36.118643Z",
+    "updated_at": "2025-04-28T23:39:36.118677Z",
+    "lead_time": 1.187
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01314_label_1.jpg",
+    "id": 1800,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 771,
+    "created_at": "2025-04-28T23:39:38.283754Z",
+    "updated_at": "2025-04-28T23:39:38.283782Z",
+    "lead_time": 1.195
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01316_label_1.jpg",
+    "id": 1801,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 772,
+    "created_at": "2025-04-28T23:39:40.128641Z",
+    "updated_at": "2025-04-28T23:39:40.128682Z",
+    "lead_time": 0.931
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01317_label_0.jpg",
+    "id": 1802,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 773,
+    "created_at": "2025-04-28T23:39:42.186075Z",
+    "updated_at": "2025-04-28T23:39:42.186102Z",
+    "lead_time": 1.064
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01319_label_0.jpg",
+    "id": 1803,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 774,
+    "created_at": "2025-04-28T23:39:44.064497Z",
+    "updated_at": "2025-04-28T23:39:44.064523Z",
+    "lead_time": 0.979
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01328_label_1.jpg",
+    "id": 1804,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 775,
+    "created_at": "2025-04-28T23:39:46.082179Z",
+    "updated_at": "2025-04-28T23:39:46.082211Z",
+    "lead_time": 1.079
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01335_label_0.jpg",
+    "id": 1805,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 776,
+    "created_at": "2025-04-28T23:39:48.211350Z",
+    "updated_at": "2025-04-28T23:39:48.211377Z",
+    "lead_time": 1.137
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01360_label_1.jpg",
+    "id": 1806,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 777,
+    "created_at": "2025-04-28T23:39:50.065451Z",
+    "updated_at": "2025-04-28T23:39:50.065487Z",
+    "lead_time": 0.922
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01369_label_0.jpg",
+    "id": 1807,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 778,
+    "created_at": "2025-04-28T23:39:52.017921Z",
+    "updated_at": "2025-04-28T23:39:52.017950Z",
+    "lead_time": 1.049
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01372_label_1.jpg",
+    "id": 1808,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 779,
+    "created_at": "2025-04-28T23:39:54.003374Z",
+    "updated_at": "2025-04-28T23:39:54.003404Z",
+    "lead_time": 0.968
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01375_label_0.jpg",
+    "id": 1809,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 780,
+    "created_at": "2025-04-28T23:39:56.000131Z",
+    "updated_at": "2025-04-28T23:39:56.000161Z",
+    "lead_time": 1.081
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01382_label_1.jpg",
+    "id": 1810,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 781,
+    "created_at": "2025-04-28T23:39:58.270064Z",
+    "updated_at": "2025-04-28T23:39:58.270101Z",
+    "lead_time": 1.353
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01386_label_1.jpg",
+    "id": 1811,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 782,
+    "created_at": "2025-04-28T23:40:00.267553Z",
+    "updated_at": "2025-04-28T23:40:00.267581Z",
+    "lead_time": 1.013
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01418_label_1.jpg",
+    "id": 1812,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 783,
+    "created_at": "2025-04-28T23:40:16.722856Z",
+    "updated_at": "2025-04-28T23:40:16.722882Z",
+    "lead_time": 15.495
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01456_label_1.jpg",
+    "id": 1813,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 784,
+    "created_at": "2025-04-28T23:40:20.735335Z",
+    "updated_at": "2025-04-28T23:40:20.735364Z",
+    "lead_time": 3.02
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01466_label_1.jpg",
+    "id": 1814,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 785,
+    "created_at": "2025-04-28T23:40:53.043883Z",
+    "updated_at": "2025-04-28T23:40:53.043913Z",
+    "lead_time": 31.308
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01475_label_0.jpg",
+    "id": 1815,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 786,
+    "created_at": "2025-04-28T23:40:55.132384Z",
+    "updated_at": "2025-04-28T23:40:55.132411Z",
+    "lead_time": 1.148
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01492_label_1.jpg",
+    "id": 1816,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 787,
+    "created_at": "2025-04-28T23:40:57.472590Z",
+    "updated_at": "2025-04-28T23:40:57.472622Z",
+    "lead_time": 1.368
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01498_label_1.jpg",
+    "id": 1817,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 788,
+    "created_at": "2025-04-28T23:40:59.606896Z",
+    "updated_at": "2025-04-28T23:40:59.606924Z",
+    "lead_time": 1.194
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01506_label_1.jpg",
+    "id": 1818,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 789,
+    "created_at": "2025-04-28T23:41:01.839592Z",
+    "updated_at": "2025-04-28T23:41:01.839619Z",
+    "lead_time": 1.271
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01515_label_0.jpg",
+    "id": 1819,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 790,
+    "created_at": "2025-04-28T23:41:03.891231Z",
+    "updated_at": "2025-04-28T23:41:03.891261Z",
+    "lead_time": 1.088
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01531_label_0.jpg",
+    "id": 1820,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 791,
+    "created_at": "2025-04-28T23:41:05.924571Z",
+    "updated_at": "2025-04-28T23:41:05.924598Z",
+    "lead_time": 0.958
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01537_label_0.jpg",
+    "id": 1821,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 792,
+    "created_at": "2025-04-28T23:41:07.992053Z",
+    "updated_at": "2025-04-28T23:41:07.992082Z",
+    "lead_time": 1.087
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01549_label_0.jpg",
+    "id": 1822,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 793,
+    "created_at": "2025-04-28T23:41:09.988397Z",
+    "updated_at": "2025-04-28T23:41:09.988433Z",
+    "lead_time": 1.043
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01550_label_1.jpg",
+    "id": 1823,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 794,
+    "created_at": "2025-04-28T23:41:12.124633Z",
+    "updated_at": "2025-04-28T23:41:12.124660Z",
+    "lead_time": 1.196
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01551_label_0.jpg",
+    "id": 1824,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 795,
+    "created_at": "2025-04-28T23:41:14.219082Z",
+    "updated_at": "2025-04-28T23:41:14.219114Z",
+    "lead_time": 1.117
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01567_label_0.jpg",
+    "id": 1825,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 796,
+    "created_at": "2025-04-28T23:41:16.039526Z",
+    "updated_at": "2025-04-28T23:41:16.039558Z",
+    "lead_time": 0.865
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01569_label_0.jpg",
+    "id": 1826,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 797,
+    "created_at": "2025-04-28T23:41:18.126880Z",
+    "updated_at": "2025-04-28T23:41:18.126914Z",
+    "lead_time": 1.16
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01577_label_0.jpg",
+    "id": 1827,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 798,
+    "created_at": "2025-04-28T23:41:20.234111Z",
+    "updated_at": "2025-04-28T23:41:20.234136Z",
+    "lead_time": 1.049
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01627_label_0.jpg",
+    "id": 1828,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 799,
+    "created_at": "2025-04-28T23:41:22.078475Z",
+    "updated_at": "2025-04-28T23:41:22.078511Z",
+    "lead_time": 0.865
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01632_label_1.jpg",
+    "id": 1829,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 800,
+    "created_at": "2025-04-28T23:41:48.330080Z",
+    "updated_at": "2025-04-28T23:41:48.330108Z",
+    "lead_time": 25.262
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01638_label_1.jpg",
+    "id": 1830,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 801,
+    "created_at": "2025-04-28T23:41:50.456902Z",
+    "updated_at": "2025-04-28T23:41:50.456929Z",
+    "lead_time": 1.199
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01667_label_0.jpg",
+    "id": 1831,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 802,
+    "created_at": "2025-04-28T23:41:54.531759Z",
+    "updated_at": "2025-04-28T23:41:54.531784Z",
+    "lead_time": 3.074
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01690_label_1.jpg",
+    "id": 1832,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 803,
+    "created_at": "2025-04-28T23:41:57.485606Z",
+    "updated_at": "2025-04-28T23:41:57.485639Z",
+    "lead_time": 1.994
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01693_label_0.jpg",
+    "id": 1833,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 804,
+    "created_at": "2025-04-28T23:42:00.233615Z",
+    "updated_at": "2025-04-28T23:42:00.233651Z",
+    "lead_time": 1.663
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01716_label_1.jpg",
+    "id": 1834,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 805,
+    "created_at": "2025-04-28T23:42:02.529644Z",
+    "updated_at": "2025-04-28T23:42:02.529673Z",
+    "lead_time": 1.319
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01724_label_1.jpg",
+    "id": 1835,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 806,
+    "created_at": "2025-04-28T23:42:04.601771Z",
+    "updated_at": "2025-04-28T23:42:04.601799Z",
+    "lead_time": 1.104
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01729_label_0.jpg",
+    "id": 1836,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 807,
+    "created_at": "2025-04-28T23:42:06.755578Z",
+    "updated_at": "2025-04-28T23:42:06.755613Z",
+    "lead_time": 1.212
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01734_label_1.jpg",
+    "id": 1837,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 808,
+    "created_at": "2025-04-28T23:42:09.240479Z",
+    "updated_at": "2025-04-28T23:42:09.240506Z",
+    "lead_time": 1.507
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01746_label_1.jpg",
+    "id": 1838,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 809,
+    "created_at": "2025-04-28T23:42:11.839487Z",
+    "updated_at": "2025-04-28T23:42:11.839527Z",
+    "lead_time": 1.248
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01753_label_0.jpg",
+    "id": 1839,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 810,
+    "created_at": "2025-04-28T23:42:13.954397Z",
+    "updated_at": "2025-04-28T23:42:13.954429Z",
+    "lead_time": 1.096
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01765_label_0.jpg",
+    "id": 1840,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 811,
+    "created_at": "2025-04-28T23:42:16.027175Z",
+    "updated_at": "2025-04-28T23:42:16.027202Z",
+    "lead_time": 0.936
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01770_label_1.jpg",
+    "id": 1841,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 812,
+    "created_at": "2025-04-28T23:42:18.697825Z",
+    "updated_at": "2025-04-28T23:42:18.697860Z",
+    "lead_time": 1.719
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01775_label_0.jpg",
+    "id": 1842,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 813,
+    "created_at": "2025-04-28T23:42:20.896935Z",
+    "updated_at": "2025-04-28T23:42:20.896967Z",
+    "lead_time": 1.218
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01783_label_0.jpg",
+    "id": 1843,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 814,
+    "created_at": "2025-04-28T23:42:23.181761Z",
+    "updated_at": "2025-04-28T23:42:23.181793Z",
+    "lead_time": 1.244
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01797_label_0.jpg",
+    "id": 1844,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 815,
+    "created_at": "2025-04-28T23:42:25.280318Z",
+    "updated_at": "2025-04-28T23:42:25.280351Z",
+    "lead_time": 1.144
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01803_label_0.jpg",
+    "id": 1845,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 816,
+    "created_at": "2025-04-28T23:42:27.174090Z",
+    "updated_at": "2025-04-28T23:42:27.174117Z",
+    "lead_time": 0.916
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01831_label_0.jpg",
+    "id": 1846,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 817,
+    "created_at": "2025-04-28T23:42:30.019419Z",
+    "updated_at": "2025-04-28T23:42:30.019444Z",
+    "lead_time": 1.848
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01836_label_1.jpg",
+    "id": 1847,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 818,
+    "created_at": "2025-04-28T23:42:32.069221Z",
+    "updated_at": "2025-04-28T23:42:32.069254Z",
+    "lead_time": 1.035
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01844_label_1.jpg",
+    "id": 1848,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 819,
+    "created_at": "2025-04-28T23:42:34.184477Z",
+    "updated_at": "2025-04-28T23:42:34.184504Z",
+    "lead_time": 1.058
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01869_label_0.jpg",
+    "id": 1849,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 820,
+    "created_at": "2025-04-28T23:42:36.604025Z",
+    "updated_at": "2025-04-28T23:42:36.604057Z",
+    "lead_time": 1.424
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01900_label_1.jpg",
+    "id": 1850,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 821,
+    "created_at": "2025-04-28T23:42:39.695497Z",
+    "updated_at": "2025-04-28T23:42:39.695530Z",
+    "lead_time": 2.134
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01903_label_0.jpg",
+    "id": 1851,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 822,
+    "created_at": "2025-04-28T23:42:41.812220Z",
+    "updated_at": "2025-04-28T23:42:41.812248Z",
+    "lead_time": 1.08
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01910_label_1.jpg",
+    "id": 1852,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 823,
+    "created_at": "2025-04-28T23:42:43.985397Z",
+    "updated_at": "2025-04-28T23:42:43.985422Z",
+    "lead_time": 1.167
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01918_label_1.jpg",
+    "id": 1853,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 824,
+    "created_at": "2025-04-28T23:42:45.936968Z",
+    "updated_at": "2025-04-28T23:42:45.936996Z",
+    "lead_time": 0.95
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01927_label_0.jpg",
+    "id": 1854,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 825,
+    "created_at": "2025-04-28T23:42:48.026483Z",
+    "updated_at": "2025-04-28T23:42:48.026514Z",
+    "lead_time": 1.101
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01934_label_1.jpg",
+    "id": 1855,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 826,
+    "created_at": "2025-04-28T23:42:50.479471Z",
+    "updated_at": "2025-04-28T23:42:50.479497Z",
+    "lead_time": 1.309
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01936_label_1.jpg",
+    "id": 1856,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 827,
+    "created_at": "2025-04-28T23:42:55.525304Z",
+    "updated_at": "2025-04-28T23:42:55.525331Z",
+    "lead_time": 3.957
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01947_label_0.jpg",
+    "id": 1857,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 828,
+    "created_at": "2025-04-28T23:42:57.866311Z",
+    "updated_at": "2025-04-28T23:42:57.866338Z",
+    "lead_time": 1.405
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01948_label_1.jpg",
+    "id": 1858,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 829,
+    "created_at": "2025-04-28T23:43:16.881826Z",
+    "updated_at": "2025-04-28T23:43:16.881854Z",
+    "lead_time": 17.964
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01960_label_1.jpg",
+    "id": 1859,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 830,
+    "created_at": "2025-04-28T23:43:19.952210Z",
+    "updated_at": "2025-04-28T23:43:19.952240Z",
+    "lead_time": 1.994
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01965_label_0.jpg",
+    "id": 1860,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 831,
+    "created_at": "2025-04-28T23:43:22.980041Z",
+    "updated_at": "2025-04-28T23:43:22.980067Z",
+    "lead_time": 2.015
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01970_label_1.jpg",
+    "id": 1861,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 832,
+    "created_at": "2025-04-28T23:43:25.065473Z",
+    "updated_at": "2025-04-28T23:43:25.065511Z",
+    "lead_time": 1.034
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01978_label_1.jpg",
+    "id": 1862,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 833,
+    "created_at": "2025-04-28T23:43:28.005593Z",
+    "updated_at": "2025-04-28T23:43:28.005625Z",
+    "lead_time": 1.946
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_01993_label_0.jpg",
+    "id": 1863,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 834,
+    "created_at": "2025-04-28T23:43:30.505773Z",
+    "updated_at": "2025-04-28T23:43:30.505810Z",
+    "lead_time": 1.484
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02008_label_1.jpg",
+    "id": 1864,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 835,
+    "created_at": "2025-04-28T23:43:33.025506Z",
+    "updated_at": "2025-04-28T23:43:33.025533Z",
+    "lead_time": 1.418
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02041_label_0.jpg",
+    "id": 1865,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 836,
+    "created_at": "2025-04-28T23:43:35.029335Z",
+    "updated_at": "2025-04-28T23:43:35.029371Z",
+    "lead_time": 0.999
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02045_label_0.jpg",
+    "id": 1866,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 837,
+    "created_at": "2025-04-28T23:43:37.084127Z",
+    "updated_at": "2025-04-28T23:43:37.084156Z",
+    "lead_time": 1.018
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02073_label_0.jpg",
+    "id": 1867,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 838,
+    "created_at": "2025-04-28T23:43:39.371211Z",
+    "updated_at": "2025-04-28T23:43:39.371238Z",
+    "lead_time": 1.274
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02077_label_0.jpg",
+    "id": 1868,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 839,
+    "created_at": "2025-04-28T23:43:41.442702Z",
+    "updated_at": "2025-04-28T23:43:41.442731Z",
+    "lead_time": 1.062
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02079_label_0.jpg",
+    "id": 1869,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 840,
+    "created_at": "2025-04-28T23:43:43.387689Z",
+    "updated_at": "2025-04-28T23:43:43.387722Z",
+    "lead_time": 0.861
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02087_label_0.jpg",
+    "id": 1870,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 841,
+    "created_at": "2025-04-28T23:43:45.450261Z",
+    "updated_at": "2025-04-28T23:43:45.450288Z",
+    "lead_time": 1.079
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02098_label_1.jpg",
+    "id": 1871,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 842,
+    "created_at": "2025-04-28T23:43:47.574547Z",
+    "updated_at": "2025-04-28T23:43:47.574573Z",
+    "lead_time": 1.161
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02143_label_0.jpg",
+    "id": 1872,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 843,
+    "created_at": "2025-04-28T23:43:49.701296Z",
+    "updated_at": "2025-04-28T23:43:49.701323Z",
+    "lead_time": 1.001
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02158_label_1.jpg",
+    "id": 1873,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 844,
+    "created_at": "2025-04-28T23:43:51.979904Z",
+    "updated_at": "2025-04-28T23:43:51.979932Z",
+    "lead_time": 1.062
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02168_label_1.jpg",
+    "id": 1874,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 845,
+    "created_at": "2025-04-28T23:43:54.044014Z",
+    "updated_at": "2025-04-28T23:43:54.044041Z",
+    "lead_time": 1.04
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02183_label_0.jpg",
+    "id": 1875,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 846,
+    "created_at": "2025-04-28T23:43:58.101164Z",
+    "updated_at": "2025-04-28T23:43:58.101201Z",
+    "lead_time": 3.021
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02187_label_0.jpg",
+    "id": 1876,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 847,
+    "created_at": "2025-04-28T23:44:00.540836Z",
+    "updated_at": "2025-04-28T23:44:00.540863Z",
+    "lead_time": 0.988
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02196_label_1.jpg",
+    "id": 1877,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 848,
+    "created_at": "2025-04-28T23:44:02.675263Z",
+    "updated_at": "2025-04-28T23:44:11.247307Z",
+    "lead_time": 3.5839999999999996
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02203_label_0.jpg",
+    "id": 1878,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 849,
+    "created_at": "2025-04-28T23:44:18.483929Z",
+    "updated_at": "2025-04-28T23:44:18.483964Z",
+    "lead_time": 3.291
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02222_label_1.jpg",
+    "id": 1879,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 850,
+    "created_at": "2025-04-28T23:44:21.483316Z",
+    "updated_at": "2025-04-28T23:44:21.483342Z",
+    "lead_time": 1.815
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02256_label_1.jpg",
+    "id": 1880,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 851,
+    "created_at": "2025-04-28T23:44:23.865604Z",
+    "updated_at": "2025-04-28T23:44:23.865633Z",
+    "lead_time": 1.384
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02272_label_1.jpg",
+    "id": 1881,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 852,
+    "created_at": "2025-04-28T23:44:26.194845Z",
+    "updated_at": "2025-04-28T23:44:26.194879Z",
+    "lead_time": 1.251
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02285_label_0.jpg",
+    "id": 1882,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 853,
+    "created_at": "2025-04-28T23:44:28.240402Z",
+    "updated_at": "2025-04-28T23:44:28.240430Z",
+    "lead_time": 1.028
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02297_label_0.jpg",
+    "id": 1883,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 854,
+    "created_at": "2025-04-28T23:44:31.682102Z",
+    "updated_at": "2025-04-28T23:44:31.682132Z",
+    "lead_time": 2.337
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02301_label_0.jpg",
+    "id": 1884,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 855,
+    "created_at": "2025-04-28T23:44:34.064192Z",
+    "updated_at": "2025-04-28T23:44:34.064222Z",
+    "lead_time": 1.35
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02313_label_0.jpg",
+    "id": 1885,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 856,
+    "created_at": "2025-04-28T23:44:36.149776Z",
+    "updated_at": "2025-04-28T23:44:36.149805Z",
+    "lead_time": 1.028
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02319_label_0.jpg",
+    "id": 1886,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 857,
+    "created_at": "2025-04-28T23:44:38.328237Z",
+    "updated_at": "2025-04-28T23:44:38.328264Z",
+    "lead_time": 1.026
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02324_label_1.jpg",
+    "id": 1887,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 858,
+    "created_at": "2025-04-28T23:44:40.853710Z",
+    "updated_at": "2025-04-28T23:44:40.853738Z",
+    "lead_time": 1.45
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02331_label_0.jpg",
+    "id": 1888,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 859,
+    "created_at": "2025-04-28T23:44:43.509288Z",
+    "updated_at": "2025-04-28T23:44:43.509318Z",
+    "lead_time": 1.61
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02344_label_1.jpg",
+    "id": 1889,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 860,
+    "created_at": "2025-04-28T23:45:03.299012Z",
+    "updated_at": "2025-04-28T23:45:03.299052Z",
+    "lead_time": 18.736
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02347_label_0.jpg",
+    "id": 1890,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 861,
+    "created_at": "2025-04-28T23:45:25.291506Z",
+    "updated_at": "2025-04-28T23:45:25.291534Z",
+    "lead_time": 21.007
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02359_label_0.jpg",
+    "id": 1891,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 862,
+    "created_at": "2025-04-28T23:45:27.754681Z",
+    "updated_at": "2025-04-28T23:45:27.754707Z",
+    "lead_time": 1.387
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02367_label_0.jpg",
+    "id": 1892,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 863,
+    "created_at": "2025-04-28T23:45:31.817928Z",
+    "updated_at": "2025-04-28T23:45:31.817957Z",
+    "lead_time": 3.019
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02369_label_0.jpg",
+    "id": 1893,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 864,
+    "created_at": "2025-04-28T23:45:34.247594Z",
+    "updated_at": "2025-04-28T23:45:34.247634Z",
+    "lead_time": 1.299
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02372_label_1.jpg",
+    "id": 1894,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 865,
+    "created_at": "2025-04-28T23:45:36.456329Z",
+    "updated_at": "2025-04-28T23:45:36.456362Z",
+    "lead_time": 1.119
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02389_label_0.jpg",
+    "id": 1895,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 866,
+    "created_at": "2025-04-28T23:45:38.539612Z",
+    "updated_at": "2025-04-28T23:45:38.539640Z",
+    "lead_time": 1.026
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02400_label_1.jpg",
+    "id": 1896,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 867,
+    "created_at": "2025-04-28T23:45:40.737604Z",
+    "updated_at": "2025-04-28T23:45:40.737647Z",
+    "lead_time": 1.155
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02425_label_0.jpg",
+    "id": 1897,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 868,
+    "created_at": "2025-04-28T23:45:42.838021Z",
+    "updated_at": "2025-04-28T23:45:42.838052Z",
+    "lead_time": 1.016
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02426_label_1.jpg",
+    "id": 1898,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 869,
+    "created_at": "2025-04-28T23:45:44.919325Z",
+    "updated_at": "2025-04-28T23:45:44.919352Z",
+    "lead_time": 1.05
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02433_label_0.jpg",
+    "id": 1899,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 870,
+    "created_at": "2025-04-28T23:45:47.339653Z",
+    "updated_at": "2025-04-28T23:45:47.339681Z",
+    "lead_time": 1.397
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02456_label_1.jpg",
+    "id": 1900,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 871,
+    "created_at": "2025-04-28T23:45:49.438292Z",
+    "updated_at": "2025-04-28T23:45:49.438325Z",
+    "lead_time": 1.01
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02458_label_1.jpg",
+    "id": 1901,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 872,
+    "created_at": "2025-04-28T23:45:51.441975Z",
+    "updated_at": "2025-04-28T23:45:51.442005Z",
+    "lead_time": 0.892
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02460_label_1.jpg",
+    "id": 1902,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 873,
+    "created_at": "2025-04-28T23:45:53.635857Z",
+    "updated_at": "2025-04-28T23:45:53.635884Z",
+    "lead_time": 1.024
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02465_label_0.jpg",
+    "id": 1903,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 874,
+    "created_at": "2025-04-28T23:45:55.870428Z",
+    "updated_at": "2025-04-28T23:45:55.870462Z",
+    "lead_time": 1.197
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02469_label_0.jpg",
+    "id": 1904,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 875,
+    "created_at": "2025-04-28T23:45:58.193959Z",
+    "updated_at": "2025-04-28T23:45:58.193989Z",
+    "lead_time": 1.252
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02470_label_1.jpg",
+    "id": 1905,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 876,
+    "created_at": "2025-04-28T23:46:00.295145Z",
+    "updated_at": "2025-04-28T23:46:00.295175Z",
+    "lead_time": 1.007
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02471_label_0.jpg",
+    "id": 1906,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 877,
+    "created_at": "2025-04-28T23:46:02.335535Z",
+    "updated_at": "2025-04-28T23:46:02.335568Z",
+    "lead_time": 0.998
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02509_label_0.jpg",
+    "id": 1907,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 878,
+    "created_at": "2025-04-28T23:46:04.670006Z",
+    "updated_at": "2025-04-28T23:46:04.670033Z",
+    "lead_time": 1.307
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02520_label_1.jpg",
+    "id": 1908,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 879,
+    "created_at": "2025-04-28T23:46:06.602282Z",
+    "updated_at": "2025-04-28T23:46:06.602318Z",
+    "lead_time": 0.895
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02530_label_1.jpg",
+    "id": 1909,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 880,
+    "created_at": "2025-04-28T23:46:08.470892Z",
+    "updated_at": "2025-04-28T23:46:08.470928Z",
+    "lead_time": 0.865
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02539_label_0.jpg",
+    "id": 1910,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 881,
+    "created_at": "2025-04-28T23:46:10.484758Z",
+    "updated_at": "2025-04-28T23:46:10.484791Z",
+    "lead_time": 1.002
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02557_label_0.jpg",
+    "id": 1911,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 882,
+    "created_at": "2025-04-28T23:46:12.413484Z",
+    "updated_at": "2025-04-28T23:46:12.413514Z",
+    "lead_time": 0.928
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02558_label_1.jpg",
+    "id": 1912,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 883,
+    "created_at": "2025-04-28T23:46:14.343906Z",
+    "updated_at": "2025-04-28T23:46:14.343938Z",
+    "lead_time": 0.892
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02568_label_1.jpg",
+    "id": 1913,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 884,
+    "created_at": "2025-04-28T23:46:16.229246Z",
+    "updated_at": "2025-04-28T23:46:16.229289Z",
+    "lead_time": 0.872
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02569_label_0.jpg",
+    "id": 1914,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 885,
+    "created_at": "2025-04-28T23:46:18.940088Z",
+    "updated_at": "2025-04-28T23:46:18.940118Z",
+    "lead_time": 1.672
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02591_label_0.jpg",
+    "id": 1915,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 886,
+    "created_at": "2025-04-28T23:46:21.998195Z",
+    "updated_at": "2025-04-28T23:46:21.998225Z",
+    "lead_time": 2.046
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02602_label_1.jpg",
+    "id": 1916,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 887,
+    "created_at": "2025-04-28T23:46:24.375353Z",
+    "updated_at": "2025-04-28T23:46:24.375391Z",
+    "lead_time": 1.346
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02618_label_1.jpg",
+    "id": 1917,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 888,
+    "created_at": "2025-04-28T23:46:26.858737Z",
+    "updated_at": "2025-04-28T23:46:26.858779Z",
+    "lead_time": 1.483
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02634_label_1.jpg",
+    "id": 1918,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 889,
+    "created_at": "2025-04-28T23:46:28.748253Z",
+    "updated_at": "2025-04-28T23:46:28.748279Z",
+    "lead_time": 0.863
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02639_label_0.jpg",
+    "id": 1919,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 890,
+    "created_at": "2025-04-28T23:46:30.657215Z",
+    "updated_at": "2025-04-28T23:46:30.657242Z",
+    "lead_time": 0.889
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02642_label_1.jpg",
+    "id": 1920,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 891,
+    "created_at": "2025-04-28T23:46:33.215485Z",
+    "updated_at": "2025-04-28T23:46:33.215513Z",
+    "lead_time": 1.499
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02643_label_0.jpg",
+    "id": 1921,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 892,
+    "created_at": "2025-04-28T23:46:35.174510Z",
+    "updated_at": "2025-04-28T23:46:35.174546Z",
+    "lead_time": 0.948
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02645_label_0.jpg",
+    "id": 1922,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 893,
+    "created_at": "2025-04-28T23:46:38.225932Z",
+    "updated_at": "2025-04-28T23:46:38.225966Z",
+    "lead_time": 1.999
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02660_label_1.jpg",
+    "id": 1923,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 894,
+    "created_at": "2025-04-28T23:46:44.352022Z",
+    "updated_at": "2025-04-28T23:46:44.352053Z",
+    "lead_time": 5.077
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02669_label_0.jpg",
+    "id": 1924,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 895,
+    "created_at": "2025-04-28T23:46:46.867477Z",
+    "updated_at": "2025-04-28T23:46:46.867510Z",
+    "lead_time": 1.452
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02672_label_1.jpg",
+    "id": 1925,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 896,
+    "created_at": "2025-04-28T23:46:49.024523Z",
+    "updated_at": "2025-04-28T23:46:49.024549Z",
+    "lead_time": 1.116
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02685_label_0.jpg",
+    "id": 1926,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 897,
+    "created_at": "2025-04-28T23:48:34.387082Z",
+    "updated_at": "2025-04-28T23:48:34.387112Z",
+    "lead_time": 104.267
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02725_label_0.jpg",
+    "id": 1927,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 898,
+    "created_at": "2025-04-28T23:48:36.585115Z",
+    "updated_at": "2025-04-28T23:48:36.585151Z",
+    "lead_time": 1.112
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02730_label_1.jpg",
+    "id": 1928,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 899,
+    "created_at": "2025-04-28T23:48:38.755902Z",
+    "updated_at": "2025-04-28T23:48:38.755928Z",
+    "lead_time": 1.134
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02734_label_1.jpg",
+    "id": 1929,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 900,
+    "created_at": "2025-04-28T23:48:40.744170Z",
+    "updated_at": "2025-04-28T23:48:40.744201Z",
+    "lead_time": 0.893
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02736_label_1.jpg",
+    "id": 1930,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 901,
+    "created_at": "2025-04-28T23:48:42.650858Z",
+    "updated_at": "2025-04-28T23:48:42.650893Z",
+    "lead_time": 0.858
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02738_label_1.jpg",
+    "id": 1931,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 902,
+    "created_at": "2025-04-28T23:48:44.638016Z",
+    "updated_at": "2025-04-28T23:48:44.638046Z",
+    "lead_time": 0.919
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02750_label_1.jpg",
+    "id": 1932,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 903,
+    "created_at": "2025-04-28T23:48:46.705185Z",
+    "updated_at": "2025-04-28T23:48:46.705220Z",
+    "lead_time": 0.974
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02780_label_1.jpg",
+    "id": 1933,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 904,
+    "created_at": "2025-04-28T23:48:49.175356Z",
+    "updated_at": "2025-04-28T23:48:49.175390Z",
+    "lead_time": 1.393
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02791_label_0.jpg",
+    "id": 1934,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 905,
+    "created_at": "2025-04-28T23:48:52.158583Z",
+    "updated_at": "2025-04-28T23:48:52.158622Z",
+    "lead_time": 1.716
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02795_label_0.jpg",
+    "id": 1935,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 906,
+    "created_at": "2025-04-28T23:48:54.425985Z",
+    "updated_at": "2025-04-28T23:48:54.426016Z",
+    "lead_time": 1.21
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02800_label_1.jpg",
+    "id": 1936,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 907,
+    "created_at": "2025-04-28T23:48:56.618195Z",
+    "updated_at": "2025-04-28T23:48:56.618227Z",
+    "lead_time": 1.117
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02811_label_0.jpg",
+    "id": 1937,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 908,
+    "created_at": "2025-04-28T23:49:00.584795Z",
+    "updated_at": "2025-04-28T23:49:00.584825Z",
+    "lead_time": 2.909
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02816_label_1.jpg",
+    "id": 1938,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 909,
+    "created_at": "2025-04-28T23:49:03.298379Z",
+    "updated_at": "2025-04-28T23:49:03.298406Z",
+    "lead_time": 1.647
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02822_label_1.jpg",
+    "id": 1939,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 910,
+    "created_at": "2025-04-28T23:49:05.413815Z",
+    "updated_at": "2025-04-28T23:49:05.413841Z",
+    "lead_time": 1.054
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02836_label_1.jpg",
+    "id": 1940,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 911,
+    "created_at": "2025-04-28T23:49:10.712845Z",
+    "updated_at": "2025-04-28T23:49:10.712877Z",
+    "lead_time": 4.205
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02841_label_0.jpg",
+    "id": 1941,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 912,
+    "created_at": "2025-04-28T23:49:13.224900Z",
+    "updated_at": "2025-04-28T23:49:13.224932Z",
+    "lead_time": 1.25
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02844_label_1.jpg",
+    "id": 1942,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 913,
+    "created_at": "2025-04-28T23:49:15.829806Z",
+    "updated_at": "2025-04-28T23:49:15.829840Z",
+    "lead_time": 1.442
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02845_label_0.jpg",
+    "id": 1943,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 914,
+    "created_at": "2025-04-28T23:49:18.041741Z",
+    "updated_at": "2025-04-28T23:49:18.041772Z",
+    "lead_time": 1.115
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02855_label_0.jpg",
+    "id": 1944,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 915,
+    "created_at": "2025-04-28T23:49:20.090920Z",
+    "updated_at": "2025-04-28T23:49:20.090953Z",
+    "lead_time": 0.927
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02864_label_1.jpg",
+    "id": 1945,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 916,
+    "created_at": "2025-04-28T23:49:23.415389Z",
+    "updated_at": "2025-04-28T23:49:23.415423Z",
+    "lead_time": 2.186
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02867_label_0.jpg",
+    "id": 1946,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 917,
+    "created_at": "2025-04-28T23:49:25.802411Z",
+    "updated_at": "2025-04-28T23:49:25.802446Z",
+    "lead_time": 1.241
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02877_label_0.jpg",
+    "id": 1947,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 918,
+    "created_at": "2025-04-28T23:49:28.512512Z",
+    "updated_at": "2025-04-28T23:49:28.512547Z",
+    "lead_time": 1.211
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02883_label_0.jpg",
+    "id": 1948,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 919,
+    "created_at": "2025-04-28T23:49:30.751558Z",
+    "updated_at": "2025-04-28T23:49:30.751594Z",
+    "lead_time": 0.918
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02886_label_1.jpg",
+    "id": 1949,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 920,
+    "created_at": "2025-04-28T23:49:32.938330Z",
+    "updated_at": "2025-04-28T23:49:32.938358Z",
+    "lead_time": 1.085
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02890_label_1.jpg",
+    "id": 1950,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 921,
+    "created_at": "2025-04-28T23:49:35.057864Z",
+    "updated_at": "2025-04-28T23:49:35.057895Z",
+    "lead_time": 0.976
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02901_label_0.jpg",
+    "id": 1951,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 922,
+    "created_at": "2025-04-28T23:49:37.187976Z",
+    "updated_at": "2025-04-28T23:49:37.188006Z",
+    "lead_time": 1.068
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02920_label_1.jpg",
+    "id": 1952,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 923,
+    "created_at": "2025-04-28T23:49:39.488580Z",
+    "updated_at": "2025-04-28T23:49:39.488612Z",
+    "lead_time": 1.05
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02929_label_0.jpg",
+    "id": 1953,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 924,
+    "created_at": "2025-04-28T23:51:01.280741Z",
+    "updated_at": "2025-04-28T23:51:01.280775Z",
+    "lead_time": 79.575
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02936_label_1.jpg",
+    "id": 1954,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 925,
+    "created_at": "2025-04-28T23:51:03.450697Z",
+    "updated_at": "2025-04-28T23:51:03.450730Z",
+    "lead_time": 0.959
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02943_label_0.jpg",
+    "id": 1955,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 926,
+    "created_at": "2025-04-28T23:51:06.650858Z",
+    "updated_at": "2025-04-28T23:51:06.650891Z",
+    "lead_time": 2.084
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02952_label_1.jpg",
+    "id": 1956,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 927,
+    "created_at": "2025-04-28T23:51:08.868047Z",
+    "updated_at": "2025-04-28T23:51:08.868076Z",
+    "lead_time": 0.954
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02958_label_1.jpg",
+    "id": 1957,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 928,
+    "created_at": "2025-04-28T23:51:11.216710Z",
+    "updated_at": "2025-04-28T23:51:11.216740Z",
+    "lead_time": 1.138
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02960_label_1.jpg",
+    "id": 1958,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 929,
+    "created_at": "2025-04-28T23:51:13.273196Z",
+    "updated_at": "2025-04-28T23:51:13.273226Z",
+    "lead_time": 0.946
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02961_label_0.jpg",
+    "id": 1959,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 930,
+    "created_at": "2025-04-28T23:51:15.460963Z",
+    "updated_at": "2025-04-28T23:51:15.460995Z",
+    "lead_time": 1.017
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02966_label_1.jpg",
+    "id": 1960,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 931,
+    "created_at": "2025-04-28T23:51:18.029013Z",
+    "updated_at": "2025-04-28T23:51:18.029045Z",
+    "lead_time": 1.464
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_02992_label_1.jpg",
+    "id": 1961,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 932,
+    "created_at": "2025-04-28T23:51:20.110292Z",
+    "updated_at": "2025-04-28T23:51:20.110324Z",
+    "lead_time": 0.978
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03009_label_0.jpg",
+    "id": 1962,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 933,
+    "created_at": "2025-04-28T23:51:22.240271Z",
+    "updated_at": "2025-04-28T23:51:22.240301Z",
+    "lead_time": 1.039
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03034_label_1.jpg",
+    "id": 1963,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 934,
+    "created_at": "2025-04-28T23:51:24.678573Z",
+    "updated_at": "2025-04-28T23:51:24.678605Z",
+    "lead_time": 1.377
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03043_label_0.jpg",
+    "id": 1964,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 935,
+    "created_at": "2025-04-28T23:51:26.828676Z",
+    "updated_at": "2025-04-28T23:51:26.828703Z",
+    "lead_time": 1.028
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03048_label_1.jpg",
+    "id": 1965,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 936,
+    "created_at": "2025-04-28T23:51:29.046086Z",
+    "updated_at": "2025-04-28T23:51:29.046116Z",
+    "lead_time": 1.066
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03053_label_0.jpg",
+    "id": 1966,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 937,
+    "created_at": "2025-04-28T23:51:31.642054Z",
+    "updated_at": "2025-04-28T23:51:31.642089Z",
+    "lead_time": 1.156
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03054_label_1.jpg",
+    "id": 1967,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 938,
+    "created_at": "2025-04-28T23:51:34.043950Z",
+    "updated_at": "2025-04-28T23:51:34.043980Z",
+    "lead_time": 1.324
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03076_label_1.jpg",
+    "id": 1968,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 939,
+    "created_at": "2025-04-28T23:51:36.067600Z",
+    "updated_at": "2025-04-28T23:51:36.067627Z",
+    "lead_time": 0.892
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03081_label_0.jpg",
+    "id": 1969,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 940,
+    "created_at": "2025-04-28T23:51:38.479973Z",
+    "updated_at": "2025-04-28T23:51:38.480003Z",
+    "lead_time": 1.291
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03082_label_1.jpg",
+    "id": 1970,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 941,
+    "created_at": "2025-04-28T23:51:41.572349Z",
+    "updated_at": "2025-04-28T23:51:41.572382Z",
+    "lead_time": 1.958
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03088_label_1.jpg",
+    "id": 1971,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 942,
+    "created_at": "2025-04-28T23:51:46.798959Z",
+    "updated_at": "2025-04-28T23:51:46.798992Z",
+    "lead_time": 3.848
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03093_label_0.jpg",
+    "id": 1972,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 943,
+    "created_at": "2025-04-28T23:51:52.784208Z",
+    "updated_at": "2025-04-28T23:51:52.784240Z",
+    "lead_time": 4.84
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03096_label_1.jpg",
+    "id": 1973,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 944,
+    "created_at": "2025-04-28T23:51:54.912263Z",
+    "updated_at": "2025-04-28T23:51:54.912298Z",
+    "lead_time": 1.006
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03112_label_1.jpg",
+    "id": 1974,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 945,
+    "created_at": "2025-04-28T23:51:56.988450Z",
+    "updated_at": "2025-04-28T23:51:56.988490Z",
+    "lead_time": 1.011
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03124_label_1.jpg",
+    "id": 1975,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 946,
+    "created_at": "2025-04-28T23:51:59.443103Z",
+    "updated_at": "2025-04-28T23:51:59.443136Z",
+    "lead_time": 1.38
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03129_label_0.jpg",
+    "id": 1976,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 947,
+    "created_at": "2025-04-28T23:52:30.426854Z",
+    "updated_at": "2025-04-28T23:52:30.426880Z",
+    "lead_time": 29.871
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03137_label_0.jpg",
+    "id": 1977,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 948,
+    "created_at": "2025-04-28T23:52:32.570782Z",
+    "updated_at": "2025-04-28T23:52:32.570812Z",
+    "lead_time": 1.095
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03139_label_0.jpg",
+    "id": 1978,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 949,
+    "created_at": "2025-04-28T23:52:34.597428Z",
+    "updated_at": "2025-04-28T23:52:34.597463Z",
+    "lead_time": 0.99
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03140_label_1.jpg",
+    "id": 1979,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 950,
+    "created_at": "2025-04-28T23:52:37.092188Z",
+    "updated_at": "2025-04-28T23:52:37.092227Z",
+    "lead_time": 1.134
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03212_label_1.jpg",
+    "id": 1980,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 951,
+    "created_at": "2025-04-28T23:52:39.031059Z",
+    "updated_at": "2025-04-28T23:52:39.031099Z",
+    "lead_time": 0.882
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03229_label_0.jpg",
+    "id": 1981,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 952,
+    "created_at": "2025-04-28T23:52:41.122269Z",
+    "updated_at": "2025-04-28T23:52:41.122303Z",
+    "lead_time": 0.924
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03236_label_1.jpg",
+    "id": 1982,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 953,
+    "created_at": "2025-04-28T23:52:43.097956Z",
+    "updated_at": "2025-04-28T23:52:43.097988Z",
+    "lead_time": 0.916
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03241_label_0.jpg",
+    "id": 1983,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 954,
+    "created_at": "2025-04-28T23:52:45.240565Z",
+    "updated_at": "2025-04-28T23:52:45.240595Z",
+    "lead_time": 1.07
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03256_label_1.jpg",
+    "id": 1984,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 955,
+    "created_at": "2025-04-28T23:52:47.409261Z",
+    "updated_at": "2025-04-28T23:52:47.409289Z",
+    "lead_time": 1.023
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03261_label_0.jpg",
+    "id": 1985,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 956,
+    "created_at": "2025-04-28T23:52:51.090380Z",
+    "updated_at": "2025-04-28T23:52:51.090413Z",
+    "lead_time": 2.591
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03264_label_1.jpg",
+    "id": 1986,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 957,
+    "created_at": "2025-04-28T23:52:53.300640Z",
+    "updated_at": "2025-04-28T23:52:53.300672Z",
+    "lead_time": 1.107
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03271_label_0.jpg",
+    "id": 1987,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 958,
+    "created_at": "2025-04-28T23:52:55.615604Z",
+    "updated_at": "2025-04-28T23:52:55.615632Z",
+    "lead_time": 1.014
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03281_label_0.jpg",
+    "id": 1988,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 959,
+    "created_at": "2025-04-28T23:52:57.650097Z",
+    "updated_at": "2025-04-28T23:52:57.650124Z",
+    "lead_time": 0.964
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03288_label_1.jpg",
+    "id": 1989,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 960,
+    "created_at": "2025-04-28T23:53:00.422189Z",
+    "updated_at": "2025-04-28T23:53:00.422221Z",
+    "lead_time": 1.571
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03294_label_1.jpg",
+    "id": 1990,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 961,
+    "created_at": "2025-04-28T23:53:02.937289Z",
+    "updated_at": "2025-04-28T23:53:02.937324Z",
+    "lead_time": 1.201
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03295_label_0.jpg",
+    "id": 1991,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 962,
+    "created_at": "2025-04-28T23:53:23.977477Z",
+    "updated_at": "2025-04-28T23:53:23.977507Z",
+    "lead_time": 19.909
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03298_label_1.jpg",
+    "id": 1992,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 963,
+    "created_at": "2025-04-28T23:53:26.113569Z",
+    "updated_at": "2025-04-28T23:53:26.113599Z",
+    "lead_time": 0.922
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03299_label_0.jpg",
+    "id": 1993,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 964,
+    "created_at": "2025-04-28T23:53:28.635433Z",
+    "updated_at": "2025-04-28T23:53:28.635467Z",
+    "lead_time": 1.16
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03305_label_0.jpg",
+    "id": 1994,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 965,
+    "created_at": "2025-04-28T23:53:31.054753Z",
+    "updated_at": "2025-04-28T23:53:31.054780Z",
+    "lead_time": 1.164
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03315_label_0.jpg",
+    "id": 1995,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 966,
+    "created_at": "2025-04-28T23:53:33.543723Z",
+    "updated_at": "2025-04-28T23:53:33.543751Z",
+    "lead_time": 1.363
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03323_label_0.jpg",
+    "id": 1996,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 967,
+    "created_at": "2025-04-28T23:53:35.677513Z",
+    "updated_at": "2025-04-28T23:53:35.677545Z",
+    "lead_time": 0.999
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03330_label_1.jpg",
+    "id": 1997,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 968,
+    "created_at": "2025-04-28T23:53:38.130517Z",
+    "updated_at": "2025-04-28T23:53:38.130552Z",
+    "lead_time": 1.364
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03340_label_1.jpg",
+    "id": 1998,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 969,
+    "created_at": "2025-04-28T23:53:40.319778Z",
+    "updated_at": "2025-04-28T23:53:40.319804Z",
+    "lead_time": 1.064
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03345_label_0.jpg",
+    "id": 1999,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 970,
+    "created_at": "2025-04-28T23:53:43.542738Z",
+    "updated_at": "2025-04-28T23:53:43.542768Z",
+    "lead_time": 1.982
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03348_label_1.jpg",
+    "id": 2000,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 971,
+    "created_at": "2025-04-28T23:54:11.244344Z",
+    "updated_at": "2025-04-28T23:54:11.244376Z",
+    "lead_time": 3.42
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03381_label_0.jpg",
+    "id": 2001,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 972,
+    "created_at": "2025-04-28T23:54:14.314355Z",
+    "updated_at": "2025-04-28T23:54:14.314387Z",
+    "lead_time": 1.848
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03393_label_0.jpg",
+    "id": 2002,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 973,
+    "created_at": "2025-04-28T23:54:16.783331Z",
+    "updated_at": "2025-04-28T23:54:16.783362Z",
+    "lead_time": 1.374
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03399_label_0.jpg",
+    "id": 2003,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 974,
+    "created_at": "2025-04-28T23:54:19.186574Z",
+    "updated_at": "2025-04-28T23:54:19.186609Z",
+    "lead_time": 1.231
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03411_label_0.jpg",
+    "id": 2004,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 975,
+    "created_at": "2025-04-28T23:54:21.210498Z",
+    "updated_at": "2025-04-28T23:54:21.210527Z",
+    "lead_time": 0.935
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03412_label_1.jpg",
+    "id": 2005,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 976,
+    "created_at": "2025-04-28T23:54:23.248507Z",
+    "updated_at": "2025-04-28T23:54:23.248543Z",
+    "lead_time": 0.905
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03431_label_0.jpg",
+    "id": 2006,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 977,
+    "created_at": "2025-04-28T23:54:25.620134Z",
+    "updated_at": "2025-04-28T23:54:25.620167Z",
+    "lead_time": 1.04
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03455_label_0.jpg",
+    "id": 2007,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 978,
+    "created_at": "2025-04-28T23:54:28.961860Z",
+    "updated_at": "2025-04-28T23:54:28.961889Z",
+    "lead_time": 2.25
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03464_label_1.jpg",
+    "id": 2008,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 979,
+    "created_at": "2025-04-28T23:54:31.170105Z",
+    "updated_at": "2025-04-28T23:54:31.170131Z",
+    "lead_time": 1.072
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03466_label_1.jpg",
+    "id": 2009,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 980,
+    "created_at": "2025-04-28T23:54:33.101599Z",
+    "updated_at": "2025-04-28T23:54:33.101632Z",
+    "lead_time": 0.858
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03477_label_0.jpg",
+    "id": 2010,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 981,
+    "created_at": "2025-04-28T23:54:35.198214Z",
+    "updated_at": "2025-04-28T23:54:35.198242Z",
+    "lead_time": 1.006
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03480_label_1.jpg",
+    "id": 2011,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 982,
+    "created_at": "2025-04-28T23:54:37.379772Z",
+    "updated_at": "2025-04-28T23:54:37.379803Z",
+    "lead_time": 1.026
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03490_label_1.jpg",
+    "id": 2012,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 983,
+    "created_at": "2025-04-28T23:54:39.437117Z",
+    "updated_at": "2025-04-28T23:54:39.437149Z",
+    "lead_time": 0.949
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03494_label_1.jpg",
+    "id": 2013,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 984,
+    "created_at": "2025-04-28T23:54:41.463606Z",
+    "updated_at": "2025-04-28T23:54:41.463643Z",
+    "lead_time": 0.911
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03501_label_0.jpg",
+    "id": 2014,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 985,
+    "created_at": "2025-04-28T23:54:43.569879Z",
+    "updated_at": "2025-04-28T23:54:43.569911Z",
+    "lead_time": 0.941
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03514_label_1.jpg",
+    "id": 2015,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 986,
+    "created_at": "2025-04-28T23:54:45.689294Z",
+    "updated_at": "2025-04-28T23:54:45.689326Z",
+    "lead_time": 1.004
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03527_label_0.jpg",
+    "id": 2016,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 987,
+    "created_at": "2025-04-28T23:54:47.966382Z",
+    "updated_at": "2025-04-28T23:54:47.966411Z",
+    "lead_time": 1.149
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03532_label_1.jpg",
+    "id": 2017,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 988,
+    "created_at": "2025-04-28T23:54:49.895501Z",
+    "updated_at": "2025-04-28T23:54:49.895530Z",
+    "lead_time": 0.804
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03542_label_1.jpg",
+    "id": 2018,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 989,
+    "created_at": "2025-04-28T23:54:51.988784Z",
+    "updated_at": "2025-04-28T23:54:51.988812Z",
+    "lead_time": 0.987
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03547_label_0.jpg",
+    "id": 2019,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 990,
+    "created_at": "2025-04-28T23:54:54.384764Z",
+    "updated_at": "2025-04-28T23:54:54.384791Z",
+    "lead_time": 1.286
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03568_label_1.jpg",
+    "id": 2020,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 991,
+    "created_at": "2025-04-28T23:54:56.436943Z",
+    "updated_at": "2025-04-28T23:54:56.436975Z",
+    "lead_time": 0.926
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03577_label_0.jpg",
+    "id": 2021,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 992,
+    "created_at": "2025-04-28T23:54:58.583375Z",
+    "updated_at": "2025-04-28T23:54:58.583407Z",
+    "lead_time": 1.002
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03585_label_0.jpg",
+    "id": 2022,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 993,
+    "created_at": "2025-04-28T23:55:00.706713Z",
+    "updated_at": "2025-04-28T23:55:00.706745Z",
+    "lead_time": 0.929
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03616_label_1.jpg",
+    "id": 2023,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 994,
+    "created_at": "2025-04-28T23:55:05.849355Z",
+    "updated_at": "2025-04-28T23:55:05.849384Z",
+    "lead_time": 3.87
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03622_label_1.jpg",
+    "id": 2024,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 995,
+    "created_at": "2025-04-28T23:55:08.472958Z",
+    "updated_at": "2025-04-28T23:55:08.472992Z",
+    "lead_time": 1.478
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03631_label_0.jpg",
+    "id": 2025,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 996,
+    "created_at": "2025-04-28T23:55:10.779895Z",
+    "updated_at": "2025-04-28T23:55:10.779929Z",
+    "lead_time": 1.2
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03636_label_1.jpg",
+    "id": 2026,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 997,
+    "created_at": "2025-04-28T23:55:13.165108Z",
+    "updated_at": "2025-04-28T23:55:13.165139Z",
+    "lead_time": 1.241
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03640_label_1.jpg",
+    "id": 2027,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 998,
+    "created_at": "2025-04-28T23:55:15.538331Z",
+    "updated_at": "2025-04-28T23:55:15.538359Z",
+    "lead_time": 1.242
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03641_label_0.jpg",
+    "id": 2028,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 999,
+    "created_at": "2025-04-28T23:55:33.867050Z",
+    "updated_at": "2025-04-28T23:55:33.867078Z",
+    "lead_time": 17.215
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03645_label_0.jpg",
+    "id": 2029,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1000,
+    "created_at": "2025-04-28T23:55:37.435046Z",
+    "updated_at": "2025-04-28T23:55:37.435071Z",
+    "lead_time": 2.374
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03656_label_1.jpg",
+    "id": 2030,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1001,
+    "created_at": "2025-04-28T23:55:40.197115Z",
+    "updated_at": "2025-04-28T23:55:40.197151Z",
+    "lead_time": 1.688
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03660_label_1.jpg",
+    "id": 2031,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1002,
+    "created_at": "2025-04-28T23:55:42.596930Z",
+    "updated_at": "2025-04-28T23:55:42.596965Z",
+    "lead_time": 1.28
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03666_label_1.jpg",
+    "id": 2032,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1003,
+    "created_at": "2025-04-28T23:55:44.852174Z",
+    "updated_at": "2025-04-28T23:55:44.852205Z",
+    "lead_time": 1.129
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03667_label_0.jpg",
+    "id": 2033,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1004,
+    "created_at": "2025-04-28T23:55:46.985368Z",
+    "updated_at": "2025-04-28T23:55:46.985399Z",
+    "lead_time": 0.967
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03668_label_1.jpg",
+    "id": 2034,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1005,
+    "created_at": "2025-04-28T23:56:36.058242Z",
+    "updated_at": "2025-04-28T23:56:36.058271Z",
+    "lead_time": 47.937
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03672_label_1.jpg",
+    "id": 2035,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1006,
+    "created_at": "2025-04-28T23:56:52.734667Z",
+    "updated_at": "2025-04-28T23:56:52.734693Z",
+    "lead_time": 15.428
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03675_label_0.jpg",
+    "id": 2036,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1007,
+    "created_at": "2025-04-28T23:56:54.900570Z",
+    "updated_at": "2025-04-28T23:56:54.900600Z",
+    "lead_time": 0.994
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03689_label_0.jpg",
+    "id": 2037,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1008,
+    "created_at": "2025-04-28T23:57:14.090762Z",
+    "updated_at": "2025-04-28T23:57:14.090793Z",
+    "lead_time": 17.982
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03696_label_1.jpg",
+    "id": 2038,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1009,
+    "created_at": "2025-04-28T23:57:16.854619Z",
+    "updated_at": "2025-04-28T23:57:16.854649Z",
+    "lead_time": 1.551
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03704_label_1.jpg",
+    "id": 2039,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1010,
+    "created_at": "2025-04-28T23:57:19.931934Z",
+    "updated_at": "2025-04-28T23:57:19.931967Z",
+    "lead_time": 1.83
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03746_label_1.jpg",
+    "id": 2040,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1011,
+    "created_at": "2025-04-28T23:57:22.471866Z",
+    "updated_at": "2025-04-28T23:57:22.471897Z",
+    "lead_time": 1.358
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03773_label_0.jpg",
+    "id": 2041,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1012,
+    "created_at": "2025-04-28T23:57:24.649589Z",
+    "updated_at": "2025-04-28T23:57:24.649622Z",
+    "lead_time": 1.013
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03782_label_1.jpg",
+    "id": 2042,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1013,
+    "created_at": "2025-04-28T23:57:27.494622Z",
+    "updated_at": "2025-04-28T23:57:27.494653Z",
+    "lead_time": 1.682
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03783_label_0.jpg",
+    "id": 2043,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1014,
+    "created_at": "2025-04-28T23:57:29.771356Z",
+    "updated_at": "2025-04-28T23:57:29.771392Z",
+    "lead_time": 1.092
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03788_label_1.jpg",
+    "id": 2044,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1015,
+    "created_at": "2025-04-28T23:57:32.031502Z",
+    "updated_at": "2025-04-28T23:57:32.031534Z",
+    "lead_time": 1.084
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03813_label_0.jpg",
+    "id": 2045,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1016,
+    "created_at": "2025-04-28T23:57:34.463302Z",
+    "updated_at": "2025-04-28T23:57:34.463330Z",
+    "lead_time": 1.219
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03818_label_1.jpg",
+    "id": 2046,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1017,
+    "created_at": "2025-04-28T23:57:36.658776Z",
+    "updated_at": "2025-04-28T23:57:36.658804Z",
+    "lead_time": 1.023
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03819_label_0.jpg",
+    "id": 2047,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1018,
+    "created_at": "2025-04-28T23:57:38.658476Z",
+    "updated_at": "2025-04-28T23:57:38.658506Z",
+    "lead_time": 0.892
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03828_label_1.jpg",
+    "id": 2048,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1019,
+    "created_at": "2025-04-28T23:57:40.935931Z",
+    "updated_at": "2025-04-28T23:57:40.935961Z",
+    "lead_time": 1.092
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03830_label_1.jpg",
+    "id": 2049,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1020,
+    "created_at": "2025-04-28T23:57:42.982477Z",
+    "updated_at": "2025-04-28T23:57:42.982510Z",
+    "lead_time": 0.921
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03832_label_1.jpg",
+    "id": 2050,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1021,
+    "created_at": "2025-04-28T23:57:45.245304Z",
+    "updated_at": "2025-04-28T23:57:45.245347Z",
+    "lead_time": 1.04
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03835_label_0.jpg",
+    "id": 2051,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1022,
+    "created_at": "2025-04-28T23:57:47.858198Z",
+    "updated_at": "2025-04-28T23:57:47.858225Z",
+    "lead_time": 1.279
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03842_label_1.jpg",
+    "id": 2052,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1023,
+    "created_at": "2025-04-28T23:57:50.362642Z",
+    "updated_at": "2025-04-28T23:57:50.362674Z",
+    "lead_time": 1.322
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03859_label_0.jpg",
+    "id": 2053,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1024,
+    "created_at": "2025-04-28T23:57:53.164054Z",
+    "updated_at": "2025-04-28T23:57:53.164085Z",
+    "lead_time": 1.606
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03863_label_0.jpg",
+    "id": 2054,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1025,
+    "created_at": "2025-04-28T23:57:56.471593Z",
+    "updated_at": "2025-04-28T23:57:56.471623Z",
+    "lead_time": 1.998
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03865_label_0.jpg",
+    "id": 2055,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1026,
+    "created_at": "2025-04-28T23:57:58.866368Z",
+    "updated_at": "2025-04-28T23:57:58.866398Z",
+    "lead_time": 1.175
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03880_label_1.jpg",
+    "id": 2056,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1027,
+    "created_at": "2025-04-28T23:58:01.279827Z",
+    "updated_at": "2025-04-28T23:58:01.279857Z",
+    "lead_time": 1.015
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03881_label_0.jpg",
+    "id": 2057,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1028,
+    "created_at": "2025-04-28T23:58:18.091962Z",
+    "updated_at": "2025-04-28T23:58:18.091991Z",
+    "lead_time": 15.418
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03891_label_0.jpg",
+    "id": 2058,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1029,
+    "created_at": "2025-04-28T23:58:20.539499Z",
+    "updated_at": "2025-04-28T23:58:20.539529Z",
+    "lead_time": 1.222
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03905_label_0.jpg",
+    "id": 2059,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1030,
+    "created_at": "2025-04-28T23:58:22.788707Z",
+    "updated_at": "2025-04-28T23:58:22.788739Z",
+    "lead_time": 1.025
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03913_label_0.jpg",
+    "id": 2060,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1031,
+    "created_at": "2025-04-28T23:58:24.915789Z",
+    "updated_at": "2025-04-28T23:58:24.915824Z",
+    "lead_time": 0.9
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03915_label_0.jpg",
+    "id": 2061,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1032,
+    "created_at": "2025-04-28T23:58:27.145420Z",
+    "updated_at": "2025-04-28T23:58:27.145449Z",
+    "lead_time": 1.062
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03922_label_1.jpg",
+    "id": 2062,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1033,
+    "created_at": "2025-04-28T23:58:29.490339Z",
+    "updated_at": "2025-04-28T23:58:29.490369Z",
+    "lead_time": 1.074
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03923_label_0.jpg",
+    "id": 2063,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1034,
+    "created_at": "2025-04-28T23:58:31.744703Z",
+    "updated_at": "2025-04-28T23:58:31.744733Z",
+    "lead_time": 1.084
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03941_label_0.jpg",
+    "id": 2064,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1035,
+    "created_at": "2025-04-28T23:58:34.455246Z",
+    "updated_at": "2025-04-28T23:58:34.455275Z",
+    "lead_time": 1.586
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03945_label_0.jpg",
+    "id": 2065,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1036,
+    "created_at": "2025-04-28T23:58:42.851517Z",
+    "updated_at": "2025-04-28T23:58:42.851546Z",
+    "lead_time": 7.211
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03967_label_0.jpg",
+    "id": 2066,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1037,
+    "created_at": "2025-04-28T23:58:45.106955Z",
+    "updated_at": "2025-04-28T23:58:45.106986Z",
+    "lead_time": 1.02
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03983_label_0.jpg",
+    "id": 2067,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1038,
+    "created_at": "2025-04-28T23:58:47.331032Z",
+    "updated_at": "2025-04-28T23:58:47.331061Z",
+    "lead_time": 0.971
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03986_label_1.jpg",
+    "id": 2068,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1039,
+    "created_at": "2025-04-28T23:58:49.616131Z",
+    "updated_at": "2025-04-28T23:58:49.616162Z",
+    "lead_time": 1.167
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03993_label_0.jpg",
+    "id": 2069,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1040,
+    "created_at": "2025-04-28T23:58:51.862780Z",
+    "updated_at": "2025-04-28T23:58:51.862803Z",
+    "lead_time": 1.102
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03995_label_0.jpg",
+    "id": 2070,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1041,
+    "created_at": "2025-04-28T23:58:54.022756Z",
+    "updated_at": "2025-04-28T23:58:54.022786Z",
+    "lead_time": 1.021
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_03998_label_1.jpg",
+    "id": 2071,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1042,
+    "created_at": "2025-04-28T23:58:56.245601Z",
+    "updated_at": "2025-04-28T23:58:56.245628Z",
+    "lead_time": 1.087
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04021_label_0.jpg",
+    "id": 2072,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1043,
+    "created_at": "2025-04-28T23:58:58.521488Z",
+    "updated_at": "2025-04-28T23:58:58.521521Z",
+    "lead_time": 1.118
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04037_label_0.jpg",
+    "id": 2073,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1044,
+    "created_at": "2025-04-28T23:59:00.867643Z",
+    "updated_at": "2025-04-28T23:59:00.867673Z",
+    "lead_time": 1.168
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04048_label_1.jpg",
+    "id": 2074,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1045,
+    "created_at": "2025-04-28T23:59:05.381653Z",
+    "updated_at": "2025-04-28T23:59:05.381680Z",
+    "lead_time": 3.319
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04059_label_0.jpg",
+    "id": 2075,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1046,
+    "created_at": "2025-04-28T23:59:07.667522Z",
+    "updated_at": "2025-04-28T23:59:07.667548Z",
+    "lead_time": 1.089
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04070_label_1.jpg",
+    "id": 2076,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1047,
+    "created_at": "2025-04-28T23:59:09.871893Z",
+    "updated_at": "2025-04-28T23:59:09.871927Z",
+    "lead_time": 1.033
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04081_label_0.jpg",
+    "id": 2077,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1048,
+    "created_at": "2025-04-28T23:59:12.010342Z",
+    "updated_at": "2025-04-28T23:59:12.010370Z",
+    "lead_time": 0.948
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04088_label_1.jpg",
+    "id": 2078,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1049,
+    "created_at": "2025-04-28T23:59:14.591458Z",
+    "updated_at": "2025-04-28T23:59:14.591489Z",
+    "lead_time": 1.428
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04118_label_1.jpg",
+    "id": 2079,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1050,
+    "created_at": "2025-04-28T23:59:17.592029Z",
+    "updated_at": "2025-04-28T23:59:17.592059Z",
+    "lead_time": 1.812
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04125_label_0.jpg",
+    "id": 2080,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1051,
+    "created_at": "2025-04-28T23:59:19.951916Z",
+    "updated_at": "2025-04-28T23:59:19.951949Z",
+    "lead_time": 1.084
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04126_label_1.jpg",
+    "id": 2081,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1052,
+    "created_at": "2025-04-28T23:59:23.007069Z",
+    "updated_at": "2025-04-28T23:59:23.007100Z",
+    "lead_time": 1.85
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04130_label_1.jpg",
+    "id": 2082,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1053,
+    "created_at": "2025-04-28T23:59:27.136219Z",
+    "updated_at": "2025-04-28T23:59:27.136248Z",
+    "lead_time": 2.97
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04143_label_0.jpg",
+    "id": 2083,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1054,
+    "created_at": "2025-04-28T23:59:29.531398Z",
+    "updated_at": "2025-04-28T23:59:29.531430Z",
+    "lead_time": 1.205
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04158_label_1.jpg",
+    "id": 2084,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1055,
+    "created_at": "2025-04-28T23:59:31.698411Z",
+    "updated_at": "2025-04-28T23:59:31.698440Z",
+    "lead_time": 0.994
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04161_label_0.jpg",
+    "id": 2085,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1056,
+    "created_at": "2025-04-28T23:59:33.951966Z",
+    "updated_at": "2025-04-28T23:59:33.951992Z",
+    "lead_time": 1.065
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04166_label_1.jpg",
+    "id": 2086,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1057,
+    "created_at": "2025-04-28T23:59:36.920708Z",
+    "updated_at": "2025-04-28T23:59:36.920733Z",
+    "lead_time": 1.817
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04174_label_1.jpg",
+    "id": 2087,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1058,
+    "created_at": "2025-04-28T23:59:39.062187Z",
+    "updated_at": "2025-04-28T23:59:39.062215Z",
+    "lead_time": 0.97
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04177_label_0.jpg",
+    "id": 2088,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1059,
+    "created_at": "2025-04-28T23:59:41.163909Z",
+    "updated_at": "2025-04-28T23:59:41.163948Z",
+    "lead_time": 0.943
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04180_label_1.jpg",
+    "id": 2089,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1060,
+    "created_at": "2025-04-28T23:59:43.489616Z",
+    "updated_at": "2025-04-28T23:59:43.489645Z",
+    "lead_time": 1.147
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04184_label_1.jpg",
+    "id": 2090,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1061,
+    "created_at": "2025-04-28T23:59:46.302327Z",
+    "updated_at": "2025-04-28T23:59:46.302356Z",
+    "lead_time": 1.609
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04200_label_1.jpg",
+    "id": 2091,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1062,
+    "created_at": "2025-04-28T23:59:48.560547Z",
+    "updated_at": "2025-04-28T23:59:48.560573Z",
+    "lead_time": 1.071
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04222_label_1.jpg",
+    "id": 2092,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1063,
+    "created_at": "2025-04-28T23:59:50.763354Z",
+    "updated_at": "2025-04-28T23:59:50.763387Z",
+    "lead_time": 1.011
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04226_label_1.jpg",
+    "id": 2093,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1064,
+    "created_at": "2025-04-28T23:59:52.851389Z",
+    "updated_at": "2025-04-28T23:59:52.851420Z",
+    "lead_time": 0.928
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04253_label_0.jpg",
+    "id": 2094,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1065,
+    "created_at": "2025-04-28T23:59:55.231316Z",
+    "updated_at": "2025-04-28T23:59:55.231344Z",
+    "lead_time": 1.16
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04263_label_0.jpg",
+    "id": 2095,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1066,
+    "created_at": "2025-04-28T23:59:57.710823Z",
+    "updated_at": "2025-04-28T23:59:57.710858Z",
+    "lead_time": 1.305
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04268_label_1.jpg",
+    "id": 2096,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1067,
+    "created_at": "2025-04-29T00:00:02.071608Z",
+    "updated_at": "2025-04-29T00:00:02.071636Z",
+    "lead_time": 3.221
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04276_label_1.jpg",
+    "id": 2097,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1068,
+    "created_at": "2025-04-29T00:00:04.562784Z",
+    "updated_at": "2025-04-29T00:00:04.562820Z",
+    "lead_time": 1.224
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04300_label_1.jpg",
+    "id": 2098,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1069,
+    "created_at": "2025-04-29T00:00:07.547828Z",
+    "updated_at": "2025-04-29T00:00:07.547860Z",
+    "lead_time": 1.76
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04305_label_0.jpg",
+    "id": 2099,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1070,
+    "created_at": "2025-04-29T00:00:09.932578Z",
+    "updated_at": "2025-04-29T00:00:09.932610Z",
+    "lead_time": 1.107
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04309_label_0.jpg",
+    "id": 2100,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1071,
+    "created_at": "2025-04-29T00:00:12.269488Z",
+    "updated_at": "2025-04-29T00:00:12.269517Z",
+    "lead_time": 0.979
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04321_label_0.jpg",
+    "id": 2101,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1072,
+    "created_at": "2025-04-29T00:00:14.454538Z",
+    "updated_at": "2025-04-29T00:00:14.454567Z",
+    "lead_time": 0.949
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04331_label_0.jpg",
+    "id": 2102,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1073,
+    "created_at": "2025-04-29T00:00:16.602368Z",
+    "updated_at": "2025-04-29T00:00:16.602393Z",
+    "lead_time": 0.957
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04342_label_1.jpg",
+    "id": 2103,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1074,
+    "created_at": "2025-04-29T00:00:19.669776Z",
+    "updated_at": "2025-04-29T00:00:19.669806Z",
+    "lead_time": 1.84
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04344_label_1.jpg",
+    "id": 2104,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1075,
+    "created_at": "2025-04-29T00:00:22.069104Z",
+    "updated_at": "2025-04-29T00:00:22.069127Z",
+    "lead_time": 1.196
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04347_label_0.jpg",
+    "id": 2105,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1076,
+    "created_at": "2025-04-29T00:00:24.905016Z",
+    "updated_at": "2025-04-29T00:00:24.905044Z",
+    "lead_time": 1.636
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04355_label_0.jpg",
+    "id": 2106,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1077,
+    "created_at": "2025-04-29T00:00:27.027863Z",
+    "updated_at": "2025-04-29T00:00:27.027891Z",
+    "lead_time": 0.938
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04358_label_1.jpg",
+    "id": 2107,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1078,
+    "created_at": "2025-04-29T00:00:29.235540Z",
+    "updated_at": "2025-04-29T00:00:29.235573Z",
+    "lead_time": 0.994
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04360_label_1.jpg",
+    "id": 2108,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1079,
+    "created_at": "2025-04-29T00:00:31.764037Z",
+    "updated_at": "2025-04-29T00:00:31.764070Z",
+    "lead_time": 0.945
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04367_label_0.jpg",
+    "id": 2109,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1080,
+    "created_at": "2025-04-29T00:00:33.866958Z",
+    "updated_at": "2025-04-29T00:00:33.866987Z",
+    "lead_time": 0.892
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04377_label_0.jpg",
+    "id": 2110,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1081,
+    "created_at": "2025-04-29T00:00:36.008496Z",
+    "updated_at": "2025-04-29T00:00:36.008526Z",
+    "lead_time": 0.877
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04381_label_0.jpg",
+    "id": 2111,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1082,
+    "created_at": "2025-04-29T00:00:38.562240Z",
+    "updated_at": "2025-04-29T00:00:38.562268Z",
+    "lead_time": 1.067
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04382_label_1.jpg",
+    "id": 2112,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1083,
+    "created_at": "2025-04-29T00:00:40.655966Z",
+    "updated_at": "2025-04-29T00:00:40.655997Z",
+    "lead_time": 0.89
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04390_label_1.jpg",
+    "id": 2113,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1084,
+    "created_at": "2025-04-29T00:00:42.959177Z",
+    "updated_at": "2025-04-29T00:00:42.959200Z",
+    "lead_time": 1.036
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04398_label_1.jpg",
+    "id": 2114,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1085,
+    "created_at": "2025-04-29T00:00:45.086927Z",
+    "updated_at": "2025-04-29T00:00:45.086955Z",
+    "lead_time": 0.938
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04411_label_0.jpg",
+    "id": 2115,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1086,
+    "created_at": "2025-04-29T00:00:47.282088Z",
+    "updated_at": "2025-04-29T00:00:47.282114Z",
+    "lead_time": 0.948
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04420_label_1.jpg",
+    "id": 2116,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1087,
+    "created_at": "2025-04-29T00:00:53.245920Z",
+    "updated_at": "2025-04-29T00:00:53.245953Z",
+    "lead_time": 4.739
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04436_label_1.jpg",
+    "id": 2117,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1088,
+    "created_at": "2025-04-29T00:00:55.414503Z",
+    "updated_at": "2025-04-29T00:00:55.414531Z",
+    "lead_time": 0.935
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04438_label_1.jpg",
+    "id": 2118,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1089,
+    "created_at": "2025-04-29T00:00:57.665202Z",
+    "updated_at": "2025-04-29T00:00:57.665231Z",
+    "lead_time": 0.927
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04468_label_1.jpg",
+    "id": 2119,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1090,
+    "created_at": "2025-04-29T00:01:00.405593Z",
+    "updated_at": "2025-04-29T00:01:00.405622Z",
+    "lead_time": 1.203
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04491_label_0.jpg",
+    "id": 2120,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1091,
+    "created_at": "2025-04-29T00:01:02.817733Z",
+    "updated_at": "2025-04-29T00:01:02.817763Z",
+    "lead_time": 1.186
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04497_label_0.jpg",
+    "id": 2121,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1092,
+    "created_at": "2025-04-29T00:01:04.982900Z",
+    "updated_at": "2025-04-29T00:01:04.982927Z",
+    "lead_time": 0.893
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04506_label_1.jpg",
+    "id": 2122,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1093,
+    "created_at": "2025-04-29T00:01:07.971446Z",
+    "updated_at": "2025-04-29T00:01:07.971480Z",
+    "lead_time": 1.755
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04509_label_0.jpg",
+    "id": 2123,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1094,
+    "created_at": "2025-04-29T00:01:12.081022Z",
+    "updated_at": "2025-04-29T00:01:12.081052Z",
+    "lead_time": 2.879
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04520_label_1.jpg",
+    "id": 2124,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1095,
+    "created_at": "2025-04-29T00:01:14.274703Z",
+    "updated_at": "2025-04-29T00:01:14.274732Z",
+    "lead_time": 1.0
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04521_label_0.jpg",
+    "id": 2125,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1096,
+    "created_at": "2025-04-29T00:01:16.604615Z",
+    "updated_at": "2025-04-29T00:01:16.604649Z",
+    "lead_time": 1.072
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04523_label_0.jpg",
+    "id": 2126,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1097,
+    "created_at": "2025-04-29T00:01:18.867410Z",
+    "updated_at": "2025-04-29T00:01:18.867436Z",
+    "lead_time": 1.065
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04533_label_0.jpg",
+    "id": 2127,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1098,
+    "created_at": "2025-04-29T00:01:21.223518Z",
+    "updated_at": "2025-04-29T00:01:21.223546Z",
+    "lead_time": 1.095
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04535_label_0.jpg",
+    "id": 2128,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1099,
+    "created_at": "2025-04-29T00:01:23.669025Z",
+    "updated_at": "2025-04-29T00:01:23.669052Z",
+    "lead_time": 1.225
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04541_label_0.jpg",
+    "id": 2129,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1100,
+    "created_at": "2025-04-29T00:01:25.841236Z",
+    "updated_at": "2025-04-29T00:01:25.841265Z",
+    "lead_time": 0.894
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04542_label_1.jpg",
+    "id": 2130,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1101,
+    "created_at": "2025-04-29T00:01:28.047127Z",
+    "updated_at": "2025-04-29T00:01:28.047150Z",
+    "lead_time": 0.967
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04543_label_0.jpg",
+    "id": 2131,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1102,
+    "created_at": "2025-04-29T00:01:30.346120Z",
+    "updated_at": "2025-04-29T00:01:30.346148Z",
+    "lead_time": 1.058
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04564_label_1.jpg",
+    "id": 2132,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1103,
+    "created_at": "2025-04-29T00:01:47.368568Z",
+    "updated_at": "2025-04-29T00:01:47.368593Z",
+    "lead_time": 15.787
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04567_label_0.jpg",
+    "id": 2133,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1104,
+    "created_at": "2025-04-29T00:01:50.762372Z",
+    "updated_at": "2025-04-29T00:01:50.762401Z",
+    "lead_time": 2.192
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04571_label_0.jpg",
+    "id": 2134,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1105,
+    "created_at": "2025-04-29T00:02:06.666034Z",
+    "updated_at": "2025-04-29T00:02:06.666064Z",
+    "lead_time": 14.675
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04572_label_1.jpg",
+    "id": 2135,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1106,
+    "created_at": "2025-04-29T00:02:09.409845Z",
+    "updated_at": "2025-04-29T00:02:09.409872Z",
+    "lead_time": 1.472
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04578_label_1.jpg",
+    "id": 2136,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1107,
+    "created_at": "2025-04-29T00:02:11.616663Z",
+    "updated_at": "2025-04-29T00:02:11.616694Z",
+    "lead_time": 0.981
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04582_label_1.jpg",
+    "id": 2137,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1108,
+    "created_at": "2025-04-29T00:02:13.983535Z",
+    "updated_at": "2025-04-29T00:02:13.983563Z",
+    "lead_time": 1.143
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04584_label_1.jpg",
+    "id": 2138,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1109,
+    "created_at": "2025-04-29T00:02:17.025849Z",
+    "updated_at": "2025-04-29T00:02:17.025883Z",
+    "lead_time": 1.824
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04601_label_0.jpg",
+    "id": 2139,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1110,
+    "created_at": "2025-04-29T00:02:19.278795Z",
+    "updated_at": "2025-04-29T00:02:19.278822Z",
+    "lead_time": 1.051
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04607_label_0.jpg",
+    "id": 2140,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1111,
+    "created_at": "2025-04-29T00:02:21.582054Z",
+    "updated_at": "2025-04-29T00:02:21.582083Z",
+    "lead_time": 1.023
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04633_label_0.jpg",
+    "id": 2141,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1112,
+    "created_at": "2025-04-29T00:02:24.098667Z",
+    "updated_at": "2025-04-29T00:02:24.098699Z",
+    "lead_time": 1.126
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04654_label_1.jpg",
+    "id": 2142,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1113,
+    "created_at": "2025-04-29T00:02:26.841475Z",
+    "updated_at": "2025-04-29T00:02:26.841505Z",
+    "lead_time": 1.211
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04674_label_1.jpg",
+    "id": 2143,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1114,
+    "created_at": "2025-04-29T00:02:29.497626Z",
+    "updated_at": "2025-04-29T00:02:29.497652Z",
+    "lead_time": 1.43
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04688_label_1.jpg",
+    "id": 2144,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1115,
+    "created_at": "2025-04-29T00:02:31.660723Z",
+    "updated_at": "2025-04-29T00:02:31.660756Z",
+    "lead_time": 0.902
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04709_label_0.jpg",
+    "id": 2145,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1116,
+    "created_at": "2025-04-29T00:02:34.018907Z",
+    "updated_at": "2025-04-29T00:02:34.018947Z",
+    "lead_time": 1.112
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04714_label_1.jpg",
+    "id": 2146,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1117,
+    "created_at": "2025-04-29T00:02:36.346235Z",
+    "updated_at": "2025-04-29T00:02:36.346264Z",
+    "lead_time": 1.113
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04729_label_0.jpg",
+    "id": 2147,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1118,
+    "created_at": "2025-04-29T00:02:38.777207Z",
+    "updated_at": "2025-04-29T00:02:38.777236Z",
+    "lead_time": 1.103
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04731_label_0.jpg",
+    "id": 2148,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1119,
+    "created_at": "2025-04-29T00:02:41.560667Z",
+    "updated_at": "2025-04-29T00:02:41.560698Z",
+    "lead_time": 1.549
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04733_label_0.jpg",
+    "id": 2149,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1120,
+    "created_at": "2025-04-29T00:02:44.717528Z",
+    "updated_at": "2025-04-29T00:02:44.717557Z",
+    "lead_time": 1.793
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04750_label_1.jpg",
+    "id": 2150,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1121,
+    "created_at": "2025-04-29T00:02:47.471240Z",
+    "updated_at": "2025-04-29T00:02:47.471268Z",
+    "lead_time": 1.456
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04754_label_1.jpg",
+    "id": 2151,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1122,
+    "created_at": "2025-04-29T00:02:49.758419Z",
+    "updated_at": "2025-04-29T00:02:49.758460Z",
+    "lead_time": 1.07
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04755_label_0.jpg",
+    "id": 2152,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1123,
+    "created_at": "2025-04-29T00:02:52.037686Z",
+    "updated_at": "2025-04-29T00:02:52.037717Z",
+    "lead_time": 1.058
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04762_label_1.jpg",
+    "id": 2153,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1124,
+    "created_at": "2025-04-29T00:02:55.389240Z",
+    "updated_at": "2025-04-29T00:02:55.389261Z",
+    "lead_time": 2.02
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04791_label_0.jpg",
+    "id": 2154,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1125,
+    "created_at": "2025-04-29T00:02:57.624049Z",
+    "updated_at": "2025-04-29T00:02:57.624077Z",
+    "lead_time": 1.024
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04799_label_0.jpg",
+    "id": 2155,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1126,
+    "created_at": "2025-04-29T00:03:00.568205Z",
+    "updated_at": "2025-04-29T00:03:00.568235Z",
+    "lead_time": 1.698
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04801_label_0.jpg",
+    "id": 2156,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1127,
+    "created_at": "2025-04-29T00:03:02.874047Z",
+    "updated_at": "2025-04-29T00:03:02.874079Z",
+    "lead_time": 1.024
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04810_label_1.jpg",
+    "id": 2157,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1128,
+    "created_at": "2025-04-29T00:03:05.483635Z",
+    "updated_at": "2025-04-29T00:03:05.483671Z",
+    "lead_time": 1.286
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04819_label_0.jpg",
+    "id": 2158,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1129,
+    "created_at": "2025-04-29T00:03:07.796709Z",
+    "updated_at": "2025-04-29T00:03:07.796737Z",
+    "lead_time": 1.01
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04831_label_0.jpg",
+    "id": 2159,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1130,
+    "created_at": "2025-04-29T00:03:10.449195Z",
+    "updated_at": "2025-04-29T00:03:10.449224Z",
+    "lead_time": 1.322
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04845_label_0.jpg",
+    "id": 2160,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1131,
+    "created_at": "2025-04-29T00:03:12.646929Z",
+    "updated_at": "2025-04-29T00:03:12.646956Z",
+    "lead_time": 0.886
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04851_label_0.jpg",
+    "id": 2161,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1132,
+    "created_at": "2025-04-29T00:03:14.884928Z",
+    "updated_at": "2025-04-29T00:03:14.884964Z",
+    "lead_time": 0.932
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04868_label_1.jpg",
+    "id": 2162,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1133,
+    "created_at": "2025-04-29T00:03:17.967711Z",
+    "updated_at": "2025-04-29T00:03:17.967739Z",
+    "lead_time": 1.77
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04877_label_0.jpg",
+    "id": 2163,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1134,
+    "created_at": "2025-04-29T00:03:20.362733Z",
+    "updated_at": "2025-04-29T00:03:20.362762Z",
+    "lead_time": 1.095
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04880_label_1.jpg",
+    "id": 2164,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1135,
+    "created_at": "2025-04-29T00:03:23.835712Z",
+    "updated_at": "2025-04-29T00:03:23.835741Z",
+    "lead_time": 1.736
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04895_label_0.jpg",
+    "id": 2165,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1136,
+    "created_at": "2025-04-29T00:03:26.326852Z",
+    "updated_at": "2025-04-29T00:03:26.326880Z",
+    "lead_time": 1.137
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04900_label_1.jpg",
+    "id": 2166,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1137,
+    "created_at": "2025-04-29T00:03:28.809392Z",
+    "updated_at": "2025-04-29T00:03:28.809423Z",
+    "lead_time": 1.171
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04904_label_1.jpg",
+    "id": 2167,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1138,
+    "created_at": "2025-04-29T00:03:31.158132Z",
+    "updated_at": "2025-04-29T00:03:31.158160Z",
+    "lead_time": 1.022
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04923_label_0.jpg",
+    "id": 2168,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1139,
+    "created_at": "2025-04-29T00:03:33.475903Z",
+    "updated_at": "2025-04-29T00:03:33.475930Z",
+    "lead_time": 1.005
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04925_label_0.jpg",
+    "id": 2169,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1140,
+    "created_at": "2025-04-29T00:03:35.801565Z",
+    "updated_at": "2025-04-29T00:03:35.801592Z",
+    "lead_time": 0.893
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04948_label_1.jpg",
+    "id": 2170,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1141,
+    "created_at": "2025-04-29T00:03:37.964008Z",
+    "updated_at": "2025-04-29T00:03:37.964039Z",
+    "lead_time": 0.892
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04965_label_0.jpg",
+    "id": 2171,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1142,
+    "created_at": "2025-04-29T00:03:40.207050Z",
+    "updated_at": "2025-04-29T00:03:40.207082Z",
+    "lead_time": 0.884
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04977_label_0.jpg",
+    "id": 2172,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1143,
+    "created_at": "2025-04-29T00:03:43.772840Z",
+    "updated_at": "2025-04-29T00:03:43.772874Z",
+    "lead_time": 2.256
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04980_label_1.jpg",
+    "id": 2173,
+    "choice": "car",
+    "annotator": 1,
+    "annotation_id": 1144,
+    "created_at": "2025-04-29T00:03:46.125752Z",
+    "updated_at": "2025-04-29T00:03:46.125783Z",
+    "lead_time": 1.036
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04987_label_0.jpg",
+    "id": 2174,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1145,
+    "created_at": "2025-04-29T00:03:48.376288Z",
+    "updated_at": "2025-04-29T00:03:48.376319Z",
+    "lead_time": 0.939
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04989_label_0.jpg",
+    "id": 2175,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1146,
+    "created_at": "2025-04-29T00:03:50.662211Z",
+    "updated_at": "2025-04-29T00:03:50.662239Z",
+    "lead_time": 0.97
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_cars\/test_ix_04999_label_0.jpg",
+    "id": 2176,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 1147,
+    "created_at": "2025-04-29T00:03:53.280251Z",
+    "updated_at": "2025-04-29T00:03:53.280280Z",
+    "lead_time": 1.27
+  }
+]
