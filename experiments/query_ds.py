@@ -140,17 +140,21 @@ def human_val_classification_report(
     )
 
 
-def get_car_sizes():
-    test = get_car_ds()["test"]
-    # test dataset size
+def get_car_sizes(split: str):
+    assert split in ["train", "val", "test"] 
+    ds = get_car_ds()[split]
+    dataset_size = 0
     # rebatch to 1
-    test = test.unbatch().batch(1)
-    # get dataset size
-    test_size = 0
-    for _ in test:
-        test_size += 1
-    print("test size", test_size)  # 24_476
+    for _ in ds.unbatch().batch(1):
+        dataset_size += 1
+        if dataset_size % 20_000 == 0:
+            print(f"Calculating {split=} {dataset_size=}...")
+    print(f"final size: {split=} {dataset_size=}")  
+    # test: 24_476
+    # split='val' dataset_size=8264
+    # 
 
-
+# module load python cuda/12.4.1-fasrc01 cudnn/9.5.1.17_cuda12-fasrc01 
+# conda activate wakevision_env
 if __name__ == "__main__":
-    fire.Fire(human_val_classification_report)
+    fire.Fire(get_car_sizes)
