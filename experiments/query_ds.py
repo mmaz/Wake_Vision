@@ -142,14 +142,16 @@ def human_val_classification_report(
 
 def get_car_sizes(split: str):
     assert split in ["train", "val", "test"] 
+    BS=512
     ds = get_car_ds()[split]
+    print(f"{split=} loaded, {BS=}", flush=True)
     dataset_size = 0
-    # rebatch to 1
-    for _ in ds.unbatch().batch(1):
+    # rebatch to BS
+    for _ in ds.unbatch().batch(BS):
         dataset_size += 1
-        if dataset_size % 20_000 == 0:
-            print(f"Calculating {split=} {dataset_size=}...")
-    print(f"final size: {split=} {dataset_size=}")  
+        if dataset_size % 100 == 0:
+            print(f"Calculating {split=} {BS*dataset_size=}...", flush=True)
+    print(f"final size: {split=} {dataset_size=} {dataset_size*BS=}", flush=True)  
     # test: 24_476
     # split='val' dataset_size=8264
     # 
