@@ -19,16 +19,16 @@ from experiment_config import default_cfg, get_cfg
 from wake_vision_loader import get_wake_vision
 from vww_loader import get_vww
 
-import wandb
-from wandb.keras import WandbMetricsLogger
+# import wandb
+# from wandb.keras import WandbMetricsLogger
 
 
 def train(cfg=default_cfg, extra_evals=["distance_eval", "miap_eval", "lighting_eval"]):
-    wandb.init(
-        project="wake-vision",
-        name=cfg.EXPERIMENT_NAME,
-        config=cfg,
-    )
+    # wandb.init(
+    #     project="wake-vision",
+    #     name=cfg.EXPERIMENT_NAME,
+    #     config=cfg,
+    # )
 
     if cfg.TARGET_DS == "vww":
         train, val, test = get_vww(cfg)
@@ -73,7 +73,8 @@ def train(cfg=default_cfg, extra_evals=["distance_eval", "miap_eval", "lighting_
         ],
     )
 
-    callbacks = [WandbMetricsLogger()]
+    # callbacks = [WandbMetricsLogger()]
+    callbacks = []
 
     # Distance Eval on each epoch
     if "distance_eval" in extra_evals:
@@ -100,7 +101,7 @@ def train(cfg=default_cfg, extra_evals=["distance_eval", "miap_eval", "lighting_
                     )
                     self.f1_score.update_state(one_hot_true_labels, predictions)
                     print(f"{name}: {self.f1_score.result()[1]}")
-                    wandb.log({"epoch/Dist-" + name: self.f1_score.result()[1]})
+                    # wandb.log({"epoch/Dist-" + name: self.f1_score.result()[1]})
                     self.f1_score.reset_state()
 
         callbacks.append(DistanceEvalCallback())
@@ -126,7 +127,7 @@ def train(cfg=default_cfg, extra_evals=["distance_eval", "miap_eval", "lighting_
                     )
                     self.f1_score.update_state(one_hot_true_labels, predictions)
                     print(f"{name}: {self.f1_score.result()[1]}")
-                    wandb.log({"epoch/MIAPs-" + name: self.f1_score.result()[1]})
+                    # wandb.log({"epoch/MIAPs-" + name: self.f1_score.result()[1]})
                     self.f1_score.reset_state()
 
         callbacks.append(MIAPEvalCallback())
@@ -153,7 +154,7 @@ def train(cfg=default_cfg, extra_evals=["distance_eval", "miap_eval", "lighting_
                     )
                     self.f1_score.update_state(one_hot_true_labels, predictions)
                     print(f"{name}: {self.f1_score.result()[1]}")
-                    wandb.log({"epoch/Lighting-" + name: self.f1_score.result()[1]})
+                    # wandb.log({"epoch/Lighting-" + name: self.f1_score.result()[1]})
                     self.f1_score.reset_state()
 
         callbacks.append(LightingEvalCallback())
@@ -174,7 +175,7 @@ def train(cfg=default_cfg, extra_evals=["distance_eval", "miap_eval", "lighting_
         cfg.to_yaml(stream=fp)
 
     # return path to saved model, to be evaluated
-    wandb.finish()
+    # wandb.finish()
     return cfg.SAVE_FILE
 
 
@@ -202,4 +203,5 @@ if __name__ == "__main__":
     if args.grayscale:
         cfg.grayscale = args.grayscale
 
-    train(cfg, extra_evals=["distance_eval", "miap_eval", "lighting_eval"])
+    # train(cfg, extra_evals=["distance_eval", "miap_eval", "lighting_eval"])
+    train(cfg, extra_evals=[])

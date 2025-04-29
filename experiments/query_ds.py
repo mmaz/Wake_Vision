@@ -144,6 +144,7 @@ def get_car_sizes(split: str):
     assert split in ["train", "val", "test"] 
     BS=512
     ds = get_car_ds()[split]
+    # need to flush when using tee + tf's stdout behavior
     print(f"{split=} loaded, {BS=}", flush=True)
     dataset_size = 0
     # rebatch to BS

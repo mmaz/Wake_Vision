@@ -5,7 +5,7 @@ from ml_collections import config_dict
 def get_cfg(experiment_name=None):
     cfg = config_dict.ConfigDict()
 
-    cfg.BUCKET_NAME = "gs://wake-vision-storage/"
+    cfg.BUCKET_NAME = "/n/netscratch/janapa_reddi_lab/Lab/mmaz/openimages_bucket/"
     cfg.EXPERIMENT_TIME = time.strftime("%Y_%m_%d-%I_%M_%S_%p")
     cfg.EXPERIMENT_NAME = (
         experiment_name + "_" + cfg.EXPERIMENT_TIME
