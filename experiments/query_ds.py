@@ -138,13 +138,11 @@ def human_val_classification_report(
     this function generates a classification report treating human-assigned labels as ground truth
     """
     if target == "car":
-        labelstudio_json: Path = (
-            Path(
+        labelstudio_json = Path(
                 "/n/holylabs/LABS/janapa_reddi_lab/Users/mmaz/wakevision_work/Wake_Vision/wakevision-at-2025-04-29-00-04-5e08b2ab.json"
-            ),
-        )
-    elif target == "bird":
-        raise NotImplementedError("bird not implemented yet")
+            )
+    elif target == "birds":
+        labelstudio_json = Path("/n/holylabs/LABS/janapa_reddi_lab/Users/mmaz/wakevision_work/Wake_Vision/wakevision-birds-500-project-3-at-2025-05-06-04-25-d9628515.json")
     label_data = json.loads(labelstudio_json.read_text())
     y_pred = []
     y_true = []
@@ -202,4 +200,4 @@ def get_sizes(target: str, split: str, batch_size: int):
 # module load python cuda/12.4.1-fasrc01 cudnn/9.5.1.17_cuda12-fasrc01
 # conda activate wakevision_env
 if __name__ == "__main__":
-    fire.Fire(report_tfds_balance)
+    fire.Fire(human_val_classification_report)

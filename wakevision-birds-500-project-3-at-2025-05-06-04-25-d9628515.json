@@ -1,0 +1,5002 @@
+[
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00001_label_0.jpg",
+    "id": 2177,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2177,
+    "created_at": "2025-05-06T04:02:52.209909Z",
+    "updated_at": "2025-05-06T04:02:52.209929Z",
+    "lead_time": 16.09
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00002_label_1.jpg",
+    "id": 2178,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2178,
+    "created_at": "2025-05-06T04:02:54.220681Z",
+    "updated_at": "2025-05-06T04:02:54.220701Z",
+    "lead_time": 0.804
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00004_label_1.jpg",
+    "id": 2179,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2179,
+    "created_at": "2025-05-06T04:02:56.001137Z",
+    "updated_at": "2025-05-06T04:02:56.001156Z",
+    "lead_time": 0.745
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00005_label_0.jpg",
+    "id": 2180,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2180,
+    "created_at": "2025-05-06T04:02:57.869301Z",
+    "updated_at": "2025-05-06T04:02:57.869321Z",
+    "lead_time": 0.935
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00006_label_1.jpg",
+    "id": 2181,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2181,
+    "created_at": "2025-05-06T04:03:00.026550Z",
+    "updated_at": "2025-05-06T04:03:00.026570Z",
+    "lead_time": 1.148
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00007_label_0.jpg",
+    "id": 2182,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2182,
+    "created_at": "2025-05-06T04:03:01.831134Z",
+    "updated_at": "2025-05-06T04:03:01.831153Z",
+    "lead_time": 0.949
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00008_label_1.jpg",
+    "id": 2183,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2183,
+    "created_at": "2025-05-06T04:03:03.735438Z",
+    "updated_at": "2025-05-06T04:03:03.735458Z",
+    "lead_time": 0.877
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00010_label_1.jpg",
+    "id": 2184,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2184,
+    "created_at": "2025-05-06T04:03:05.528579Z",
+    "updated_at": "2025-05-06T04:03:05.528598Z",
+    "lead_time": 0.864
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00011_label_0.jpg",
+    "id": 2185,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2185,
+    "created_at": "2025-05-06T04:03:07.696878Z",
+    "updated_at": "2025-05-06T04:03:07.696898Z",
+    "lead_time": 1.219
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00015_label_0.jpg",
+    "id": 2186,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2186,
+    "created_at": "2025-05-06T04:03:11.858611Z",
+    "updated_at": "2025-05-06T04:03:11.858632Z",
+    "lead_time": 3.203
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00017_label_0.jpg",
+    "id": 2187,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2187,
+    "created_at": "2025-05-06T04:03:13.742195Z",
+    "updated_at": "2025-05-06T04:03:13.742215Z",
+    "lead_time": 1.024
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00020_label_1.jpg",
+    "id": 2188,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2188,
+    "created_at": "2025-05-06T04:03:15.651825Z",
+    "updated_at": "2025-05-06T04:03:15.651846Z",
+    "lead_time": 0.902
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00023_label_0.jpg",
+    "id": 2189,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2189,
+    "created_at": "2025-05-06T04:03:17.868099Z",
+    "updated_at": "2025-05-06T04:03:17.868119Z",
+    "lead_time": 1.356
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00028_label_1.jpg",
+    "id": 2190,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2190,
+    "created_at": "2025-05-06T04:03:19.439947Z",
+    "updated_at": "2025-05-06T04:03:19.439968Z",
+    "lead_time": 0.746
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00029_label_0.jpg",
+    "id": 2191,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2191,
+    "created_at": "2025-05-06T04:03:21.701022Z",
+    "updated_at": "2025-05-06T04:03:21.701042Z",
+    "lead_time": 1.283
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00030_label_1.jpg",
+    "id": 2192,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2192,
+    "created_at": "2025-05-06T04:03:23.495550Z",
+    "updated_at": "2025-05-06T04:03:23.495570Z",
+    "lead_time": 0.879
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00031_label_0.jpg",
+    "id": 2193,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2193,
+    "created_at": "2025-05-06T04:03:25.392985Z",
+    "updated_at": "2025-05-06T04:03:25.393006Z",
+    "lead_time": 0.917
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00032_label_1.jpg",
+    "id": 2194,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2194,
+    "created_at": "2025-05-06T04:03:27.113824Z",
+    "updated_at": "2025-05-06T04:03:27.113843Z",
+    "lead_time": 0.844
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00034_label_1.jpg",
+    "id": 2195,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2195,
+    "created_at": "2025-05-06T04:03:28.877754Z",
+    "updated_at": "2025-05-06T04:03:28.877775Z",
+    "lead_time": 0.867
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00035_label_0.jpg",
+    "id": 2196,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2196,
+    "created_at": "2025-05-06T04:03:30.662361Z",
+    "updated_at": "2025-05-06T04:03:30.662380Z",
+    "lead_time": 0.889
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00038_label_1.jpg",
+    "id": 2197,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2197,
+    "created_at": "2025-05-06T04:03:32.397242Z",
+    "updated_at": "2025-05-06T04:03:32.397263Z",
+    "lead_time": 0.793
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00041_label_0.jpg",
+    "id": 2198,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2198,
+    "created_at": "2025-05-06T04:03:34.422812Z",
+    "updated_at": "2025-05-06T04:03:34.422832Z",
+    "lead_time": 1.06
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00042_label_1.jpg",
+    "id": 2199,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2199,
+    "created_at": "2025-05-06T04:03:36.258547Z",
+    "updated_at": "2025-05-06T04:03:36.258567Z",
+    "lead_time": 0.853
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00043_label_0.jpg",
+    "id": 2200,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2200,
+    "created_at": "2025-05-06T04:03:38.113283Z",
+    "updated_at": "2025-05-06T04:03:38.113303Z",
+    "lead_time": 0.998
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00046_label_1.jpg",
+    "id": 2201,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2201,
+    "created_at": "2025-05-06T04:03:40.155335Z",
+    "updated_at": "2025-05-06T04:03:40.155355Z",
+    "lead_time": 1.014
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00047_label_0.jpg",
+    "id": 2202,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2202,
+    "created_at": "2025-05-06T04:03:42.213992Z",
+    "updated_at": "2025-05-06T04:03:42.214012Z",
+    "lead_time": 1.172
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00048_label_1.jpg",
+    "id": 2203,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2203,
+    "created_at": "2025-05-06T04:03:44.185967Z",
+    "updated_at": "2025-05-06T04:03:44.185988Z",
+    "lead_time": 1.016
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00049_label_0.jpg",
+    "id": 2204,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2204,
+    "created_at": "2025-05-06T04:03:46.047163Z",
+    "updated_at": "2025-05-06T04:03:46.047184Z",
+    "lead_time": 1.008
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00050_label_1.jpg",
+    "id": 2205,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2205,
+    "created_at": "2025-05-06T04:03:47.835520Z",
+    "updated_at": "2025-05-06T04:03:47.835539Z",
+    "lead_time": 0.846
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00051_label_0.jpg",
+    "id": 2206,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2206,
+    "created_at": "2025-05-06T04:03:49.580848Z",
+    "updated_at": "2025-05-06T04:03:49.580868Z",
+    "lead_time": 0.868
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00054_label_1.jpg",
+    "id": 2207,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2207,
+    "created_at": "2025-05-06T04:03:51.191081Z",
+    "updated_at": "2025-05-06T04:03:51.191101Z",
+    "lead_time": 0.785
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00056_label_1.jpg",
+    "id": 2208,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2208,
+    "created_at": "2025-05-06T04:03:53.246715Z",
+    "updated_at": "2025-05-06T04:03:53.246735Z",
+    "lead_time": 1.128
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00058_label_1.jpg",
+    "id": 2209,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2209,
+    "created_at": "2025-05-06T04:03:55.441906Z",
+    "updated_at": "2025-05-06T04:03:55.441927Z",
+    "lead_time": 1.14
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00063_label_0.jpg",
+    "id": 2210,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2210,
+    "created_at": "2025-05-06T04:03:57.741695Z",
+    "updated_at": "2025-05-06T04:03:57.741716Z",
+    "lead_time": 1.32
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00064_label_1.jpg",
+    "id": 2211,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2211,
+    "created_at": "2025-05-06T04:03:59.939449Z",
+    "updated_at": "2025-05-06T04:03:59.939469Z",
+    "lead_time": 1.157
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00065_label_0.jpg",
+    "id": 2212,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2212,
+    "created_at": "2025-05-06T04:04:01.889816Z",
+    "updated_at": "2025-05-06T04:04:01.889836Z",
+    "lead_time": 0.981
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00066_label_1.jpg",
+    "id": 2213,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2213,
+    "created_at": "2025-05-06T04:04:39.323013Z",
+    "updated_at": "2025-05-06T04:04:39.323034Z",
+    "lead_time": 36.426
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00067_label_0.jpg",
+    "id": 2214,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2214,
+    "created_at": "2025-05-06T04:04:41.810881Z",
+    "updated_at": "2025-05-06T04:04:41.810901Z",
+    "lead_time": 1.336
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00069_label_0.jpg",
+    "id": 2215,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2215,
+    "created_at": "2025-05-06T04:04:43.974302Z",
+    "updated_at": "2025-05-06T04:04:43.974322Z",
+    "lead_time": 0.994
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00076_label_1.jpg",
+    "id": 2216,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2216,
+    "created_at": "2025-05-06T04:04:46.019845Z",
+    "updated_at": "2025-05-06T04:04:46.019866Z",
+    "lead_time": 0.976
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00077_label_0.jpg",
+    "id": 2217,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2217,
+    "created_at": "2025-05-06T04:04:47.957134Z",
+    "updated_at": "2025-05-06T04:04:47.957154Z",
+    "lead_time": 0.944
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00078_label_1.jpg",
+    "id": 2218,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2218,
+    "created_at": "2025-05-06T04:04:49.853401Z",
+    "updated_at": "2025-05-06T04:04:49.853422Z",
+    "lead_time": 0.899
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00080_label_1.jpg",
+    "id": 2219,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2219,
+    "created_at": "2025-05-06T04:04:52.176556Z",
+    "updated_at": "2025-05-06T04:04:52.176576Z",
+    "lead_time": 1.314
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00081_label_0.jpg",
+    "id": 2220,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2220,
+    "created_at": "2025-05-06T04:04:57.281099Z",
+    "updated_at": "2025-05-06T04:04:57.281119Z",
+    "lead_time": 4.035
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00082_label_1.jpg",
+    "id": 2221,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2221,
+    "created_at": "2025-05-06T04:04:59.332867Z",
+    "updated_at": "2025-05-06T04:04:59.332888Z",
+    "lead_time": 1.025
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00088_label_1.jpg",
+    "id": 2222,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2222,
+    "created_at": "2025-05-06T04:05:17.946780Z",
+    "updated_at": "2025-05-06T04:05:17.946802Z",
+    "lead_time": 17.499
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00089_label_0.jpg",
+    "id": 2223,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2223,
+    "created_at": "2025-05-06T04:05:20.463335Z",
+    "updated_at": "2025-05-06T04:05:20.463356Z",
+    "lead_time": 1.147
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00090_label_1.jpg",
+    "id": 2224,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2224,
+    "created_at": "2025-05-06T04:05:22.773587Z",
+    "updated_at": "2025-05-06T04:05:22.773607Z",
+    "lead_time": 1.156
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00091_label_0.jpg",
+    "id": 2225,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2225,
+    "created_at": "2025-05-06T04:05:25.132099Z",
+    "updated_at": "2025-05-06T04:05:25.132120Z",
+    "lead_time": 1.134
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00093_label_0.jpg",
+    "id": 2226,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2226,
+    "created_at": "2025-05-06T04:05:27.670591Z",
+    "updated_at": "2025-05-06T04:05:27.670610Z",
+    "lead_time": 1.344
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00094_label_1.jpg",
+    "id": 2227,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2227,
+    "created_at": "2025-05-06T04:05:29.944610Z",
+    "updated_at": "2025-05-06T04:05:29.944631Z",
+    "lead_time": 1.084
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00098_label_1.jpg",
+    "id": 2228,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2228,
+    "created_at": "2025-05-06T04:05:32.024577Z",
+    "updated_at": "2025-05-06T04:05:32.024597Z",
+    "lead_time": 0.882
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00103_label_0.jpg",
+    "id": 2229,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2229,
+    "created_at": "2025-05-06T04:05:34.092072Z",
+    "updated_at": "2025-05-06T04:05:34.092092Z",
+    "lead_time": 1.006
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00105_label_0.jpg",
+    "id": 2230,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2230,
+    "created_at": "2025-05-06T04:05:36.285144Z",
+    "updated_at": "2025-05-06T04:05:36.285163Z",
+    "lead_time": 1.091
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00106_label_1.jpg",
+    "id": 2231,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2231,
+    "created_at": "2025-05-06T04:05:38.264094Z",
+    "updated_at": "2025-05-06T04:05:38.264113Z",
+    "lead_time": 0.965
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00107_label_0.jpg",
+    "id": 2232,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2232,
+    "created_at": "2025-05-06T04:05:40.391565Z",
+    "updated_at": "2025-05-06T04:05:40.391585Z",
+    "lead_time": 1.084
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00109_label_0.jpg",
+    "id": 2233,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2233,
+    "created_at": "2025-05-06T04:05:42.509353Z",
+    "updated_at": "2025-05-06T04:05:42.509373Z",
+    "lead_time": 1.128
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00114_label_1.jpg",
+    "id": 2234,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2234,
+    "created_at": "2025-05-06T04:05:45.501147Z",
+    "updated_at": "2025-05-06T04:05:45.501168Z",
+    "lead_time": 2.06
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00120_label_1.jpg",
+    "id": 2235,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2235,
+    "created_at": "2025-05-06T04:05:47.383166Z",
+    "updated_at": "2025-05-06T04:05:47.383187Z",
+    "lead_time": 0.913
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00122_label_1.jpg",
+    "id": 2236,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2236,
+    "created_at": "2025-05-06T04:06:06.022839Z",
+    "updated_at": "2025-05-06T04:06:06.022858Z",
+    "lead_time": 17.712
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00123_label_0.jpg",
+    "id": 2237,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2237,
+    "created_at": "2025-05-06T04:06:08.908348Z",
+    "updated_at": "2025-05-06T04:06:08.908370Z",
+    "lead_time": 1.704
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00125_label_0.jpg",
+    "id": 2238,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2238,
+    "created_at": "2025-05-06T04:06:11.170789Z",
+    "updated_at": "2025-05-06T04:06:11.170809Z",
+    "lead_time": 1.242
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00126_label_1.jpg",
+    "id": 2239,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2239,
+    "created_at": "2025-05-06T04:06:13.135906Z",
+    "updated_at": "2025-05-06T04:06:13.135927Z",
+    "lead_time": 1.006
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00127_label_0.jpg",
+    "id": 2240,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2240,
+    "created_at": "2025-05-06T04:06:15.513616Z",
+    "updated_at": "2025-05-06T04:06:15.513637Z",
+    "lead_time": 1.414
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00132_label_1.jpg",
+    "id": 2241,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2241,
+    "created_at": "2025-05-06T04:06:17.535514Z",
+    "updated_at": "2025-05-06T04:06:17.535535Z",
+    "lead_time": 1.044
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00134_label_1.jpg",
+    "id": 2242,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2242,
+    "created_at": "2025-05-06T04:06:19.616896Z",
+    "updated_at": "2025-05-06T04:06:19.616916Z",
+    "lead_time": 1.088
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00135_label_0.jpg",
+    "id": 2243,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2243,
+    "created_at": "2025-05-06T04:06:21.792273Z",
+    "updated_at": "2025-05-06T04:06:21.792294Z",
+    "lead_time": 1.165
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00137_label_0.jpg",
+    "id": 2244,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2244,
+    "created_at": "2025-05-06T04:06:24.161700Z",
+    "updated_at": "2025-05-06T04:06:24.161719Z",
+    "lead_time": 1.227
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00141_label_0.jpg",
+    "id": 2245,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2245,
+    "created_at": "2025-05-06T04:06:42.038367Z",
+    "updated_at": "2025-05-06T04:06:42.038388Z",
+    "lead_time": 16.761
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00142_label_1.jpg",
+    "id": 2246,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2246,
+    "created_at": "2025-05-06T04:06:44.169843Z",
+    "updated_at": "2025-05-06T04:06:44.169863Z",
+    "lead_time": 1.057
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00144_label_1.jpg",
+    "id": 2247,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2247,
+    "created_at": "2025-05-06T04:06:46.314497Z",
+    "updated_at": "2025-05-06T04:06:46.314517Z",
+    "lead_time": 1.168
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00145_label_0.jpg",
+    "id": 2248,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2248,
+    "created_at": "2025-05-06T04:06:48.565858Z",
+    "updated_at": "2025-05-06T04:06:48.565877Z",
+    "lead_time": 1.306
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00148_label_1.jpg",
+    "id": 2249,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2249,
+    "created_at": "2025-05-06T04:06:51.409528Z",
+    "updated_at": "2025-05-06T04:06:51.409548Z",
+    "lead_time": 1.736
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00153_label_0.jpg",
+    "id": 2250,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2250,
+    "created_at": "2025-05-06T04:06:53.390878Z",
+    "updated_at": "2025-05-06T04:06:53.390897Z",
+    "lead_time": 1.067
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00154_label_1.jpg",
+    "id": 2251,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2251,
+    "created_at": "2025-05-06T04:06:55.558376Z",
+    "updated_at": "2025-05-06T04:06:55.558398Z",
+    "lead_time": 1.137
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00155_label_0.jpg",
+    "id": 2252,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2252,
+    "created_at": "2025-05-06T04:06:57.576375Z",
+    "updated_at": "2025-05-06T04:06:57.576397Z",
+    "lead_time": 1.065
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00156_label_1.jpg",
+    "id": 2253,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2253,
+    "created_at": "2025-05-06T04:06:59.503440Z",
+    "updated_at": "2025-05-06T04:06:59.503460Z",
+    "lead_time": 0.994
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00157_label_0.jpg",
+    "id": 2254,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2254,
+    "created_at": "2025-05-06T04:07:01.677779Z",
+    "updated_at": "2025-05-06T04:07:01.677799Z",
+    "lead_time": 1.132
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00160_label_1.jpg",
+    "id": 2255,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2255,
+    "created_at": "2025-05-06T04:07:03.677579Z",
+    "updated_at": "2025-05-06T04:07:03.677599Z",
+    "lead_time": 1.031
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00161_label_0.jpg",
+    "id": 2256,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2256,
+    "created_at": "2025-05-06T04:07:05.768094Z",
+    "updated_at": "2025-05-06T04:07:05.768113Z",
+    "lead_time": 1.023
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00163_label_0.jpg",
+    "id": 2257,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2257,
+    "created_at": "2025-05-06T04:07:11.628336Z",
+    "updated_at": "2025-05-06T04:07:11.628357Z",
+    "lead_time": 4.87
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00165_label_0.jpg",
+    "id": 2258,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2258,
+    "created_at": "2025-05-06T04:07:14.116433Z",
+    "updated_at": "2025-05-06T04:07:14.116452Z",
+    "lead_time": 1.476
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00168_label_1.jpg",
+    "id": 2259,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2259,
+    "created_at": "2025-05-06T04:07:16.490871Z",
+    "updated_at": "2025-05-06T04:07:16.490891Z",
+    "lead_time": 1.274
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00169_label_0.jpg",
+    "id": 2260,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2260,
+    "created_at": "2025-05-06T04:07:18.443879Z",
+    "updated_at": "2025-05-06T04:07:18.443901Z",
+    "lead_time": 1.026
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00170_label_1.jpg",
+    "id": 2261,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2261,
+    "created_at": "2025-05-06T04:07:20.451516Z",
+    "updated_at": "2025-05-06T04:07:20.451536Z",
+    "lead_time": 0.943
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00171_label_0.jpg",
+    "id": 2262,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2262,
+    "created_at": "2025-05-06T04:07:22.484785Z",
+    "updated_at": "2025-05-06T04:07:22.484804Z",
+    "lead_time": 1.067
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00177_label_0.jpg",
+    "id": 2263,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2263,
+    "created_at": "2025-05-06T04:07:24.633298Z",
+    "updated_at": "2025-05-06T04:07:24.633319Z",
+    "lead_time": 1.207
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00179_label_0.jpg",
+    "id": 2264,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2264,
+    "created_at": "2025-05-06T04:07:26.621916Z",
+    "updated_at": "2025-05-06T04:07:26.621936Z",
+    "lead_time": 0.977
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00181_label_0.jpg",
+    "id": 2265,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2265,
+    "created_at": "2025-05-06T04:07:28.596924Z",
+    "updated_at": "2025-05-06T04:07:28.596944Z",
+    "lead_time": 0.981
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00187_label_0.jpg",
+    "id": 2266,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2266,
+    "created_at": "2025-05-06T04:07:30.572876Z",
+    "updated_at": "2025-05-06T04:07:30.572896Z",
+    "lead_time": 0.973
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00188_label_1.jpg",
+    "id": 2267,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2267,
+    "created_at": "2025-05-06T04:07:32.962523Z",
+    "updated_at": "2025-05-06T04:07:32.962542Z",
+    "lead_time": 1.272
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00189_label_0.jpg",
+    "id": 2268,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2268,
+    "created_at": "2025-05-06T04:07:35.018170Z",
+    "updated_at": "2025-05-06T04:07:35.018190Z",
+    "lead_time": 0.944
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00190_label_1.jpg",
+    "id": 2269,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2269,
+    "created_at": "2025-05-06T04:07:37.129454Z",
+    "updated_at": "2025-05-06T04:07:37.129474Z",
+    "lead_time": 1.075
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00192_label_1.jpg",
+    "id": 2270,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2270,
+    "created_at": "2025-05-06T04:07:39.228859Z",
+    "updated_at": "2025-05-06T04:07:39.228878Z",
+    "lead_time": 1.124
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00193_label_0.jpg",
+    "id": 2271,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2271,
+    "created_at": "2025-05-06T04:07:41.320992Z",
+    "updated_at": "2025-05-06T04:07:41.321014Z",
+    "lead_time": 1.072
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00194_label_1.jpg",
+    "id": 2272,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2272,
+    "created_at": "2025-05-06T04:07:43.420450Z",
+    "updated_at": "2025-05-06T04:07:43.420470Z",
+    "lead_time": 1.024
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00196_label_1.jpg",
+    "id": 2273,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2273,
+    "created_at": "2025-05-06T04:07:45.951086Z",
+    "updated_at": "2025-05-06T04:07:45.951105Z",
+    "lead_time": 1.419
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00198_label_1.jpg",
+    "id": 2274,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2274,
+    "created_at": "2025-05-06T04:07:48.436364Z",
+    "updated_at": "2025-05-06T04:07:48.436385Z",
+    "lead_time": 1.454
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00200_label_1.jpg",
+    "id": 2275,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2275,
+    "created_at": "2025-05-06T04:07:50.620308Z",
+    "updated_at": "2025-05-06T04:07:50.620328Z",
+    "lead_time": 1.241
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00204_label_1.jpg",
+    "id": 2276,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2276,
+    "created_at": "2025-05-06T04:07:52.544314Z",
+    "updated_at": "2025-05-06T04:07:52.544335Z",
+    "lead_time": 0.942
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00205_label_0.jpg",
+    "id": 2277,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2277,
+    "created_at": "2025-05-06T04:07:54.366178Z",
+    "updated_at": "2025-05-06T04:07:54.366200Z",
+    "lead_time": 0.858
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00206_label_1.jpg",
+    "id": 2278,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2278,
+    "created_at": "2025-05-06T04:07:56.269136Z",
+    "updated_at": "2025-05-06T04:07:56.269155Z",
+    "lead_time": 0.924
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00207_label_0.jpg",
+    "id": 2279,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2279,
+    "created_at": "2025-05-06T04:07:58.620052Z",
+    "updated_at": "2025-05-06T04:07:58.620075Z",
+    "lead_time": 1.329
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00208_label_1.jpg",
+    "id": 2280,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2280,
+    "created_at": "2025-05-06T04:08:00.491360Z",
+    "updated_at": "2025-05-06T04:08:00.491381Z",
+    "lead_time": 0.95
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00211_label_0.jpg",
+    "id": 2281,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2281,
+    "created_at": "2025-05-06T04:08:02.420574Z",
+    "updated_at": "2025-05-06T04:08:02.420594Z",
+    "lead_time": 0.932
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00213_label_0.jpg",
+    "id": 2282,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2282,
+    "created_at": "2025-05-06T04:08:04.369712Z",
+    "updated_at": "2025-05-06T04:08:04.369732Z",
+    "lead_time": 0.961
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00214_label_1.jpg",
+    "id": 2283,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2283,
+    "created_at": "2025-05-06T04:08:06.418710Z",
+    "updated_at": "2025-05-06T04:08:06.418729Z",
+    "lead_time": 1.082
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00216_label_1.jpg",
+    "id": 2284,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2284,
+    "created_at": "2025-05-06T04:08:08.735505Z",
+    "updated_at": "2025-05-06T04:08:08.735525Z",
+    "lead_time": 1.358
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00217_label_0.jpg",
+    "id": 2285,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2285,
+    "created_at": "2025-05-06T04:08:10.619106Z",
+    "updated_at": "2025-05-06T04:08:10.619126Z",
+    "lead_time": 0.927
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00218_label_1.jpg",
+    "id": 2286,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2286,
+    "created_at": "2025-05-06T04:08:12.729059Z",
+    "updated_at": "2025-05-06T04:08:12.729080Z",
+    "lead_time": 0.95
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00219_label_0.jpg",
+    "id": 2287,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2287,
+    "created_at": "2025-05-06T04:08:14.879689Z",
+    "updated_at": "2025-05-06T04:08:14.879709Z",
+    "lead_time": 1.114
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00221_label_0.jpg",
+    "id": 2288,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2288,
+    "created_at": "2025-05-06T04:08:17.359014Z",
+    "updated_at": "2025-05-06T04:08:17.359037Z",
+    "lead_time": 1.431
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00222_label_1.jpg",
+    "id": 2289,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2289,
+    "created_at": "2025-05-06T04:08:20.411793Z",
+    "updated_at": "2025-05-06T04:08:20.411816Z",
+    "lead_time": 2.107
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00225_label_0.jpg",
+    "id": 2290,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2290,
+    "created_at": "2025-05-06T04:08:22.372591Z",
+    "updated_at": "2025-05-06T04:08:22.372611Z",
+    "lead_time": 0.941
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00228_label_1.jpg",
+    "id": 2291,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2291,
+    "created_at": "2025-05-06T04:08:24.899080Z",
+    "updated_at": "2025-05-06T04:08:24.899099Z",
+    "lead_time": 1.289
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00229_label_0.jpg",
+    "id": 2292,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2292,
+    "created_at": "2025-05-06T04:08:27.205155Z",
+    "updated_at": "2025-05-06T04:08:27.205175Z",
+    "lead_time": 1.25
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00230_label_1.jpg",
+    "id": 2293,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2293,
+    "created_at": "2025-05-06T04:08:29.218419Z",
+    "updated_at": "2025-05-06T04:08:29.218440Z",
+    "lead_time": 0.925
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00231_label_0.jpg",
+    "id": 2294,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2294,
+    "created_at": "2025-05-06T04:08:31.224121Z",
+    "updated_at": "2025-05-06T04:08:31.224141Z",
+    "lead_time": 1.043
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00232_label_1.jpg",
+    "id": 2295,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2295,
+    "created_at": "2025-05-06T04:08:33.157830Z",
+    "updated_at": "2025-05-06T04:08:33.157851Z",
+    "lead_time": 0.929
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00233_label_0.jpg",
+    "id": 2296,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2296,
+    "created_at": "2025-05-06T04:08:35.030370Z",
+    "updated_at": "2025-05-06T04:08:35.030390Z",
+    "lead_time": 0.889
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00240_label_1.jpg",
+    "id": 2297,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2297,
+    "created_at": "2025-05-06T04:08:36.894752Z",
+    "updated_at": "2025-05-06T04:08:36.894772Z",
+    "lead_time": 0.901
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00242_label_1.jpg",
+    "id": 2298,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2298,
+    "created_at": "2025-05-06T04:08:39.003770Z",
+    "updated_at": "2025-05-06T04:08:39.003790Z",
+    "lead_time": 0.956
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00249_label_0.jpg",
+    "id": 2299,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2299,
+    "created_at": "2025-05-06T04:08:41.049874Z",
+    "updated_at": "2025-05-06T04:08:41.049895Z",
+    "lead_time": 0.991
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00251_label_0.jpg",
+    "id": 2300,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2300,
+    "created_at": "2025-05-06T04:08:43.218569Z",
+    "updated_at": "2025-05-06T04:08:43.218589Z",
+    "lead_time": 1.172
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00254_label_1.jpg",
+    "id": 2301,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2301,
+    "created_at": "2025-05-06T04:08:45.250186Z",
+    "updated_at": "2025-05-06T04:08:45.250206Z",
+    "lead_time": 1.051
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00255_label_0.jpg",
+    "id": 2302,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2302,
+    "created_at": "2025-05-06T04:08:56.241815Z",
+    "updated_at": "2025-05-06T04:08:56.241835Z",
+    "lead_time": 10.025
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00256_label_1.jpg",
+    "id": 2303,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2303,
+    "created_at": "2025-05-06T04:08:58.390349Z",
+    "updated_at": "2025-05-06T04:08:58.390370Z",
+    "lead_time": 1.06
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00257_label_0.jpg",
+    "id": 2304,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2304,
+    "created_at": "2025-05-06T04:09:00.419771Z",
+    "updated_at": "2025-05-06T04:09:00.419791Z",
+    "lead_time": 1.005
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00258_label_1.jpg",
+    "id": 2305,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2305,
+    "created_at": "2025-05-06T04:09:15.643844Z",
+    "updated_at": "2025-05-06T04:09:15.643864Z",
+    "lead_time": 8.035
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00259_label_0.jpg",
+    "id": 2306,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2306,
+    "created_at": "2025-05-06T04:09:19.930514Z",
+    "updated_at": "2025-05-06T04:09:19.930535Z",
+    "lead_time": 3.165
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00261_label_0.jpg",
+    "id": 2307,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2307,
+    "created_at": "2025-05-06T04:09:22.429409Z",
+    "updated_at": "2025-05-06T04:09:22.429430Z",
+    "lead_time": 1.327
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00264_label_1.jpg",
+    "id": 2308,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2308,
+    "created_at": "2025-05-06T04:09:24.936276Z",
+    "updated_at": "2025-05-06T04:09:24.936297Z",
+    "lead_time": 1.368
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00267_label_0.jpg",
+    "id": 2309,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2309,
+    "created_at": "2025-05-06T04:09:27.211403Z",
+    "updated_at": "2025-05-06T04:09:27.211424Z",
+    "lead_time": 1.205
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00268_label_1.jpg",
+    "id": 2310,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2310,
+    "created_at": "2025-05-06T04:09:29.489699Z",
+    "updated_at": "2025-05-06T04:09:29.489719Z",
+    "lead_time": 1.06
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00270_label_1.jpg",
+    "id": 2311,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2311,
+    "created_at": "2025-05-06T04:09:31.868833Z",
+    "updated_at": "2025-05-06T04:09:31.868852Z",
+    "lead_time": 1.215
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00271_label_0.jpg",
+    "id": 2312,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2312,
+    "created_at": "2025-05-06T04:09:34.152282Z",
+    "updated_at": "2025-05-06T04:09:34.152303Z",
+    "lead_time": 1.163
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00276_label_1.jpg",
+    "id": 2313,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2313,
+    "created_at": "2025-05-06T04:09:36.327286Z",
+    "updated_at": "2025-05-06T04:09:36.327305Z",
+    "lead_time": 1.051
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00277_label_0.jpg",
+    "id": 2314,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2314,
+    "created_at": "2025-05-06T04:09:38.359549Z",
+    "updated_at": "2025-05-06T04:09:38.359570Z",
+    "lead_time": 0.948
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00278_label_1.jpg",
+    "id": 2315,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2315,
+    "created_at": "2025-05-06T04:09:40.455926Z",
+    "updated_at": "2025-05-06T04:09:40.455948Z",
+    "lead_time": 0.954
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00279_label_0.jpg",
+    "id": 2316,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2316,
+    "created_at": "2025-05-06T04:09:42.577132Z",
+    "updated_at": "2025-05-06T04:09:42.577152Z",
+    "lead_time": 1.058
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00281_label_0.jpg",
+    "id": 2317,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2317,
+    "created_at": "2025-05-06T04:09:44.830040Z",
+    "updated_at": "2025-05-06T04:09:44.830061Z",
+    "lead_time": 1.193
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00284_label_1.jpg",
+    "id": 2318,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2318,
+    "created_at": "2025-05-06T04:09:46.884198Z",
+    "updated_at": "2025-05-06T04:09:46.884219Z",
+    "lead_time": 0.995
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00287_label_0.jpg",
+    "id": 2319,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2319,
+    "created_at": "2025-05-06T04:09:48.956395Z",
+    "updated_at": "2025-05-06T04:09:48.956415Z",
+    "lead_time": 0.935
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00288_label_1.jpg",
+    "id": 2320,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2320,
+    "created_at": "2025-05-06T04:09:51.070004Z",
+    "updated_at": "2025-05-06T04:09:51.070024Z",
+    "lead_time": 1.022
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00289_label_0.jpg",
+    "id": 2321,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2321,
+    "created_at": "2025-05-06T04:09:53.005722Z",
+    "updated_at": "2025-05-06T04:09:53.005742Z",
+    "lead_time": 0.857
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00290_label_1.jpg",
+    "id": 2322,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2322,
+    "created_at": "2025-05-06T04:09:55.095530Z",
+    "updated_at": "2025-05-06T04:09:55.095550Z",
+    "lead_time": 0.918
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00292_label_1.jpg",
+    "id": 2323,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2323,
+    "created_at": "2025-05-06T04:09:57.385551Z",
+    "updated_at": "2025-05-06T04:09:57.385570Z",
+    "lead_time": 1.199
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00293_label_0.jpg",
+    "id": 2324,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2324,
+    "created_at": "2025-05-06T04:09:59.783220Z",
+    "updated_at": "2025-05-06T04:09:59.783240Z",
+    "lead_time": 1.28
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00296_label_1.jpg",
+    "id": 2325,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2325,
+    "created_at": "2025-05-06T04:10:01.881472Z",
+    "updated_at": "2025-05-06T04:10:01.881494Z",
+    "lead_time": 0.924
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00299_label_0.jpg",
+    "id": 2326,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2326,
+    "created_at": "2025-05-06T04:10:03.961963Z",
+    "updated_at": "2025-05-06T04:10:03.961984Z",
+    "lead_time": 1.018
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00303_label_0.jpg",
+    "id": 2327,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2327,
+    "created_at": "2025-05-06T04:10:06.485560Z",
+    "updated_at": "2025-05-06T04:10:06.485580Z",
+    "lead_time": 1.354
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00305_label_0.jpg",
+    "id": 2328,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2328,
+    "created_at": "2025-05-06T04:10:09.354258Z",
+    "updated_at": "2025-05-06T04:10:09.354279Z",
+    "lead_time": 1.705
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00306_label_1.jpg",
+    "id": 2329,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2329,
+    "created_at": "2025-05-06T04:10:11.465417Z",
+    "updated_at": "2025-05-06T04:10:11.465436Z",
+    "lead_time": 1.023
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00307_label_0.jpg",
+    "id": 2330,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2330,
+    "created_at": "2025-05-06T04:10:13.753464Z",
+    "updated_at": "2025-05-06T04:10:13.753484Z",
+    "lead_time": 1.035
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00311_label_0.jpg",
+    "id": 2331,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2331,
+    "created_at": "2025-05-06T04:10:15.799360Z",
+    "updated_at": "2025-05-06T04:10:15.799380Z",
+    "lead_time": 0.969
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00312_label_1.jpg",
+    "id": 2332,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2332,
+    "created_at": "2025-05-06T04:10:18.083518Z",
+    "updated_at": "2025-05-06T04:10:18.083539Z",
+    "lead_time": 1.157
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00316_label_1.jpg",
+    "id": 2333,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2333,
+    "created_at": "2025-05-06T04:10:20.183615Z",
+    "updated_at": "2025-05-06T04:10:20.183636Z",
+    "lead_time": 1.054
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00318_label_1.jpg",
+    "id": 2334,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2334,
+    "created_at": "2025-05-06T04:10:22.569403Z",
+    "updated_at": "2025-05-06T04:10:22.569424Z",
+    "lead_time": 1.28
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00319_label_0.jpg",
+    "id": 2335,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2335,
+    "created_at": "2025-05-06T04:10:24.699734Z",
+    "updated_at": "2025-05-06T04:10:24.699758Z",
+    "lead_time": 1.092
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00320_label_1.jpg",
+    "id": 2336,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2336,
+    "created_at": "2025-05-06T04:10:26.827384Z",
+    "updated_at": "2025-05-06T04:10:26.827404Z",
+    "lead_time": 0.974
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00321_label_0.jpg",
+    "id": 2337,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2337,
+    "created_at": "2025-05-06T04:10:28.771909Z",
+    "updated_at": "2025-05-06T04:10:28.771929Z",
+    "lead_time": 0.857
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00324_label_1.jpg",
+    "id": 2338,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2338,
+    "created_at": "2025-05-06T04:10:30.746259Z",
+    "updated_at": "2025-05-06T04:10:30.746278Z",
+    "lead_time": 0.868
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00326_label_1.jpg",
+    "id": 2339,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2339,
+    "created_at": "2025-05-06T04:10:32.788684Z",
+    "updated_at": "2025-05-06T04:10:32.788704Z",
+    "lead_time": 0.999
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00327_label_0.jpg",
+    "id": 2340,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2340,
+    "created_at": "2025-05-06T04:10:34.842474Z",
+    "updated_at": "2025-05-06T04:10:34.842495Z",
+    "lead_time": 0.994
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00328_label_1.jpg",
+    "id": 2341,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2341,
+    "created_at": "2025-05-06T04:10:36.834366Z",
+    "updated_at": "2025-05-06T04:10:36.834386Z",
+    "lead_time": 0.889
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00330_label_1.jpg",
+    "id": 2342,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2342,
+    "created_at": "2025-05-06T04:10:38.831610Z",
+    "updated_at": "2025-05-06T04:10:38.831631Z",
+    "lead_time": 0.943
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00331_label_0.jpg",
+    "id": 2343,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2343,
+    "created_at": "2025-05-06T04:10:50.696375Z",
+    "updated_at": "2025-05-06T04:10:50.696394Z",
+    "lead_time": 10.806
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00332_label_1.jpg",
+    "id": 2344,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2344,
+    "created_at": "2025-05-06T04:10:52.695107Z",
+    "updated_at": "2025-05-06T04:10:52.695128Z",
+    "lead_time": 0.944
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00334_label_1.jpg",
+    "id": 2345,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2345,
+    "created_at": "2025-05-06T04:10:55.968677Z",
+    "updated_at": "2025-05-06T04:10:55.968698Z",
+    "lead_time": 2.174
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00336_label_1.jpg",
+    "id": 2346,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2346,
+    "created_at": "2025-05-06T04:10:58.237218Z",
+    "updated_at": "2025-05-06T04:10:58.237240Z",
+    "lead_time": 1.059
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00338_label_1.jpg",
+    "id": 2347,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2347,
+    "created_at": "2025-05-06T04:11:00.419752Z",
+    "updated_at": "2025-05-06T04:11:00.419771Z",
+    "lead_time": 1.065
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00342_label_1.jpg",
+    "id": 2348,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2348,
+    "created_at": "2025-05-06T04:11:02.998336Z",
+    "updated_at": "2025-05-06T04:11:02.998355Z",
+    "lead_time": 1.452
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00345_label_0.jpg",
+    "id": 2349,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2349,
+    "created_at": "2025-05-06T04:11:05.811231Z",
+    "updated_at": "2025-05-06T04:11:05.811250Z",
+    "lead_time": 1.71
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00348_label_1.jpg",
+    "id": 2350,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2350,
+    "created_at": "2025-05-06T04:11:08.649781Z",
+    "updated_at": "2025-05-06T04:11:08.649802Z",
+    "lead_time": 1.623
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00349_label_0.jpg",
+    "id": 2351,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2351,
+    "created_at": "2025-05-06T04:11:11.056788Z",
+    "updated_at": "2025-05-06T04:11:11.056808Z",
+    "lead_time": 1.14
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00350_label_1.jpg",
+    "id": 2352,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2352,
+    "created_at": "2025-05-06T04:11:13.271693Z",
+    "updated_at": "2025-05-06T04:11:13.271712Z",
+    "lead_time": 1.109
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00352_label_1.jpg",
+    "id": 2353,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2353,
+    "created_at": "2025-05-06T04:11:23.180657Z",
+    "updated_at": "2025-05-06T04:11:23.180677Z",
+    "lead_time": 8.492
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00354_label_1.jpg",
+    "id": 2354,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2354,
+    "created_at": "2025-05-06T04:11:25.413801Z",
+    "updated_at": "2025-05-06T04:11:25.413821Z",
+    "lead_time": 1.003
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00358_label_1.jpg",
+    "id": 2355,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2355,
+    "created_at": "2025-05-06T04:11:27.520061Z",
+    "updated_at": "2025-05-06T04:11:27.520081Z",
+    "lead_time": 1.019
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00359_label_0.jpg",
+    "id": 2356,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2356,
+    "created_at": "2025-05-06T04:11:29.757401Z",
+    "updated_at": "2025-05-06T04:11:29.757421Z",
+    "lead_time": 1.14
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00362_label_1.jpg",
+    "id": 2357,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2357,
+    "created_at": "2025-05-06T04:11:31.923615Z",
+    "updated_at": "2025-05-06T04:11:31.923637Z",
+    "lead_time": 1.102
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00364_label_1.jpg",
+    "id": 2358,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2358,
+    "created_at": "2025-05-06T04:11:34.075124Z",
+    "updated_at": "2025-05-06T04:11:34.075143Z",
+    "lead_time": 1.021
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00366_label_1.jpg",
+    "id": 2359,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2359,
+    "created_at": "2025-05-06T04:11:54.707055Z",
+    "updated_at": "2025-05-06T04:11:54.707076Z",
+    "lead_time": 19.563
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00368_label_1.jpg",
+    "id": 2360,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2360,
+    "created_at": "2025-05-06T04:11:56.897854Z",
+    "updated_at": "2025-05-06T04:11:56.897873Z",
+    "lead_time": 1.056
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00371_label_0.jpg",
+    "id": 2361,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2361,
+    "created_at": "2025-05-06T04:11:59.190438Z",
+    "updated_at": "2025-05-06T04:11:59.190459Z",
+    "lead_time": 1.164
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00375_label_0.jpg",
+    "id": 2362,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2362,
+    "created_at": "2025-05-06T04:12:01.763892Z",
+    "updated_at": "2025-05-06T04:12:01.763911Z",
+    "lead_time": 1.417
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00376_label_1.jpg",
+    "id": 2363,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2363,
+    "created_at": "2025-05-06T04:12:03.828325Z",
+    "updated_at": "2025-05-06T04:12:03.828345Z",
+    "lead_time": 0.937
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00380_label_1.jpg",
+    "id": 2364,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2364,
+    "created_at": "2025-05-06T04:12:06.230108Z",
+    "updated_at": "2025-05-06T04:12:06.230127Z",
+    "lead_time": 1.178
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00382_label_1.jpg",
+    "id": 2365,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2365,
+    "created_at": "2025-05-06T04:12:08.470749Z",
+    "updated_at": "2025-05-06T04:12:08.470770Z",
+    "lead_time": 1.131
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00383_label_0.jpg",
+    "id": 2366,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2366,
+    "created_at": "2025-05-06T04:12:10.587319Z",
+    "updated_at": "2025-05-06T04:12:10.587339Z",
+    "lead_time": 0.94
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00386_label_1.jpg",
+    "id": 2367,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2367,
+    "created_at": "2025-05-06T04:12:12.850892Z",
+    "updated_at": "2025-05-06T04:12:12.850912Z",
+    "lead_time": 1.027
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00390_label_1.jpg",
+    "id": 2368,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2368,
+    "created_at": "2025-05-06T04:12:15.228227Z",
+    "updated_at": "2025-05-06T04:12:15.228247Z",
+    "lead_time": 1.305
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00391_label_0.jpg",
+    "id": 2369,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2369,
+    "created_at": "2025-05-06T04:12:17.672631Z",
+    "updated_at": "2025-05-06T04:12:17.672652Z",
+    "lead_time": 1.249
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00396_label_1.jpg",
+    "id": 2370,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2370,
+    "created_at": "2025-05-06T04:12:19.716200Z",
+    "updated_at": "2025-05-06T04:12:19.716221Z",
+    "lead_time": 0.951
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00399_label_0.jpg",
+    "id": 2371,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2371,
+    "created_at": "2025-05-06T04:12:21.821664Z",
+    "updated_at": "2025-05-06T04:12:21.821684Z",
+    "lead_time": 1.004
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00403_label_0.jpg",
+    "id": 2372,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2372,
+    "created_at": "2025-05-06T04:12:23.826988Z",
+    "updated_at": "2025-05-06T04:12:23.827009Z",
+    "lead_time": 0.903
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00404_label_1.jpg",
+    "id": 2373,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2373,
+    "created_at": "2025-05-06T04:12:25.942299Z",
+    "updated_at": "2025-05-06T04:12:25.942320Z",
+    "lead_time": 0.98
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00405_label_0.jpg",
+    "id": 2374,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2374,
+    "created_at": "2025-05-06T04:12:28.326530Z",
+    "updated_at": "2025-05-06T04:12:28.326550Z",
+    "lead_time": 1.225
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00406_label_1.jpg",
+    "id": 2375,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2375,
+    "created_at": "2025-05-06T04:12:30.578040Z",
+    "updated_at": "2025-05-06T04:12:30.578061Z",
+    "lead_time": 1.175
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00408_label_1.jpg",
+    "id": 2376,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2376,
+    "created_at": "2025-05-06T04:12:32.625809Z",
+    "updated_at": "2025-05-06T04:12:32.625829Z",
+    "lead_time": 0.937
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00409_label_0.jpg",
+    "id": 2377,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2377,
+    "created_at": "2025-05-06T04:12:34.619998Z",
+    "updated_at": "2025-05-06T04:12:34.620018Z",
+    "lead_time": 0.865
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00413_label_0.jpg",
+    "id": 2378,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2378,
+    "created_at": "2025-05-06T04:12:36.755145Z",
+    "updated_at": "2025-05-06T04:12:36.755166Z",
+    "lead_time": 1.063
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00414_label_1.jpg",
+    "id": 2379,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2379,
+    "created_at": "2025-05-06T04:12:38.876821Z",
+    "updated_at": "2025-05-06T04:12:38.876841Z",
+    "lead_time": 0.946
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00420_label_1.jpg",
+    "id": 2380,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2380,
+    "created_at": "2025-05-06T04:12:41.141442Z",
+    "updated_at": "2025-05-06T04:12:41.141463Z",
+    "lead_time": 1.105
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00423_label_0.jpg",
+    "id": 2381,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2381,
+    "created_at": "2025-05-06T04:12:43.349293Z",
+    "updated_at": "2025-05-06T04:12:43.349314Z",
+    "lead_time": 0.901
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00424_label_1.jpg",
+    "id": 2382,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2382,
+    "created_at": "2025-05-06T04:12:45.520519Z",
+    "updated_at": "2025-05-06T04:12:45.520539Z",
+    "lead_time": 0.977
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00425_label_0.jpg",
+    "id": 2383,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2383,
+    "created_at": "2025-05-06T04:12:47.718954Z",
+    "updated_at": "2025-05-06T04:12:47.718974Z",
+    "lead_time": 1.043
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00426_label_1.jpg",
+    "id": 2384,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2384,
+    "created_at": "2025-05-06T04:12:50.238126Z",
+    "updated_at": "2025-05-06T04:12:50.238146Z",
+    "lead_time": 1.265
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00428_label_1.jpg",
+    "id": 2385,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2385,
+    "created_at": "2025-05-06T04:12:52.395856Z",
+    "updated_at": "2025-05-06T04:12:52.395876Z",
+    "lead_time": 0.975
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00430_label_1.jpg",
+    "id": 2386,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2386,
+    "created_at": "2025-05-06T04:12:54.499976Z",
+    "updated_at": "2025-05-06T04:12:54.499997Z",
+    "lead_time": 0.973
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00432_label_1.jpg",
+    "id": 2387,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2387,
+    "created_at": "2025-05-06T04:12:56.505516Z",
+    "updated_at": "2025-05-06T04:12:56.505536Z",
+    "lead_time": 0.866
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00435_label_0.jpg",
+    "id": 2388,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2388,
+    "created_at": "2025-05-06T04:12:58.713352Z",
+    "updated_at": "2025-05-06T04:12:58.713372Z",
+    "lead_time": 1.033
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00436_label_1.jpg",
+    "id": 2389,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2389,
+    "created_at": "2025-05-06T04:13:00.895268Z",
+    "updated_at": "2025-05-06T04:13:00.895288Z",
+    "lead_time": 0.979
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00442_label_1.jpg",
+    "id": 2390,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2390,
+    "created_at": "2025-05-06T04:13:03.006379Z",
+    "updated_at": "2025-05-06T04:13:03.006399Z",
+    "lead_time": 0.986
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00443_label_0.jpg",
+    "id": 2391,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2391,
+    "created_at": "2025-05-06T04:13:05.178477Z",
+    "updated_at": "2025-05-06T04:13:05.178497Z",
+    "lead_time": 1.044
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00446_label_1.jpg",
+    "id": 2392,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2392,
+    "created_at": "2025-05-06T04:13:07.377323Z",
+    "updated_at": "2025-05-06T04:13:07.377343Z",
+    "lead_time": 1.074
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00448_label_1.jpg",
+    "id": 2393,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2393,
+    "created_at": "2025-05-06T04:13:09.379976Z",
+    "updated_at": "2025-05-06T04:13:09.379996Z",
+    "lead_time": 0.943
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00449_label_0.jpg",
+    "id": 2394,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2394,
+    "created_at": "2025-05-06T04:13:11.593321Z",
+    "updated_at": "2025-05-06T04:13:11.593342Z",
+    "lead_time": 1.136
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00450_label_1.jpg",
+    "id": 2395,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2395,
+    "created_at": "2025-05-06T04:13:13.880595Z",
+    "updated_at": "2025-05-06T04:13:13.880615Z",
+    "lead_time": 1.217
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00456_label_1.jpg",
+    "id": 2396,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2396,
+    "created_at": "2025-05-06T04:13:16.314396Z",
+    "updated_at": "2025-05-06T04:13:16.314416Z",
+    "lead_time": 1.354
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00458_label_1.jpg",
+    "id": 2397,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2397,
+    "created_at": "2025-05-06T04:13:18.875626Z",
+    "updated_at": "2025-05-06T04:13:18.875646Z",
+    "lead_time": 1.463
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00460_label_1.jpg",
+    "id": 2398,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2398,
+    "created_at": "2025-05-06T04:13:20.945385Z",
+    "updated_at": "2025-05-06T04:13:20.945405Z",
+    "lead_time": 1.013
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00461_label_0.jpg",
+    "id": 2399,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2399,
+    "created_at": "2025-05-06T04:13:23.203391Z",
+    "updated_at": "2025-05-06T04:13:23.203411Z",
+    "lead_time": 1.121
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00463_label_0.jpg",
+    "id": 2400,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2400,
+    "created_at": "2025-05-06T04:13:25.381771Z",
+    "updated_at": "2025-05-06T04:13:25.381793Z",
+    "lead_time": 1.092
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00465_label_0.jpg",
+    "id": 2401,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2401,
+    "created_at": "2025-05-06T04:13:27.561333Z",
+    "updated_at": "2025-05-06T04:13:27.561355Z",
+    "lead_time": 1.068
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00467_label_0.jpg",
+    "id": 2402,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2402,
+    "created_at": "2025-05-06T04:13:29.607214Z",
+    "updated_at": "2025-05-06T04:13:29.607235Z",
+    "lead_time": 0.969
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00468_label_1.jpg",
+    "id": 2403,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2403,
+    "created_at": "2025-05-06T04:13:31.638775Z",
+    "updated_at": "2025-05-06T04:13:31.638795Z",
+    "lead_time": 0.939
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00471_label_0.jpg",
+    "id": 2404,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2404,
+    "created_at": "2025-05-06T04:13:33.857038Z",
+    "updated_at": "2025-05-06T04:13:33.857058Z",
+    "lead_time": 1.118
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00473_label_0.jpg",
+    "id": 2405,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2405,
+    "created_at": "2025-05-06T04:13:35.788524Z",
+    "updated_at": "2025-05-06T04:13:35.788545Z",
+    "lead_time": 0.893
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00474_label_1.jpg",
+    "id": 2406,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2406,
+    "created_at": "2025-05-06T04:13:38.152391Z",
+    "updated_at": "2025-05-06T04:13:38.152410Z",
+    "lead_time": 1.251
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00475_label_0.jpg",
+    "id": 2407,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2407,
+    "created_at": "2025-05-06T04:13:40.165115Z",
+    "updated_at": "2025-05-06T04:13:40.165134Z",
+    "lead_time": 0.921
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00478_label_1.jpg",
+    "id": 2408,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2408,
+    "created_at": "2025-05-06T04:13:42.144358Z",
+    "updated_at": "2025-05-06T04:13:42.144379Z",
+    "lead_time": 0.916
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00479_label_0.jpg",
+    "id": 2409,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2409,
+    "created_at": "2025-05-06T04:13:44.606930Z",
+    "updated_at": "2025-05-06T04:13:44.606951Z",
+    "lead_time": 0.988
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00481_label_0.jpg",
+    "id": 2410,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2410,
+    "created_at": "2025-05-06T04:13:46.713846Z",
+    "updated_at": "2025-05-06T04:13:46.713868Z",
+    "lead_time": 0.941
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00483_label_0.jpg",
+    "id": 2411,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2411,
+    "created_at": "2025-05-06T04:13:49.469590Z",
+    "updated_at": "2025-05-06T04:13:49.469609Z",
+    "lead_time": 1.513
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00484_label_1.jpg",
+    "id": 2412,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2412,
+    "created_at": "2025-05-06T04:13:51.663183Z",
+    "updated_at": "2025-05-06T04:13:51.663204Z",
+    "lead_time": 1.052
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00485_label_0.jpg",
+    "id": 2413,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2413,
+    "created_at": "2025-05-06T04:13:53.828586Z",
+    "updated_at": "2025-05-06T04:13:53.828607Z",
+    "lead_time": 1.021
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00486_label_1.jpg",
+    "id": 2414,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2414,
+    "created_at": "2025-05-06T04:13:56.093162Z",
+    "updated_at": "2025-05-06T04:13:56.093182Z",
+    "lead_time": 1.035
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00490_label_1.jpg",
+    "id": 2415,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2415,
+    "created_at": "2025-05-06T04:13:58.319513Z",
+    "updated_at": "2025-05-06T04:13:58.319533Z",
+    "lead_time": 1.082
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00491_label_0.jpg",
+    "id": 2416,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2416,
+    "created_at": "2025-05-06T04:14:00.542722Z",
+    "updated_at": "2025-05-06T04:14:00.542742Z",
+    "lead_time": 1.068
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00492_label_1.jpg",
+    "id": 2417,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2417,
+    "created_at": "2025-05-06T04:14:02.886952Z",
+    "updated_at": "2025-05-06T04:14:02.886973Z",
+    "lead_time": 1.127
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00493_label_0.jpg",
+    "id": 2418,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2418,
+    "created_at": "2025-05-06T04:14:05.818117Z",
+    "updated_at": "2025-05-06T04:14:05.818139Z",
+    "lead_time": 1.754
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00494_label_1.jpg",
+    "id": 2419,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2419,
+    "created_at": "2025-05-06T04:14:08.497319Z",
+    "updated_at": "2025-05-06T04:14:08.497340Z",
+    "lead_time": 1.046
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00495_label_0.jpg",
+    "id": 2420,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2420,
+    "created_at": "2025-05-06T04:14:10.847881Z",
+    "updated_at": "2025-05-06T04:14:10.847901Z",
+    "lead_time": 0.935
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00496_label_1.jpg",
+    "id": 2421,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2421,
+    "created_at": "2025-05-06T04:14:13.155620Z",
+    "updated_at": "2025-05-06T04:14:13.155640Z",
+    "lead_time": 0.957
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00499_label_0.jpg",
+    "id": 2422,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2422,
+    "created_at": "2025-05-06T04:14:15.264321Z",
+    "updated_at": "2025-05-06T04:14:15.264341Z",
+    "lead_time": 0.887
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00501_label_0.jpg",
+    "id": 2423,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2423,
+    "created_at": "2025-05-06T04:14:17.549981Z",
+    "updated_at": "2025-05-06T04:14:17.550002Z",
+    "lead_time": 1.131
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00504_label_1.jpg",
+    "id": 2424,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2424,
+    "created_at": "2025-05-06T04:14:19.693456Z",
+    "updated_at": "2025-05-06T04:14:19.693477Z",
+    "lead_time": 0.954
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00506_label_1.jpg",
+    "id": 2425,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2425,
+    "created_at": "2025-05-06T04:14:22.301262Z",
+    "updated_at": "2025-05-06T04:14:22.301283Z",
+    "lead_time": 1.376
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00508_label_1.jpg",
+    "id": 2426,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2426,
+    "created_at": "2025-05-06T04:14:24.898522Z",
+    "updated_at": "2025-05-06T04:14:24.898543Z",
+    "lead_time": 1.381
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00509_label_0.jpg",
+    "id": 2427,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2427,
+    "created_at": "2025-05-06T04:14:27.092411Z",
+    "updated_at": "2025-05-06T04:14:27.092431Z",
+    "lead_time": 0.986
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00510_label_1.jpg",
+    "id": 2428,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2428,
+    "created_at": "2025-05-06T04:14:29.601417Z",
+    "updated_at": "2025-05-06T04:14:29.601437Z",
+    "lead_time": 1.254
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00511_label_0.jpg",
+    "id": 2429,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2429,
+    "created_at": "2025-05-06T04:14:31.877971Z",
+    "updated_at": "2025-05-06T04:14:31.877991Z",
+    "lead_time": 1.014
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00512_label_1.jpg",
+    "id": 2430,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2430,
+    "created_at": "2025-05-06T04:14:33.959497Z",
+    "updated_at": "2025-05-06T04:14:33.959518Z",
+    "lead_time": 0.917
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00515_label_0.jpg",
+    "id": 2431,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2431,
+    "created_at": "2025-05-06T04:14:36.170824Z",
+    "updated_at": "2025-05-06T04:14:36.170843Z",
+    "lead_time": 0.974
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00522_label_1.jpg",
+    "id": 2432,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2432,
+    "created_at": "2025-05-06T04:14:38.296982Z",
+    "updated_at": "2025-05-06T04:14:38.297002Z",
+    "lead_time": 0.933
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00524_label_1.jpg",
+    "id": 2433,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2433,
+    "created_at": "2025-05-06T04:14:40.859206Z",
+    "updated_at": "2025-05-06T04:14:40.859227Z",
+    "lead_time": 1.315
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00525_label_0.jpg",
+    "id": 2434,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2434,
+    "created_at": "2025-05-06T04:14:43.772558Z",
+    "updated_at": "2025-05-06T04:14:43.772578Z",
+    "lead_time": 1.709
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00527_label_0.jpg",
+    "id": 2435,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2435,
+    "created_at": "2025-05-06T04:14:46.036456Z",
+    "updated_at": "2025-05-06T04:14:46.036477Z",
+    "lead_time": 1.026
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00530_label_1.jpg",
+    "id": 2436,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2436,
+    "created_at": "2025-05-06T04:14:48.527553Z",
+    "updated_at": "2025-05-06T04:14:48.527573Z",
+    "lead_time": 1.291
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00531_label_0.jpg",
+    "id": 2437,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2437,
+    "created_at": "2025-05-06T04:14:50.771478Z",
+    "updated_at": "2025-05-06T04:14:50.771498Z",
+    "lead_time": 1.082
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00534_label_1.jpg",
+    "id": 2438,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2438,
+    "created_at": "2025-05-06T04:14:52.931516Z",
+    "updated_at": "2025-05-06T04:14:52.931538Z",
+    "lead_time": 0.944
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00535_label_0.jpg",
+    "id": 2439,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2439,
+    "created_at": "2025-05-06T04:14:55.122018Z",
+    "updated_at": "2025-05-06T04:14:55.122038Z",
+    "lead_time": 1.03
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00539_label_0.jpg",
+    "id": 2440,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2440,
+    "created_at": "2025-05-06T04:14:57.368772Z",
+    "updated_at": "2025-05-06T04:14:57.368798Z",
+    "lead_time": 1.01
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00541_label_0.jpg",
+    "id": 2441,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2441,
+    "created_at": "2025-05-06T04:14:59.559957Z",
+    "updated_at": "2025-05-06T04:14:59.559978Z",
+    "lead_time": 0.996
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00545_label_0.jpg",
+    "id": 2442,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2442,
+    "created_at": "2025-05-06T04:15:01.817034Z",
+    "updated_at": "2025-05-06T04:15:01.817055Z",
+    "lead_time": 1.034
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00546_label_1.jpg",
+    "id": 2443,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2443,
+    "created_at": "2025-05-06T04:15:04.300228Z",
+    "updated_at": "2025-05-06T04:15:04.300248Z",
+    "lead_time": 1.152
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00549_label_0.jpg",
+    "id": 2444,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2444,
+    "created_at": "2025-05-06T04:15:06.596010Z",
+    "updated_at": "2025-05-06T04:15:06.596030Z",
+    "lead_time": 1.023
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00550_label_1.jpg",
+    "id": 2445,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2445,
+    "created_at": "2025-05-06T04:15:08.765676Z",
+    "updated_at": "2025-05-06T04:15:08.765696Z",
+    "lead_time": 0.967
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00551_label_0.jpg",
+    "id": 2446,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2446,
+    "created_at": "2025-05-06T04:15:11.070488Z",
+    "updated_at": "2025-05-06T04:15:11.070508Z",
+    "lead_time": 1.09
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00552_label_1.jpg",
+    "id": 2447,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2447,
+    "created_at": "2025-05-06T04:15:13.208960Z",
+    "updated_at": "2025-05-06T04:15:13.208981Z",
+    "lead_time": 0.942
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00553_label_0.jpg",
+    "id": 2448,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2448,
+    "created_at": "2025-05-06T04:15:15.397188Z",
+    "updated_at": "2025-05-06T04:15:15.397209Z",
+    "lead_time": 0.982
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00556_label_1.jpg",
+    "id": 2449,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2449,
+    "created_at": "2025-05-06T04:15:17.581274Z",
+    "updated_at": "2025-05-06T04:15:17.581294Z",
+    "lead_time": 0.933
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00561_label_0.jpg",
+    "id": 2450,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2450,
+    "created_at": "2025-05-06T04:15:19.874689Z",
+    "updated_at": "2025-05-06T04:15:19.874709Z",
+    "lead_time": 1.004
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00562_label_1.jpg",
+    "id": 2451,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2451,
+    "created_at": "2025-05-06T04:15:22.012475Z",
+    "updated_at": "2025-05-06T04:15:22.012495Z",
+    "lead_time": 0.884
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00563_label_0.jpg",
+    "id": 2452,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2452,
+    "created_at": "2025-05-06T04:15:24.066488Z",
+    "updated_at": "2025-05-06T04:15:24.066508Z",
+    "lead_time": 0.866
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00565_label_0.jpg",
+    "id": 2453,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2453,
+    "created_at": "2025-05-06T04:15:26.947111Z",
+    "updated_at": "2025-05-06T04:15:26.947130Z",
+    "lead_time": 1.629
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00566_label_1.jpg",
+    "id": 2454,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2454,
+    "created_at": "2025-05-06T04:15:29.158943Z",
+    "updated_at": "2025-05-06T04:15:29.158962Z",
+    "lead_time": 1.027
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00569_label_0.jpg",
+    "id": 2455,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2455,
+    "created_at": "2025-05-06T04:15:31.443148Z",
+    "updated_at": "2025-05-06T04:15:31.443168Z",
+    "lead_time": 1.036
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00570_label_1.jpg",
+    "id": 2456,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2456,
+    "created_at": "2025-05-06T04:15:33.637568Z",
+    "updated_at": "2025-05-06T04:15:33.637588Z",
+    "lead_time": 0.945
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00571_label_0.jpg",
+    "id": 2457,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2457,
+    "created_at": "2025-05-06T04:15:35.853624Z",
+    "updated_at": "2025-05-06T04:15:35.853645Z",
+    "lead_time": 1.04
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00574_label_1.jpg",
+    "id": 2458,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2458,
+    "created_at": "2025-05-06T04:15:38.369541Z",
+    "updated_at": "2025-05-06T04:15:38.369561Z",
+    "lead_time": 1.235
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00575_label_0.jpg",
+    "id": 2459,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2459,
+    "created_at": "2025-05-06T04:15:40.463798Z",
+    "updated_at": "2025-05-06T04:15:40.463819Z",
+    "lead_time": 0.938
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00581_label_0.jpg",
+    "id": 2460,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2460,
+    "created_at": "2025-05-06T04:15:43.292468Z",
+    "updated_at": "2025-05-06T04:15:43.292488Z",
+    "lead_time": 1.616
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00584_label_1.jpg",
+    "id": 2461,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2461,
+    "created_at": "2025-05-06T04:15:45.333314Z",
+    "updated_at": "2025-05-06T04:15:45.333334Z",
+    "lead_time": 0.866
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00585_label_0.jpg",
+    "id": 2462,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2462,
+    "created_at": "2025-05-06T04:15:47.530728Z",
+    "updated_at": "2025-05-06T04:15:47.530752Z",
+    "lead_time": 1.036
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00590_label_1.jpg",
+    "id": 2463,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2463,
+    "created_at": "2025-05-06T04:15:49.823659Z",
+    "updated_at": "2025-05-06T04:15:49.823682Z",
+    "lead_time": 0.97
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00591_label_0.jpg",
+    "id": 2464,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2464,
+    "created_at": "2025-05-06T04:15:52.092916Z",
+    "updated_at": "2025-05-06T04:15:52.092937Z",
+    "lead_time": 0.965
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00593_label_0.jpg",
+    "id": 2465,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2465,
+    "created_at": "2025-05-06T04:15:54.349297Z",
+    "updated_at": "2025-05-06T04:15:54.349317Z",
+    "lead_time": 0.975
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00594_label_1.jpg",
+    "id": 2466,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2466,
+    "created_at": "2025-05-06T04:15:56.475117Z",
+    "updated_at": "2025-05-06T04:15:56.475136Z",
+    "lead_time": 0.93
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00596_label_1.jpg",
+    "id": 2467,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2467,
+    "created_at": "2025-05-06T04:15:58.597055Z",
+    "updated_at": "2025-05-06T04:15:58.597077Z",
+    "lead_time": 0.946
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00597_label_0.jpg",
+    "id": 2468,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2468,
+    "created_at": "2025-05-06T04:16:00.800027Z",
+    "updated_at": "2025-05-06T04:16:00.800048Z",
+    "lead_time": 0.961
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00598_label_1.jpg",
+    "id": 2469,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2469,
+    "created_at": "2025-05-06T04:16:02.933174Z",
+    "updated_at": "2025-05-06T04:16:02.933195Z",
+    "lead_time": 0.966
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00599_label_0.jpg",
+    "id": 2470,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2470,
+    "created_at": "2025-05-06T04:16:04.975173Z",
+    "updated_at": "2025-05-06T04:16:04.975193Z",
+    "lead_time": 0.818
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00603_label_0.jpg",
+    "id": 2471,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2471,
+    "created_at": "2025-05-06T04:16:07.624901Z",
+    "updated_at": "2025-05-06T04:16:07.624922Z",
+    "lead_time": 1.423
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00605_label_0.jpg",
+    "id": 2472,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2472,
+    "created_at": "2025-05-06T04:16:09.847232Z",
+    "updated_at": "2025-05-06T04:16:09.847252Z",
+    "lead_time": 0.89
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00609_label_0.jpg",
+    "id": 2473,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2473,
+    "created_at": "2025-05-06T04:16:12.397342Z",
+    "updated_at": "2025-05-06T04:16:12.397362Z",
+    "lead_time": 1.003
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00610_label_1.jpg",
+    "id": 2474,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2474,
+    "created_at": "2025-05-06T04:16:14.639232Z",
+    "updated_at": "2025-05-06T04:16:14.639251Z",
+    "lead_time": 1.014
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00612_label_1.jpg",
+    "id": 2475,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2475,
+    "created_at": "2025-05-06T04:16:17.000682Z",
+    "updated_at": "2025-05-06T04:16:17.000702Z",
+    "lead_time": 1.161
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00617_label_0.jpg",
+    "id": 2476,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2476,
+    "created_at": "2025-05-06T04:16:19.106164Z",
+    "updated_at": "2025-05-06T04:16:19.106184Z",
+    "lead_time": 0.89
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00618_label_1.jpg",
+    "id": 2477,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2477,
+    "created_at": "2025-05-06T04:16:21.300464Z",
+    "updated_at": "2025-05-06T04:16:21.300484Z",
+    "lead_time": 1.019
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00620_label_1.jpg",
+    "id": 2478,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2478,
+    "created_at": "2025-05-06T04:16:23.750057Z",
+    "updated_at": "2025-05-06T04:16:23.750078Z",
+    "lead_time": 1.125
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00621_label_0.jpg",
+    "id": 2479,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2479,
+    "created_at": "2025-05-06T04:16:26.116315Z",
+    "updated_at": "2025-05-06T04:16:26.116336Z",
+    "lead_time": 1.069
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00622_label_1.jpg",
+    "id": 2480,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2480,
+    "created_at": "2025-05-06T04:16:28.303731Z",
+    "updated_at": "2025-05-06T04:16:28.303755Z",
+    "lead_time": 0.979
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00624_label_1.jpg",
+    "id": 2481,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2481,
+    "created_at": "2025-05-06T04:16:30.432729Z",
+    "updated_at": "2025-05-06T04:16:30.432756Z",
+    "lead_time": 0.961
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00626_label_1.jpg",
+    "id": 2482,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2482,
+    "created_at": "2025-05-06T04:16:32.569754Z",
+    "updated_at": "2025-05-06T04:16:32.569775Z",
+    "lead_time": 0.854
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00627_label_0.jpg",
+    "id": 2483,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2483,
+    "created_at": "2025-05-06T04:16:35.387036Z",
+    "updated_at": "2025-05-06T04:16:35.387057Z",
+    "lead_time": 0.944
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00629_label_0.jpg",
+    "id": 2484,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2484,
+    "created_at": "2025-05-06T04:16:37.697677Z",
+    "updated_at": "2025-05-06T04:16:37.697697Z",
+    "lead_time": 1.106
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00630_label_1.jpg",
+    "id": 2485,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2485,
+    "created_at": "2025-05-06T04:16:40.074328Z",
+    "updated_at": "2025-05-06T04:16:40.074349Z",
+    "lead_time": 1.151
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00631_label_0.jpg",
+    "id": 2486,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2486,
+    "created_at": "2025-05-06T04:16:42.200256Z",
+    "updated_at": "2025-05-06T04:16:42.200277Z",
+    "lead_time": 0.915
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00632_label_1.jpg",
+    "id": 2487,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2487,
+    "created_at": "2025-05-06T04:16:44.284511Z",
+    "updated_at": "2025-05-06T04:16:44.284530Z",
+    "lead_time": 0.914
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00633_label_0.jpg",
+    "id": 2488,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2488,
+    "created_at": "2025-05-06T04:16:46.438638Z",
+    "updated_at": "2025-05-06T04:16:46.438658Z",
+    "lead_time": 0.9
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00634_label_1.jpg",
+    "id": 2489,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2489,
+    "created_at": "2025-05-06T04:16:48.453807Z",
+    "updated_at": "2025-05-06T04:16:48.453827Z",
+    "lead_time": 0.863
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00635_label_0.jpg",
+    "id": 2490,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2490,
+    "created_at": "2025-05-06T04:16:50.640402Z",
+    "updated_at": "2025-05-06T04:16:50.640423Z",
+    "lead_time": 0.984
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00639_label_0.jpg",
+    "id": 2491,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2491,
+    "created_at": "2025-05-06T04:16:53.156906Z",
+    "updated_at": "2025-05-06T04:16:53.156927Z",
+    "lead_time": 1.31
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00640_label_1.jpg",
+    "id": 2492,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2492,
+    "created_at": "2025-05-06T04:16:55.386216Z",
+    "updated_at": "2025-05-06T04:16:55.386237Z",
+    "lead_time": 1.019
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00643_label_0.jpg",
+    "id": 2493,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2493,
+    "created_at": "2025-05-06T04:16:57.595858Z",
+    "updated_at": "2025-05-06T04:16:57.595879Z",
+    "lead_time": 0.936
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00645_label_0.jpg",
+    "id": 2494,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2494,
+    "created_at": "2025-05-06T04:16:59.659095Z",
+    "updated_at": "2025-05-06T04:16:59.659116Z",
+    "lead_time": 0.88
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00646_label_1.jpg",
+    "id": 2495,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2495,
+    "created_at": "2025-05-06T04:17:02.409797Z",
+    "updated_at": "2025-05-06T04:17:02.409817Z",
+    "lead_time": 1.488
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00650_label_1.jpg",
+    "id": 2496,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2496,
+    "created_at": "2025-05-06T04:17:04.758024Z",
+    "updated_at": "2025-05-06T04:17:04.758044Z",
+    "lead_time": 1.18
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00651_label_0.jpg",
+    "id": 2497,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2497,
+    "created_at": "2025-05-06T04:17:06.943546Z",
+    "updated_at": "2025-05-06T04:17:06.943566Z",
+    "lead_time": 0.955
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00652_label_1.jpg",
+    "id": 2498,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2498,
+    "created_at": "2025-05-06T04:17:09.260534Z",
+    "updated_at": "2025-05-06T04:17:09.260554Z",
+    "lead_time": 1.047
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00653_label_0.jpg",
+    "id": 2499,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2499,
+    "created_at": "2025-05-06T04:17:11.347158Z",
+    "updated_at": "2025-05-06T04:17:11.347178Z",
+    "lead_time": 0.869
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00654_label_1.jpg",
+    "id": 2500,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2500,
+    "created_at": "2025-05-06T04:17:13.934305Z",
+    "updated_at": "2025-05-06T04:17:13.934325Z",
+    "lead_time": 1.386
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00656_label_1.jpg",
+    "id": 2501,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2501,
+    "created_at": "2025-05-06T04:17:16.116224Z",
+    "updated_at": "2025-05-06T04:17:16.116245Z",
+    "lead_time": 1.031
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00657_label_0.jpg",
+    "id": 2502,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2502,
+    "created_at": "2025-05-06T04:17:18.187855Z",
+    "updated_at": "2025-05-06T04:17:18.187876Z",
+    "lead_time": 0.891
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00658_label_1.jpg",
+    "id": 2503,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2503,
+    "created_at": "2025-05-06T04:17:20.692497Z",
+    "updated_at": "2025-05-06T04:17:20.692517Z",
+    "lead_time": 1.167
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00660_label_1.jpg",
+    "id": 2504,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2504,
+    "created_at": "2025-05-06T04:17:22.919666Z",
+    "updated_at": "2025-05-06T04:17:22.919686Z",
+    "lead_time": 1.097
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00662_label_1.jpg",
+    "id": 2505,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2505,
+    "created_at": "2025-05-06T04:17:25.171143Z",
+    "updated_at": "2025-05-06T04:17:25.171162Z",
+    "lead_time": 1.02
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00663_label_0.jpg",
+    "id": 2506,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2506,
+    "created_at": "2025-05-06T04:17:27.177083Z",
+    "updated_at": "2025-05-06T04:17:27.177103Z",
+    "lead_time": 0.805
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00664_label_1.jpg",
+    "id": 2507,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2507,
+    "created_at": "2025-05-06T04:17:29.368682Z",
+    "updated_at": "2025-05-06T04:17:29.368702Z",
+    "lead_time": 0.981
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00665_label_0.jpg",
+    "id": 2508,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2508,
+    "created_at": "2025-05-06T04:17:31.399714Z",
+    "updated_at": "2025-05-06T04:17:31.399734Z",
+    "lead_time": 0.856
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00666_label_1.jpg",
+    "id": 2509,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2509,
+    "created_at": "2025-05-06T04:17:33.626407Z",
+    "updated_at": "2025-05-06T04:17:33.626427Z",
+    "lead_time": 0.984
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00669_label_0.jpg",
+    "id": 2510,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2510,
+    "created_at": "2025-05-06T04:17:35.794934Z",
+    "updated_at": "2025-05-06T04:17:35.794954Z",
+    "lead_time": 0.934
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00672_label_1.jpg",
+    "id": 2511,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2511,
+    "created_at": "2025-05-06T04:17:38.293434Z",
+    "updated_at": "2025-05-06T04:17:38.293455Z",
+    "lead_time": 1.269
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00673_label_0.jpg",
+    "id": 2512,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2512,
+    "created_at": "2025-05-06T04:17:40.721263Z",
+    "updated_at": "2025-05-06T04:17:40.721284Z",
+    "lead_time": 1.215
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00674_label_1.jpg",
+    "id": 2513,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2513,
+    "created_at": "2025-05-06T04:17:43.150530Z",
+    "updated_at": "2025-05-06T04:17:43.150550Z",
+    "lead_time": 1.214
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00676_label_1.jpg",
+    "id": 2514,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2514,
+    "created_at": "2025-05-06T04:17:45.538225Z",
+    "updated_at": "2025-05-06T04:17:45.538246Z",
+    "lead_time": 1.05
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00677_label_0.jpg",
+    "id": 2515,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2515,
+    "created_at": "2025-05-06T04:17:47.753804Z",
+    "updated_at": "2025-05-06T04:17:47.753825Z",
+    "lead_time": 0.928
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00678_label_1.jpg",
+    "id": 2516,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2516,
+    "created_at": "2025-05-06T04:17:50.175080Z",
+    "updated_at": "2025-05-06T04:17:50.175100Z",
+    "lead_time": 1.204
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00681_label_0.jpg",
+    "id": 2517,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2517,
+    "created_at": "2025-05-06T04:17:54.451838Z",
+    "updated_at": "2025-05-06T04:17:54.451858Z",
+    "lead_time": 2.986
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00683_label_0.jpg",
+    "id": 2518,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2518,
+    "created_at": "2025-05-06T04:17:56.806848Z",
+    "updated_at": "2025-05-06T04:17:56.806869Z",
+    "lead_time": 1.161
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00684_label_1.jpg",
+    "id": 2519,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2519,
+    "created_at": "2025-05-06T04:17:59.237733Z",
+    "updated_at": "2025-05-06T04:17:59.237758Z",
+    "lead_time": 0.973
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00685_label_0.jpg",
+    "id": 2520,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2520,
+    "created_at": "2025-05-06T04:18:01.253847Z",
+    "updated_at": "2025-05-06T04:18:01.253867Z",
+    "lead_time": 0.879
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00687_label_0.jpg",
+    "id": 2521,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2521,
+    "created_at": "2025-05-06T04:18:03.700405Z",
+    "updated_at": "2025-05-06T04:18:03.700425Z",
+    "lead_time": 1.017
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00688_label_1.jpg",
+    "id": 2522,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2522,
+    "created_at": "2025-05-06T04:18:05.910003Z",
+    "updated_at": "2025-05-06T04:18:05.910024Z",
+    "lead_time": 0.884
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00690_label_1.jpg",
+    "id": 2523,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2523,
+    "created_at": "2025-05-06T04:18:09.192978Z",
+    "updated_at": "2025-05-06T04:18:09.192998Z",
+    "lead_time": 1.57
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00691_label_0.jpg",
+    "id": 2524,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2524,
+    "created_at": "2025-05-06T04:18:11.329998Z",
+    "updated_at": "2025-05-06T04:18:11.330019Z",
+    "lead_time": 0.957
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00692_label_1.jpg",
+    "id": 2525,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2525,
+    "created_at": "2025-05-06T04:18:13.431021Z",
+    "updated_at": "2025-05-06T04:18:13.431041Z",
+    "lead_time": 0.875
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00707_label_0.jpg",
+    "id": 2526,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2526,
+    "created_at": "2025-05-06T04:18:18.049088Z",
+    "updated_at": "2025-05-06T04:18:18.049108Z",
+    "lead_time": 3.35
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00708_label_1.jpg",
+    "id": 2527,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2527,
+    "created_at": "2025-05-06T04:18:20.456259Z",
+    "updated_at": "2025-05-06T04:18:20.456278Z",
+    "lead_time": 1.2
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00709_label_0.jpg",
+    "id": 2528,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2528,
+    "created_at": "2025-05-06T04:18:24.524765Z",
+    "updated_at": "2025-05-06T04:18:24.524786Z",
+    "lead_time": 2.827
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00710_label_1.jpg",
+    "id": 2529,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2529,
+    "created_at": "2025-05-06T04:18:26.756507Z",
+    "updated_at": "2025-05-06T04:18:26.756527Z",
+    "lead_time": 1.037
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00714_label_1.jpg",
+    "id": 2530,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2530,
+    "created_at": "2025-05-06T04:18:28.984931Z",
+    "updated_at": "2025-05-06T04:18:28.984951Z",
+    "lead_time": 0.986
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00716_label_1.jpg",
+    "id": 2531,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2531,
+    "created_at": "2025-05-06T04:18:31.326009Z",
+    "updated_at": "2025-05-06T04:18:31.326029Z",
+    "lead_time": 1.119
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00718_label_1.jpg",
+    "id": 2532,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2532,
+    "created_at": "2025-05-06T04:18:33.353232Z",
+    "updated_at": "2025-05-06T04:18:33.353253Z",
+    "lead_time": 0.877
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00719_label_0.jpg",
+    "id": 2533,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2533,
+    "created_at": "2025-05-06T04:18:35.729937Z",
+    "updated_at": "2025-05-06T04:18:35.729957Z",
+    "lead_time": 1.107
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00720_label_1.jpg",
+    "id": 2534,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2534,
+    "created_at": "2025-05-06T04:18:37.902508Z",
+    "updated_at": "2025-05-06T04:18:37.902528Z",
+    "lead_time": 0.934
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00721_label_0.jpg",
+    "id": 2535,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2535,
+    "created_at": "2025-05-06T04:18:43.747115Z",
+    "updated_at": "2025-05-06T04:18:43.747135Z",
+    "lead_time": 4.488
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00723_label_0.jpg",
+    "id": 2536,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2536,
+    "created_at": "2025-05-06T04:18:46.595862Z",
+    "updated_at": "2025-05-06T04:18:46.595884Z",
+    "lead_time": 1.105
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00726_label_1.jpg",
+    "id": 2537,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2537,
+    "created_at": "2025-05-06T04:18:49.081856Z",
+    "updated_at": "2025-05-06T04:18:49.081877Z",
+    "lead_time": 0.956
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00727_label_0.jpg",
+    "id": 2538,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2538,
+    "created_at": "2025-05-06T04:18:51.521294Z",
+    "updated_at": "2025-05-06T04:18:51.521315Z",
+    "lead_time": 1.07
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00735_label_0.jpg",
+    "id": 2539,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2539,
+    "created_at": "2025-05-06T04:18:54.910518Z",
+    "updated_at": "2025-05-06T04:18:54.910538Z",
+    "lead_time": 1.975
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00736_label_1.jpg",
+    "id": 2540,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2540,
+    "created_at": "2025-05-06T04:18:57.294564Z",
+    "updated_at": "2025-05-06T04:18:57.294586Z",
+    "lead_time": 1.023
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00737_label_0.jpg",
+    "id": 2541,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2541,
+    "created_at": "2025-05-06T04:18:59.689129Z",
+    "updated_at": "2025-05-06T04:18:59.689149Z",
+    "lead_time": 0.947
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00738_label_1.jpg",
+    "id": 2542,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2542,
+    "created_at": "2025-05-06T04:19:02.055859Z",
+    "updated_at": "2025-05-06T04:19:02.055878Z",
+    "lead_time": 0.991
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00740_label_1.jpg",
+    "id": 2543,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2543,
+    "created_at": "2025-05-06T04:19:05.319187Z",
+    "updated_at": "2025-05-06T04:19:05.319207Z",
+    "lead_time": 1.876
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00741_label_0.jpg",
+    "id": 2544,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2544,
+    "created_at": "2025-05-06T04:19:07.632376Z",
+    "updated_at": "2025-05-06T04:19:07.632396Z",
+    "lead_time": 0.918
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00743_label_0.jpg",
+    "id": 2545,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2545,
+    "created_at": "2025-05-06T04:19:10.087780Z",
+    "updated_at": "2025-05-06T04:19:10.087800Z",
+    "lead_time": 1.051
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00744_label_1.jpg",
+    "id": 2546,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2546,
+    "created_at": "2025-05-06T04:19:12.247702Z",
+    "updated_at": "2025-05-06T04:19:12.247721Z",
+    "lead_time": 0.842
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00746_label_1.jpg",
+    "id": 2547,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2547,
+    "created_at": "2025-05-06T04:19:14.901183Z",
+    "updated_at": "2025-05-06T04:19:14.901203Z",
+    "lead_time": 1.248
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00747_label_0.jpg",
+    "id": 2548,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2548,
+    "created_at": "2025-05-06T04:19:17.277020Z",
+    "updated_at": "2025-05-06T04:19:17.277041Z",
+    "lead_time": 1.136
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00748_label_1.jpg",
+    "id": 2549,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2549,
+    "created_at": "2025-05-06T04:19:19.388494Z",
+    "updated_at": "2025-05-06T04:19:19.388514Z",
+    "lead_time": 0.863
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00753_label_0.jpg",
+    "id": 2550,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2550,
+    "created_at": "2025-05-06T04:19:21.775492Z",
+    "updated_at": "2025-05-06T04:19:21.775514Z",
+    "lead_time": 1.121
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00757_label_0.jpg",
+    "id": 2551,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2551,
+    "created_at": "2025-05-06T04:19:24.109128Z",
+    "updated_at": "2025-05-06T04:19:24.109148Z",
+    "lead_time": 0.993
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00758_label_1.jpg",
+    "id": 2552,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2552,
+    "created_at": "2025-05-06T04:19:26.635038Z",
+    "updated_at": "2025-05-06T04:19:26.635057Z",
+    "lead_time": 0.98
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00759_label_0.jpg",
+    "id": 2553,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2553,
+    "created_at": "2025-05-06T04:19:28.764143Z",
+    "updated_at": "2025-05-06T04:19:28.764163Z",
+    "lead_time": 0.882
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00760_label_1.jpg",
+    "id": 2554,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2554,
+    "created_at": "2025-05-06T04:19:31.005484Z",
+    "updated_at": "2025-05-06T04:19:31.005504Z",
+    "lead_time": 0.869
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00761_label_0.jpg",
+    "id": 2555,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2555,
+    "created_at": "2025-05-06T04:19:33.284591Z",
+    "updated_at": "2025-05-06T04:19:33.284611Z",
+    "lead_time": 0.889
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00762_label_1.jpg",
+    "id": 2556,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2556,
+    "created_at": "2025-05-06T04:19:35.555529Z",
+    "updated_at": "2025-05-06T04:19:35.555549Z",
+    "lead_time": 0.971
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00764_label_1.jpg",
+    "id": 2557,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2557,
+    "created_at": "2025-05-06T04:19:38.203852Z",
+    "updated_at": "2025-05-06T04:19:38.203872Z",
+    "lead_time": 1.324
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00765_label_0.jpg",
+    "id": 2558,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2558,
+    "created_at": "2025-05-06T04:19:40.878534Z",
+    "updated_at": "2025-05-06T04:19:40.878554Z",
+    "lead_time": 1.386
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00768_label_1.jpg",
+    "id": 2559,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2559,
+    "created_at": "2025-05-06T04:19:43.049322Z",
+    "updated_at": "2025-05-06T04:19:43.049343Z",
+    "lead_time": 0.865
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00770_label_1.jpg",
+    "id": 2560,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2560,
+    "created_at": "2025-05-06T04:19:45.406626Z",
+    "updated_at": "2025-05-06T04:19:45.406646Z",
+    "lead_time": 0.975
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00774_label_1.jpg",
+    "id": 2561,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2561,
+    "created_at": "2025-05-06T04:19:48.756417Z",
+    "updated_at": "2025-05-06T04:19:48.756438Z",
+    "lead_time": 2.031
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00775_label_0.jpg",
+    "id": 2562,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2562,
+    "created_at": "2025-05-06T04:19:51.240980Z",
+    "updated_at": "2025-05-06T04:19:51.241001Z",
+    "lead_time": 1.144
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00776_label_1.jpg",
+    "id": 2563,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2563,
+    "created_at": "2025-05-06T04:19:53.435425Z",
+    "updated_at": "2025-05-06T04:19:53.435445Z",
+    "lead_time": 0.927
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00778_label_1.jpg",
+    "id": 2564,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2564,
+    "created_at": "2025-05-06T04:19:55.817708Z",
+    "updated_at": "2025-05-06T04:19:55.817727Z",
+    "lead_time": 1.072
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00781_label_0.jpg",
+    "id": 2565,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2565,
+    "created_at": "2025-05-06T04:19:58.015278Z",
+    "updated_at": "2025-05-06T04:19:58.015301Z",
+    "lead_time": 0.944
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00782_label_1.jpg",
+    "id": 2566,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2566,
+    "created_at": "2025-05-06T04:20:00.610314Z",
+    "updated_at": "2025-05-06T04:20:00.610334Z",
+    "lead_time": 0.951
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00784_label_1.jpg",
+    "id": 2567,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2567,
+    "created_at": "2025-05-06T04:20:02.900822Z",
+    "updated_at": "2025-05-06T04:20:02.900842Z",
+    "lead_time": 0.966
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00785_label_0.jpg",
+    "id": 2568,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2568,
+    "created_at": "2025-05-06T04:20:05.252418Z",
+    "updated_at": "2025-05-06T04:20:05.252439Z",
+    "lead_time": 1.022
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00788_label_1.jpg",
+    "id": 2569,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2569,
+    "created_at": "2025-05-06T04:20:07.582173Z",
+    "updated_at": "2025-05-06T04:20:07.582193Z",
+    "lead_time": 1.01
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00789_label_0.jpg",
+    "id": 2570,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2570,
+    "created_at": "2025-05-06T04:20:09.951088Z",
+    "updated_at": "2025-05-06T04:20:09.951108Z",
+    "lead_time": 0.899
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00790_label_1.jpg",
+    "id": 2571,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2571,
+    "created_at": "2025-05-06T04:20:12.358500Z",
+    "updated_at": "2025-05-06T04:20:12.358520Z",
+    "lead_time": 1.054
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00791_label_0.jpg",
+    "id": 2572,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2572,
+    "created_at": "2025-05-06T04:20:14.687445Z",
+    "updated_at": "2025-05-06T04:20:14.687464Z",
+    "lead_time": 0.929
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00792_label_1.jpg",
+    "id": 2573,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2573,
+    "created_at": "2025-05-06T04:20:16.803057Z",
+    "updated_at": "2025-05-06T04:20:16.803078Z",
+    "lead_time": 0.838
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00794_label_1.jpg",
+    "id": 2574,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2574,
+    "created_at": "2025-05-06T04:20:19.091833Z",
+    "updated_at": "2025-05-06T04:20:19.091854Z",
+    "lead_time": 1.001
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00795_label_0.jpg",
+    "id": 2575,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2575,
+    "created_at": "2025-05-06T04:20:21.303085Z",
+    "updated_at": "2025-05-06T04:20:21.303105Z",
+    "lead_time": 0.956
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00796_label_1.jpg",
+    "id": 2576,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2576,
+    "created_at": "2025-05-06T04:20:23.440076Z",
+    "updated_at": "2025-05-06T04:20:23.440097Z",
+    "lead_time": 0.843
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00797_label_0.jpg",
+    "id": 2577,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2577,
+    "created_at": "2025-05-06T04:20:25.667147Z",
+    "updated_at": "2025-05-06T04:20:25.667168Z",
+    "lead_time": 0.813
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00805_label_0.jpg",
+    "id": 2578,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2578,
+    "created_at": "2025-05-06T04:20:28.186115Z",
+    "updated_at": "2025-05-06T04:20:28.186137Z",
+    "lead_time": 1.052
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00807_label_0.jpg",
+    "id": 2579,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2579,
+    "created_at": "2025-05-06T04:20:30.945996Z",
+    "updated_at": "2025-05-06T04:20:30.946015Z",
+    "lead_time": 1.329
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00808_label_1.jpg",
+    "id": 2580,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2580,
+    "created_at": "2025-05-06T04:20:33.141742Z",
+    "updated_at": "2025-05-06T04:20:33.141765Z",
+    "lead_time": 0.952
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00810_label_1.jpg",
+    "id": 2581,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2581,
+    "created_at": "2025-05-06T04:20:35.609182Z",
+    "updated_at": "2025-05-06T04:20:35.609202Z",
+    "lead_time": 1.175
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00811_label_0.jpg",
+    "id": 2582,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2582,
+    "created_at": "2025-05-06T04:20:37.960706Z",
+    "updated_at": "2025-05-06T04:20:37.960726Z",
+    "lead_time": 1.098
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00814_label_1.jpg",
+    "id": 2583,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2583,
+    "created_at": "2025-05-06T04:20:40.001954Z",
+    "updated_at": "2025-05-06T04:20:40.001974Z",
+    "lead_time": 0.801
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00815_label_0.jpg",
+    "id": 2584,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2584,
+    "created_at": "2025-05-06T04:20:42.223889Z",
+    "updated_at": "2025-05-06T04:20:42.223909Z",
+    "lead_time": 0.855
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00816_label_1.jpg",
+    "id": 2585,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2585,
+    "created_at": "2025-05-06T04:20:44.286767Z",
+    "updated_at": "2025-05-06T04:20:44.286788Z",
+    "lead_time": 0.821
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00819_label_0.jpg",
+    "id": 2586,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2586,
+    "created_at": "2025-05-06T04:20:46.388716Z",
+    "updated_at": "2025-05-06T04:20:46.388736Z",
+    "lead_time": 0.795
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00820_label_1.jpg",
+    "id": 2587,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2587,
+    "created_at": "2025-05-06T04:20:48.511564Z",
+    "updated_at": "2025-05-06T04:20:48.511584Z",
+    "lead_time": 0.871
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00822_label_1.jpg",
+    "id": 2588,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2588,
+    "created_at": "2025-05-06T04:20:51.540006Z",
+    "updated_at": "2025-05-06T04:20:51.540027Z",
+    "lead_time": 1.676
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00823_label_0.jpg",
+    "id": 2589,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2589,
+    "created_at": "2025-05-06T04:20:54.114522Z",
+    "updated_at": "2025-05-06T04:20:54.114543Z",
+    "lead_time": 1.085
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00824_label_1.jpg",
+    "id": 2590,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2590,
+    "created_at": "2025-05-06T04:20:56.450683Z",
+    "updated_at": "2025-05-06T04:20:56.450704Z",
+    "lead_time": 0.924
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00825_label_0.jpg",
+    "id": 2591,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2591,
+    "created_at": "2025-05-06T04:20:58.521682Z",
+    "updated_at": "2025-05-06T04:20:58.521703Z",
+    "lead_time": 0.818
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00826_label_1.jpg",
+    "id": 2592,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2592,
+    "created_at": "2025-05-06T04:21:00.628459Z",
+    "updated_at": "2025-05-06T04:21:00.628479Z",
+    "lead_time": 0.863
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00827_label_0.jpg",
+    "id": 2593,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2593,
+    "created_at": "2025-05-06T04:21:02.730441Z",
+    "updated_at": "2025-05-06T04:21:02.730462Z",
+    "lead_time": 0.837
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00832_label_1.jpg",
+    "id": 2594,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2594,
+    "created_at": "2025-05-06T04:21:04.918767Z",
+    "updated_at": "2025-05-06T04:21:04.918787Z",
+    "lead_time": 0.81
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00833_label_0.jpg",
+    "id": 2595,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2595,
+    "created_at": "2025-05-06T04:21:07.128107Z",
+    "updated_at": "2025-05-06T04:21:07.128128Z",
+    "lead_time": 0.849
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00834_label_1.jpg",
+    "id": 2596,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2596,
+    "created_at": "2025-05-06T04:21:09.596410Z",
+    "updated_at": "2025-05-06T04:21:09.596430Z",
+    "lead_time": 1.201
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00838_label_1.jpg",
+    "id": 2597,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2597,
+    "created_at": "2025-05-06T04:21:11.774404Z",
+    "updated_at": "2025-05-06T04:21:11.774423Z",
+    "lead_time": 0.931
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00839_label_0.jpg",
+    "id": 2598,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2598,
+    "created_at": "2025-05-06T04:21:16.838858Z",
+    "updated_at": "2025-05-06T04:21:16.838879Z",
+    "lead_time": 3.825
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00840_label_1.jpg",
+    "id": 2599,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2599,
+    "created_at": "2025-05-06T04:21:20.540405Z",
+    "updated_at": "2025-05-06T04:21:20.540425Z",
+    "lead_time": 2.414
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00844_label_1.jpg",
+    "id": 2600,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2600,
+    "created_at": "2025-05-06T04:21:22.961400Z",
+    "updated_at": "2025-05-06T04:21:22.961420Z",
+    "lead_time": 0.935
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00850_label_1.jpg",
+    "id": 2601,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2601,
+    "created_at": "2025-05-06T04:21:25.210160Z",
+    "updated_at": "2025-05-06T04:21:25.210181Z",
+    "lead_time": 0.905
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00853_label_0.jpg",
+    "id": 2602,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2602,
+    "created_at": "2025-05-06T04:21:27.355270Z",
+    "updated_at": "2025-05-06T04:21:27.355290Z",
+    "lead_time": 0.874
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00854_label_1.jpg",
+    "id": 2603,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2603,
+    "created_at": "2025-05-06T04:21:29.512726Z",
+    "updated_at": "2025-05-06T04:21:29.512751Z",
+    "lead_time": 0.911
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00856_label_1.jpg",
+    "id": 2604,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2604,
+    "created_at": "2025-05-06T04:21:31.729594Z",
+    "updated_at": "2025-05-06T04:21:31.729615Z",
+    "lead_time": 0.926
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00857_label_0.jpg",
+    "id": 2605,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2605,
+    "created_at": "2025-05-06T04:21:33.969855Z",
+    "updated_at": "2025-05-06T04:21:33.969875Z",
+    "lead_time": 1.002
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00858_label_1.jpg",
+    "id": 2606,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2606,
+    "created_at": "2025-05-06T04:21:36.187975Z",
+    "updated_at": "2025-05-06T04:21:36.187995Z",
+    "lead_time": 0.82
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00859_label_0.jpg",
+    "id": 2607,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2607,
+    "created_at": "2025-05-06T04:21:38.418359Z",
+    "updated_at": "2025-05-06T04:21:38.418379Z",
+    "lead_time": 0.924
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00861_label_0.jpg",
+    "id": 2608,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2608,
+    "created_at": "2025-05-06T04:21:40.694895Z",
+    "updated_at": "2025-05-06T04:21:40.694915Z",
+    "lead_time": 0.935
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00862_label_1.jpg",
+    "id": 2609,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2609,
+    "created_at": "2025-05-06T04:21:43.411500Z",
+    "updated_at": "2025-05-06T04:21:43.411520Z",
+    "lead_time": 1.469
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00864_label_1.jpg",
+    "id": 2610,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2610,
+    "created_at": "2025-05-06T04:21:45.782595Z",
+    "updated_at": "2025-05-06T04:21:45.782615Z",
+    "lead_time": 1.025
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00866_label_1.jpg",
+    "id": 2611,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2611,
+    "created_at": "2025-05-06T04:21:47.901086Z",
+    "updated_at": "2025-05-06T04:21:47.901105Z",
+    "lead_time": 0.842
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00869_label_0.jpg",
+    "id": 2612,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2612,
+    "created_at": "2025-05-06T04:21:50.172938Z",
+    "updated_at": "2025-05-06T04:21:50.172957Z",
+    "lead_time": 1.0
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00870_label_1.jpg",
+    "id": 2613,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2613,
+    "created_at": "2025-05-06T04:21:52.298410Z",
+    "updated_at": "2025-05-06T04:21:52.298430Z",
+    "lead_time": 0.837
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00873_label_0.jpg",
+    "id": 2614,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2614,
+    "created_at": "2025-05-06T04:21:54.659499Z",
+    "updated_at": "2025-05-06T04:21:54.659519Z",
+    "lead_time": 1.051
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00875_label_0.jpg",
+    "id": 2615,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2615,
+    "created_at": "2025-05-06T04:21:57.075329Z",
+    "updated_at": "2025-05-06T04:21:57.075349Z",
+    "lead_time": 1.01
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00878_label_1.jpg",
+    "id": 2616,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2616,
+    "created_at": "2025-05-06T04:21:59.306958Z",
+    "updated_at": "2025-05-06T04:21:59.306978Z",
+    "lead_time": 0.984
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00879_label_0.jpg",
+    "id": 2617,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2617,
+    "created_at": "2025-05-06T04:22:01.576872Z",
+    "updated_at": "2025-05-06T04:22:01.576893Z",
+    "lead_time": 0.945
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00880_label_1.jpg",
+    "id": 2618,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2618,
+    "created_at": "2025-05-06T04:22:03.730191Z",
+    "updated_at": "2025-05-06T04:22:03.730212Z",
+    "lead_time": 0.919
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00883_label_0.jpg",
+    "id": 2619,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2619,
+    "created_at": "2025-05-06T04:22:06.312397Z",
+    "updated_at": "2025-05-06T04:22:06.312418Z",
+    "lead_time": 1.187
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00888_label_1.jpg",
+    "id": 2620,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2620,
+    "created_at": "2025-05-06T04:22:08.466807Z",
+    "updated_at": "2025-05-06T04:22:08.466827Z",
+    "lead_time": 0.831
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00894_label_1.jpg",
+    "id": 2621,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2621,
+    "created_at": "2025-05-06T04:22:11.310953Z",
+    "updated_at": "2025-05-06T04:22:11.310973Z",
+    "lead_time": 1.426
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00895_label_0.jpg",
+    "id": 2622,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2622,
+    "created_at": "2025-05-06T04:22:13.505126Z",
+    "updated_at": "2025-05-06T04:22:13.505145Z",
+    "lead_time": 0.859
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00896_label_1.jpg",
+    "id": 2623,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2623,
+    "created_at": "2025-05-06T04:22:16.772777Z",
+    "updated_at": "2025-05-06T04:22:16.772798Z",
+    "lead_time": 1.846
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00897_label_0.jpg",
+    "id": 2624,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2624,
+    "created_at": "2025-05-06T04:22:19.075191Z",
+    "updated_at": "2025-05-06T04:22:19.075211Z",
+    "lead_time": 0.952
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00901_label_0.jpg",
+    "id": 2625,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2625,
+    "created_at": "2025-05-06T04:22:21.812362Z",
+    "updated_at": "2025-05-06T04:22:21.812381Z",
+    "lead_time": 1.24
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00902_label_1.jpg",
+    "id": 2626,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2626,
+    "created_at": "2025-05-06T04:22:24.098984Z",
+    "updated_at": "2025-05-06T04:22:24.099003Z",
+    "lead_time": 0.823
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00907_label_0.jpg",
+    "id": 2627,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2627,
+    "created_at": "2025-05-06T04:22:26.521169Z",
+    "updated_at": "2025-05-06T04:22:26.521189Z",
+    "lead_time": 1.111
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00908_label_1.jpg",
+    "id": 2628,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2628,
+    "created_at": "2025-05-06T04:22:30.400292Z",
+    "updated_at": "2025-05-06T04:22:30.400312Z",
+    "lead_time": 2.505
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00909_label_0.jpg",
+    "id": 2629,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2629,
+    "created_at": "2025-05-06T04:22:32.564988Z",
+    "updated_at": "2025-05-06T04:22:32.565008Z",
+    "lead_time": 0.865
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00910_label_1.jpg",
+    "id": 2630,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2630,
+    "created_at": "2025-05-06T04:22:34.870844Z",
+    "updated_at": "2025-05-06T04:22:34.870868Z",
+    "lead_time": 0.813
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00912_label_1.jpg",
+    "id": 2631,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2631,
+    "created_at": "2025-05-06T04:22:37.290539Z",
+    "updated_at": "2025-05-06T04:22:37.290559Z",
+    "lead_time": 1.123
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00913_label_0.jpg",
+    "id": 2632,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2632,
+    "created_at": "2025-05-06T04:22:42.444189Z",
+    "updated_at": "2025-05-06T04:22:42.444209Z",
+    "lead_time": 3.716
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00915_label_0.jpg",
+    "id": 2633,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2633,
+    "created_at": "2025-05-06T04:22:45.060888Z",
+    "updated_at": "2025-05-06T04:22:45.060909Z",
+    "lead_time": 1.31
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00916_label_1.jpg",
+    "id": 2634,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2634,
+    "created_at": "2025-05-06T04:22:47.396209Z",
+    "updated_at": "2025-05-06T04:22:47.396229Z",
+    "lead_time": 0.928
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00920_label_1.jpg",
+    "id": 2635,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2635,
+    "created_at": "2025-05-06T04:22:50.804513Z",
+    "updated_at": "2025-05-06T04:22:50.804533Z",
+    "lead_time": 2.129
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00921_label_0.jpg",
+    "id": 2636,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2636,
+    "created_at": "2025-05-06T04:22:53.205215Z",
+    "updated_at": "2025-05-06T04:22:53.205236Z",
+    "lead_time": 1.062
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00922_label_1.jpg",
+    "id": 2637,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2637,
+    "created_at": "2025-05-06T04:22:55.775380Z",
+    "updated_at": "2025-05-06T04:22:55.775402Z",
+    "lead_time": 1.309
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00924_label_1.jpg",
+    "id": 2638,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2638,
+    "created_at": "2025-05-06T04:22:58.062685Z",
+    "updated_at": "2025-05-06T04:22:58.062706Z",
+    "lead_time": 0.868
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00926_label_1.jpg",
+    "id": 2639,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2639,
+    "created_at": "2025-05-06T04:23:00.609367Z",
+    "updated_at": "2025-05-06T04:23:00.609388Z",
+    "lead_time": 1.004
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00928_label_1.jpg",
+    "id": 2640,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2640,
+    "created_at": "2025-05-06T04:23:03.083092Z",
+    "updated_at": "2025-05-06T04:23:03.083113Z",
+    "lead_time": 1.237
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00929_label_0.jpg",
+    "id": 2641,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2641,
+    "created_at": "2025-05-06T04:23:09.206372Z",
+    "updated_at": "2025-05-06T04:23:09.206392Z",
+    "lead_time": 4.829
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00930_label_1.jpg",
+    "id": 2642,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2642,
+    "created_at": "2025-05-06T04:23:11.393473Z",
+    "updated_at": "2025-05-06T04:23:11.393493Z",
+    "lead_time": 0.877
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00932_label_1.jpg",
+    "id": 2643,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2643,
+    "created_at": "2025-05-06T04:23:14.016236Z",
+    "updated_at": "2025-05-06T04:23:14.016256Z",
+    "lead_time": 1.11
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00933_label_0.jpg",
+    "id": 2644,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2644,
+    "created_at": "2025-05-06T04:23:16.332456Z",
+    "updated_at": "2025-05-06T04:23:16.332476Z",
+    "lead_time": 1.012
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00938_label_1.jpg",
+    "id": 2645,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2645,
+    "created_at": "2025-05-06T04:23:18.625613Z",
+    "updated_at": "2025-05-06T04:23:18.625633Z",
+    "lead_time": 0.948
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00939_label_0.jpg",
+    "id": 2646,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2646,
+    "created_at": "2025-05-06T04:23:21.276449Z",
+    "updated_at": "2025-05-06T04:23:21.276470Z",
+    "lead_time": 1.336
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00940_label_1.jpg",
+    "id": 2647,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2647,
+    "created_at": "2025-05-06T04:23:23.700989Z",
+    "updated_at": "2025-05-06T04:23:23.701009Z",
+    "lead_time": 1.173
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00941_label_0.jpg",
+    "id": 2648,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2648,
+    "created_at": "2025-05-06T04:23:26.147863Z",
+    "updated_at": "2025-05-06T04:23:26.147883Z",
+    "lead_time": 1.054
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00944_label_1.jpg",
+    "id": 2649,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2649,
+    "created_at": "2025-05-06T04:23:28.329522Z",
+    "updated_at": "2025-05-06T04:23:28.329542Z",
+    "lead_time": 0.869
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00946_label_1.jpg",
+    "id": 2650,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2650,
+    "created_at": "2025-05-06T04:23:30.674983Z",
+    "updated_at": "2025-05-06T04:23:30.675003Z",
+    "lead_time": 0.987
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00947_label_0.jpg",
+    "id": 2651,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2651,
+    "created_at": "2025-05-06T04:23:33.175131Z",
+    "updated_at": "2025-05-06T04:23:33.175151Z",
+    "lead_time": 1.253
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00949_label_0.jpg",
+    "id": 2652,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2652,
+    "created_at": "2025-05-06T04:23:35.837121Z",
+    "updated_at": "2025-05-06T04:23:35.837141Z",
+    "lead_time": 1.264
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00950_label_1.jpg",
+    "id": 2653,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2653,
+    "created_at": "2025-05-06T04:23:39.132343Z",
+    "updated_at": "2025-05-06T04:23:39.132363Z",
+    "lead_time": 1.83
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00951_label_0.jpg",
+    "id": 2654,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2654,
+    "created_at": "2025-05-06T04:23:41.729919Z",
+    "updated_at": "2025-05-06T04:23:41.729940Z",
+    "lead_time": 1.021
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00952_label_1.jpg",
+    "id": 2655,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2655,
+    "created_at": "2025-05-06T04:23:44.191421Z",
+    "updated_at": "2025-05-06T04:23:44.191441Z",
+    "lead_time": 0.88
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00953_label_0.jpg",
+    "id": 2656,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2656,
+    "created_at": "2025-05-06T04:23:47.411096Z",
+    "updated_at": "2025-05-06T04:23:47.411116Z",
+    "lead_time": 1.843
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00954_label_1.jpg",
+    "id": 2657,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2657,
+    "created_at": "2025-05-06T04:23:50.038478Z",
+    "updated_at": "2025-05-06T04:23:50.038498Z",
+    "lead_time": 1.176
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00955_label_0.jpg",
+    "id": 2658,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2658,
+    "created_at": "2025-05-06T04:23:52.784439Z",
+    "updated_at": "2025-05-06T04:23:52.784461Z",
+    "lead_time": 1.342
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00956_label_1.jpg",
+    "id": 2659,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2659,
+    "created_at": "2025-05-06T04:23:55.170082Z",
+    "updated_at": "2025-05-06T04:23:55.170103Z",
+    "lead_time": 0.922
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00963_label_0.jpg",
+    "id": 2660,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2660,
+    "created_at": "2025-05-06T04:23:57.604937Z",
+    "updated_at": "2025-05-06T04:23:57.604957Z",
+    "lead_time": 0.962
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00965_label_0.jpg",
+    "id": 2661,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2661,
+    "created_at": "2025-05-06T04:24:00.720946Z",
+    "updated_at": "2025-05-06T04:24:00.720967Z",
+    "lead_time": 1.41
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00967_label_0.jpg",
+    "id": 2662,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2662,
+    "created_at": "2025-05-06T04:24:03.728951Z",
+    "updated_at": "2025-05-06T04:24:03.728972Z",
+    "lead_time": 1.591
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00968_label_1.jpg",
+    "id": 2663,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2663,
+    "created_at": "2025-05-06T04:24:06.137731Z",
+    "updated_at": "2025-05-06T04:24:06.137756Z",
+    "lead_time": 1.052
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00969_label_0.jpg",
+    "id": 2664,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2664,
+    "created_at": "2025-05-06T04:24:09.249870Z",
+    "updated_at": "2025-05-06T04:24:09.249892Z",
+    "lead_time": 1.651
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00970_label_1.jpg",
+    "id": 2665,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2665,
+    "created_at": "2025-05-06T04:24:11.581419Z",
+    "updated_at": "2025-05-06T04:24:11.581440Z",
+    "lead_time": 0.93
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00971_label_0.jpg",
+    "id": 2666,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2666,
+    "created_at": "2025-05-06T04:24:14.243686Z",
+    "updated_at": "2025-05-06T04:24:14.243707Z",
+    "lead_time": 1.078
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00972_label_1.jpg",
+    "id": 2667,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2667,
+    "created_at": "2025-05-06T04:24:16.941237Z",
+    "updated_at": "2025-05-06T04:24:16.941258Z",
+    "lead_time": 0.992
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00977_label_0.jpg",
+    "id": 2668,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2668,
+    "created_at": "2025-05-06T04:24:19.505965Z",
+    "updated_at": "2025-05-06T04:24:19.505985Z",
+    "lead_time": 1.202
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00980_label_1.jpg",
+    "id": 2669,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2669,
+    "created_at": "2025-05-06T04:24:22.179377Z",
+    "updated_at": "2025-05-06T04:24:22.179396Z",
+    "lead_time": 1.298
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00982_label_1.jpg",
+    "id": 2670,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2670,
+    "created_at": "2025-05-06T04:24:24.472933Z",
+    "updated_at": "2025-05-06T04:24:24.472954Z",
+    "lead_time": 0.938
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00983_label_0.jpg",
+    "id": 2671,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2671,
+    "created_at": "2025-05-06T04:24:26.768177Z",
+    "updated_at": "2025-05-06T04:24:26.768197Z",
+    "lead_time": 0.96
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00984_label_1.jpg",
+    "id": 2672,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2672,
+    "created_at": "2025-05-06T04:24:29.378329Z",
+    "updated_at": "2025-05-06T04:24:29.378349Z",
+    "lead_time": 1.217
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00986_label_1.jpg",
+    "id": 2673,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2673,
+    "created_at": "2025-05-06T04:24:31.753128Z",
+    "updated_at": "2025-05-06T04:24:31.753149Z",
+    "lead_time": 1.025
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00987_label_0.jpg",
+    "id": 2674,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2674,
+    "created_at": "2025-05-06T04:24:34.115708Z",
+    "updated_at": "2025-05-06T04:24:34.115727Z",
+    "lead_time": 0.997
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00988_label_1.jpg",
+    "id": 2675,
+    "choice": "birds",
+    "annotator": 1,
+    "annotation_id": 2675,
+    "created_at": "2025-05-06T04:24:36.401407Z",
+    "updated_at": "2025-05-06T04:24:36.401427Z",
+    "lead_time": 0.99
+  },
+  {
+    "image": "\/data\/local-files\/?d=wakevision_birds\/test_ix_00999_label_0.jpg",
+    "id": 2676,
+    "choice": "background",
+    "annotator": 1,
+    "annotation_id": 2676,
+    "created_at": "2025-05-06T04:24:47.118446Z",
+    "updated_at": "2025-05-06T04:24:47.118468Z",
+    "lead_time": 9.299
+  }
+]
