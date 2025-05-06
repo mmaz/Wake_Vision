@@ -25,13 +25,17 @@ def get_car_ds():
     return dict(train=train, val=val, test=test)
 
 
-def save_car_images(
-    n_to_skip=5_000,
-    n_to_sample=5_000,
+def get_bird_ds():
+    # modify the car_cfg to use bird
+    cfg = get_car_cfg()
+    cfg.BBOX_PERSON_DICTIONARY = {"Bird": 21}
+    train, val, test = get_wake_vision(cfg)
+    return dict(train=train, val=val, test=test)
+
+
+def save_images(
+    target: str,
     n_to_save=500,
-    save_dir=Path(
-        "/n/netscratch/janapa_reddi_lab/Lab/mmaz/holy/astro205/labelstudio_images/wakevision_cars"
-    ),
     split="test",
     seed=0,
 ):
@@ -41,10 +45,24 @@ def save_car_images(
     i.e., images 5000-10000) and randomly subsamples n_to_save (500) images from
     this draw.
     """
+    save_parent = Path(
+        "/n/netscratch/janapa_reddi_lab/Lab/mmaz/holy/astro205/labelstudio_images"
+    )
+    assert target in ["car", "bird"]
+    if target == "car":
+        save_dir = save_parent / "wakevision_cars"
+        ds = get_car_ds()[split]
+        n_to_skip = (5_000,)
+        n_to_sample = (5_000,)
+    elif target == "bird":
+        save_dir = save_parent / "wakevision_birds"
+        ds = get_bird_ds()[split]
+        n_to_skip = 500
+        n_to_sample = 1000
+    print(f"{n_to_skip=}, {n_to_sample=}")
     assert save_dir.is_dir(), f"{save_dir=} is not a directory"
     assert len(list(save_dir.iterdir())) == 0, f"{save_dir=} is not empty"
 
-    ds = get_car_ds()[split]
     ds = ds.unbatch().batch(1)
     ds = ds.skip(n_to_skip).take(n_to_sample)
 
@@ -66,10 +84,16 @@ def save_car_images(
 
 
 def report_tfds_balance(
-    image_dir: Path = Path(
-        "/n/netscratch/janapa_reddi_lab/Lab/mmaz/holy/astro205/labelstudio_images/wakevision_cars"
-    ),
+    target: str,
 ):
+    if target == "car":
+        image_dir: Path = Path(
+            "/n/netscratch/janapa_reddi_lab/Lab/mmaz/holy/astro205/labelstudio_images/wakevision_cars"
+        )
+    elif target == "bird":
+        image_dir: Path = Path(
+            "/n/netscratch/janapa_reddi_lab/Lab/mmaz/holy/astro205/labelstudio_images/wakevision_birds"
+        )
     """
     report balance of dataset
     """
@@ -78,13 +102,11 @@ def report_tfds_balance(
         # example filename: test_ix_04130_label_1.jpg
         label_id = int(image_path.name.split("_")[-1].split(".")[0])
         counter[label_id] += 1
-    print(counter)  # Counter({0: 254, 1: 246})
+    print(counter)  # car: Counter({0: 254, 1: 246}), bird: Counter({0: 235, 1: 265})
 
 
 def human_val_classification_report(
-    labelstudio_json: Path = Path(
-        "/n/holylabs/LABS/janapa_reddi_lab/Users/mmaz/wakevision_work/Wake_Vision/wakevision-at-2025-04-29-00-04-5e08b2ab.json"
-    ),
+    target: str,
 ):
     """
     entries are saved in the following format:
@@ -115,6 +137,14 @@ def human_val_classification_report(
 
     this function generates a classification report treating human-assigned labels as ground truth
     """
+    if target == "car":
+        labelstudio_json: Path = (
+            Path(
+                "/n/holylabs/LABS/janapa_reddi_lab/Users/mmaz/wakevision_work/Wake_Vision/wakevision-at-2025-04-29-00-04-5e08b2ab.json"
+            ),
+        )
+    elif target == "bird":
+        raise NotImplementedError("bird not implemented yet")
     label_data = json.loads(labelstudio_json.read_text())
     y_pred = []
     y_true = []
@@ -122,7 +152,7 @@ def human_val_classification_report(
         # example filename: test_ix_04130_label_1.jpg
         wakevision_label_id = int(entry["image"].split("_")[-1].split(".")[0])
         y_pred.append(wakevision_label_id)
-        y_true.append(1 if entry["choice"] == "car" else 0)
+        y_true.append(1 if entry["choice"] == target else 0)
 
     y_pred = np.array(y_pred)
     y_true = np.array(y_true)
@@ -135,29 +165,41 @@ def human_val_classification_report(
     # print classification report
     print(
         sklearn.metrics.classification_report(
-            y_true, y_pred, target_names=["background", "car"]
+            y_true, y_pred, target_names=["background", target]
         )
     )
 
 
-def get_car_sizes(split: str):
-    assert split in ["train", "val", "test"] 
-    BS=512
-    ds = get_car_ds()[split]
+def get_sizes(target: str, split: str, batch_size: int):
+    assert target in ["car", "bird"]
+    assert batch_size > 0
+    if target == "car":
+        ds = get_car_ds()
+    elif target == "bird":
+        ds = get_bird_ds()
+    assert split in ["train", "val", "test"]
+    ds = ds[split]
     # need to flush when using tee + tf's stdout behavior
-    print(f"{split=} loaded, {BS=}", flush=True)
+    print(f"{split=} loaded, {batch_size=}", flush=True)
     dataset_size = 0
     # rebatch to BS
-    for _ in ds.unbatch().batch(BS):
+    for _ in ds.unbatch().batch(batch_size):
         dataset_size += 1
-        if dataset_size % 100 == 0:
-            print(f"Calculating {split=} {BS*dataset_size=}...", flush=True)
-    print(f"final size: {split=} {dataset_size=} {dataset_size*BS=}", flush=True)  
+        if batch_size > 1 and dataset_size % 100 == 0:
+            print(f"Calculating {split=} {batch_size*dataset_size=}...", flush=True)
+    print(
+        f"final size: {split=} {dataset_size=} {dataset_size*batch_size=}", flush=True
+    )
+    # bird:
+    # test: 3008
+
+    # car:
     # test: 24_476
     # split='val' dataset_size=8264
-    # 
+    #
 
-# module load python cuda/12.4.1-fasrc01 cudnn/9.5.1.17_cuda12-fasrc01 
+
+# module load python cuda/12.4.1-fasrc01 cudnn/9.5.1.17_cuda12-fasrc01
 # conda activate wakevision_env
 if __name__ == "__main__":
-    fire.Fire(get_car_sizes)
+    fire.Fire(report_tfds_balance)

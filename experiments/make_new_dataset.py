@@ -18,10 +18,12 @@ from experiments.car_cfg_def import get_car_cfg
 # %%
 boxable_class_url = "https://storage.googleapis.com/openimages/v7/oidv7-class-descriptions-boxable.csv"
 boxable_class_df = pd.read_csv(boxable_class_url)
-target_name = "Car"
+# target_name = "Car"
+target_name = "Bird"
 label_name = boxable_class_df[boxable_class_df["DisplayName"] == target_name]["LabelName"].values[0]
 print(label_name)
 # LabelName /m/0k4j for DisplayName "Car"
+# LabelName /m/015p6 for DisplayName "Bird"
 #
 # %%
 # import os
@@ -39,8 +41,12 @@ builder = tfds.builder(
 # see experiment_config.py, image-level labels:
 assert builder.info.features["objects"]["label"].str2int("/m/01g317") == 14048
 # boxable car:
-print(builder.info.features["bobjects"]["label"].str2int(label_name))
+car_label_name = "/m/0k4j"
+print(builder.info.features["bobjects"]["label"].str2int(car_label_name))
 # 570
+bird_label_name = "/m/015p6"
+print(builder.info.features["bobjects"]["label"].str2int(bird_label_name))
+# 21
 # %%
 
 # %%
