@@ -17,6 +17,7 @@ import tensorflow as tf
 import tqdm
 import numpy as np
 import sklearn.metrics
+from loguru import logger
 
 
 def get_car_ds():
@@ -139,10 +140,12 @@ def human_val_classification_report(
     """
     if target == "car":
         labelstudio_json = Path(
-                "/n/holylabs/LABS/janapa_reddi_lab/Users/mmaz/wakevision_work/Wake_Vision/wakevision-at-2025-04-29-00-04-5e08b2ab.json"
-            )
+            "/n/holylabs/LABS/janapa_reddi_lab/Users/mmaz/wakevision_work/Wake_Vision/wakevision-at-2025-04-29-00-04-5e08b2ab.json"
+        )
     elif target == "birds":
-        labelstudio_json = Path("/n/holylabs/LABS/janapa_reddi_lab/Users/mmaz/wakevision_work/Wake_Vision/wakevision-birds-500-project-3-at-2025-05-06-04-25-d9628515.json")
+        labelstudio_json = Path(
+            "/n/holylabs/LABS/janapa_reddi_lab/Users/mmaz/wakevision_work/Wake_Vision/wakevision-birds-500-project-3-at-2025-05-06-04-25-d9628515.json"
+        )
     label_data = json.loads(labelstudio_json.read_text())
     y_pred = []
     y_true = []
@@ -169,25 +172,23 @@ def human_val_classification_report(
 
 
 def get_sizes(target: str, split: str, batch_size: int):
-    assert target in ["car", "bird"]
+    assert target in ["car", "birds"]
     assert batch_size > 0
     if target == "car":
         ds = get_car_ds()
-    elif target == "bird":
+    elif target == "birds":
         ds = get_bird_ds()
     assert split in ["train", "val", "test"]
     ds = ds[split]
     # need to flush when using tee + tf's stdout behavior
-    print(f"{split=} loaded, {batch_size=}", flush=True)
-    dataset_size = 0
+    logger.info(f"{split=} loaded, {batch_size=}", flush=True)
+    batch_count = 0
     # rebatch to BS
     for _ in ds.unbatch().batch(batch_size):
-        dataset_size += 1
-        if batch_size > 1 and dataset_size % 100 == 0:
-            print(f"Calculating {split=} {batch_size*dataset_size=}...", flush=True)
-    print(
-        f"final size: {split=} {dataset_size=} {dataset_size*batch_size=}", flush=True
-    )
+        batch_count += 1
+        if batch_size > 1 and batch_count % 100 == 0:
+            logger.debug(f"Calculating {split=} {batch_size*batch_count=}...")
+    logger.info(f"RESULTS: {target=} final size: {split=} {batch_count=} {batch_count*batch_size=}")  # fmt: skip
     # bird:
     # test: 3008
 
@@ -196,8 +197,14 @@ def get_sizes(target: str, split: str, batch_size: int):
     # split='val' dataset_size=8264
     #
 
+def get_sizes_fasrc():
+    logger.add("fasrc_output.log", colorize=True)
+    batch_size = 1024
+    for split in ["test", "val", "train"]:
+        for target in ["car", "birds"]:
+            get_sizes(target, split, batch_size)
 
 # module load python cuda/12.4.1-fasrc01 cudnn/9.5.1.17_cuda12-fasrc01
 # conda activate wakevision_env
 if __name__ == "__main__":
-    fire.Fire(human_val_classification_report)
+    fire.Fire(get_sizes_fasrc)
