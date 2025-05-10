@@ -13,5 +13,5 @@ module load python cuda/12.4.1-fasrc01 cudnn/9.5.1.17_cuda12-fasrc01
 mamba activate /n/holylabs/LABS/janapa_reddi_lab/Users/mmaz/wakevision_work/wakevision_env
 cd /n/holylabs/LABS/janapa_reddi_lab/Users/mmaz/wakevision_work/Wake_Vision
 
-# python experiments/query_ds.py car
-python experiments/query_ds.py birds
+python experiments/query_ds.py car
+# python experiments/query_ds.py birds
