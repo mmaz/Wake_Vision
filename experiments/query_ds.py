@@ -3,6 +3,9 @@ from pathlib import Path
 import tensorflow_datasets as tfds
 import collections
 import json
+import subprocess
+import shutil
+import tempfile
 
 import sys
 
@@ -20,15 +23,17 @@ import sklearn.metrics
 from loguru import logger
 
 
-def get_car_ds():
+def get_car_ds(wv_dir: str | None = None):
     car_cfg = get_car_cfg()
+    if wv_dir is not None:
+        car_cfg.WV_DIR = wv_dir
     train, val, test = get_wake_vision(car_cfg)
     return dict(train=train, val=val, test=test)
 
 
-def get_bird_ds():
+def get_bird_ds(wv_dir: str | None = None):
     # modify the car_cfg to use bird
-    cfg = get_car_cfg()
+    cfg = get_car_cfg(wv_dir)
     cfg.BBOX_PERSON_DICTIONARY = {"Bird": 21}
     train, val, test = get_wake_vision(cfg)
     return dict(train=train, val=val, test=test)
@@ -171,24 +176,31 @@ def human_val_classification_report(
     )
 
 
-def get_sizes(target: str, split: str, batch_size: int):
+def get_sizes(target: str, split: str, batch_size: int, wv_dir: str | None = None):
     assert target in ["car", "birds"]
     assert batch_size > 0
     if target == "car":
-        ds = get_car_ds()
+        ds = get_car_ds(wv_dir=wv_dir)
     elif target == "birds":
-        ds = get_bird_ds()
+        ds = get_bird_ds(wv_dir=wv_dir)
     assert split in ["train", "val", "test"]
     ds = ds[split]
     # need to flush when using tee + tf's stdout behavior
     logger.info(f"{split=} loaded, {batch_size=}", flush=True)
     batch_count = 0
+    positives_count = 0
+    backgrounds_count = 0
     # rebatch to BS
-    for _ in ds.unbatch().batch(batch_size):
+    for images, labels in ds.unbatch().batch(batch_size):
         batch_count += 1
+        labels = tf.squeeze(labels, axis=1)
+        positives_count += tf.reduce_sum(labels).numpy()
+        backgrounds_count += batch_size - tf.reduce_sum(labels).numpy()
         if batch_size > 1 and batch_count % 100 == 0:
-            logger.debug(f"Calculating {split=} {batch_size*batch_count=}...")
-    logger.info(f"RESULTS: {target=} final size: {split=} {batch_count=} {batch_count*batch_size=}")  # fmt: skip
+            logger.debug(
+                f"Calculating {split=} {batch_size*batch_count=} {positives_count=} {backgrounds_count=}..."
+            )
+    logger.info(f"RESULTS: {target=} final size: {split=} {batch_count=} {batch_count*batch_size=} {positives_count=} {backgrounds_count=}...")  # fmt: skip
     # bird:
     # test: 3008
 
@@ -197,12 +209,50 @@ def get_sizes(target: str, split: str, batch_size: int):
     # split='val' dataset_size=8264
     #
 
-def get_sizes_fasrc():
-    logger.add("fasrc_output.log", colorize=True)
+
+def copy_oi_to_localscratch() -> tempfile.TemporaryDirectory:
+    """
+    we unpack the openimages tar to local /scratch
+    - tar xf will create openimages/1.0.0/
+    - we need /scratch/tempdir/partial_open_images_v7/1.0.0/
+    - we will return /scratch/tempdir as cfg.WV_DIR
+    - on FASRC, /tmp already points to /scratch
+
+    note most scratch has at most 396GB of space
+    https://docs.rc.fas.harvard.edu/kb/running-jobs/#Slurm_partitions
+    """
+    src_oi_tar = Path("/n/netscratch/janapa_reddi_lab/Lab/mmaz/openimages.tar")
+    assert src_oi_tar.is_file(), f"{src_oi_tar} is not a file"
+    tmpdir = tempfile.TemporaryDirectory(dir=Path("/scratch"))
+    logger.info(f"Unpacking {src_oi_tar} to {tmpdir.name}")
+    # untar:
+    # -C change to directory tmpdir.name
+    cmd = f"tar xf {src_oi_tar} -C {tmpdir.name}"
+    logger.info(f"Running command: {cmd}")
+    subprocess.run(cmd, shell=True, check=True)
+    # rename openimages/1.0.0/ to partial_open_images_v7/1.0.0/
+    shutil.move(
+        Path(tmpdir.name) / "openimages",
+        Path(tmpdir.name) / "partial_open_images_v7",
+    )
+    assert "1.0.0" in (Path(tmpdir.name) / "partial_open_images_v7").iterdir()
+    logger.info("Unpacking done")
+    return tmpdir
+
+
+def get_sizes_fasrc(target: str):
+    assert target in ["car", "birds"]
+    logger.add(f"fasrc_output_{target}_pn.log", colorize=True)
+
+    # will be deleted when GC collects it
+    wv_dir_td = copy_oi_to_localscratch()
+
     batch_size = 1024
     for split in ["test", "val", "train"]:
-        for target in ["car", "birds"]:
-            get_sizes(target, split, batch_size)
+        # for target in ["car", "birds"]:
+        # for target in ["birds"]:
+        get_sizes(target, split, batch_size, wv_dir=wv_dir_td.name)
+
 
 # module load python cuda/12.4.1-fasrc01 cudnn/9.5.1.17_cuda12-fasrc01
 # conda activate wakevision_env
