@@ -193,7 +193,7 @@ def get_sizes(target: str, split: str, batch_size: int, wv_dir: str | None = Non
     # rebatch to BS
     for images, labels in ds.unbatch().batch(batch_size):
         batch_count += 1
-        labels = tf.squeeze(labels, axis=1)
+        labels = tf.squeeze(labels)
         positives_count += tf.reduce_sum(labels).numpy()
         backgrounds_count += batch_size - tf.reduce_sum(labels).numpy()
         if batch_size > 1 and batch_count % 100 == 0:
@@ -210,20 +210,21 @@ def get_sizes(target: str, split: str, batch_size: int, wv_dir: str | None = Non
     #
 
 
-def copy_oi_to_localscratch() -> tempfile.TemporaryDirectory:
+def copy_oi_to_ram() -> tempfile.TemporaryDirectory:
     """
-    we unpack the openimages tar to local /scratch
+    we unpack the openimages tar to /dev/shm
     - tar xf will create openimages/1.0.0/
-    - we need /scratch/tempdir/partial_open_images_v7/1.0.0/
-    - we will return /scratch/tempdir as cfg.WV_DIR
-    - on FASRC, /tmp already points to /scratch
+    - we need /dev/shm/tempdir/partial_open_images_v7/1.0.0/
+    - we will return /dev/shm/tempdir as cfg.WV_DIR
 
-    note most scratch has at most 396GB of space
+    note most scratch partitions have at most 396GB of space
     https://docs.rc.fas.harvard.edu/kb/running-jobs/#Slurm_partitions
+    https://docs.rc.fas.harvard.edu/kb/policy-scratch/
+    shm can be made large enough by the --mem flag
     """
     src_oi_tar = Path("/n/netscratch/janapa_reddi_lab/Lab/mmaz/openimages.tar")
     assert src_oi_tar.is_file(), f"{src_oi_tar} is not a file"
-    tmpdir = tempfile.TemporaryDirectory(dir=Path("/scratch"))
+    tmpdir = tempfile.TemporaryDirectory(dir=Path("/dev/shm/"))
     logger.info(f"Unpacking {src_oi_tar} to {tmpdir.name}")
     # untar:
     # -C change to directory tmpdir.name
@@ -235,7 +236,7 @@ def copy_oi_to_localscratch() -> tempfile.TemporaryDirectory:
         Path(tmpdir.name) / "openimages",
         Path(tmpdir.name) / "partial_open_images_v7",
     )
-    assert "1.0.0" in (Path(tmpdir.name) / "partial_open_images_v7").iterdir()
+    assert (Path(tmpdir.name) / "partial_open_images_v7/1.0.0").is_dir()
     logger.info("Unpacking done")
     return tmpdir
 
@@ -245,7 +246,7 @@ def get_sizes_fasrc(target: str):
     logger.add(f"fasrc_output_{target}_pn.log", colorize=True)
 
     # will be deleted when GC collects it
-    wv_dir_td = copy_oi_to_localscratch()
+    wv_dir_td = copy_oi_to_ram()
 
     batch_size = 1024
     for split in ["test", "val", "train"]:
