@@ -177,6 +177,7 @@ def human_val_classification_report(
 
 
 def get_sizes(target: str, split: str, batch_size: int, wv_dir: str | None = None):
+    logger.warning("ENSURE YOU DISABLED repeat() IN WAKE_VISION LOADER")
     assert target in ["car", "birds"]
     assert batch_size > 0
     if target == "car":
@@ -185,8 +186,7 @@ def get_sizes(target: str, split: str, batch_size: int, wv_dir: str | None = Non
         ds = get_bird_ds(wv_dir=wv_dir)
     assert split in ["train", "val", "test"]
     ds = ds[split]
-    # need to flush when using tee + tf's stdout behavior
-    logger.info(f"{split=} loaded, {batch_size=}", flush=True)
+    logger.info(f"{split=} loaded, {batch_size=}")
     batch_count = 0
     positives_count = 0
     backgrounds_count = 0
@@ -200,7 +200,7 @@ def get_sizes(target: str, split: str, batch_size: int, wv_dir: str | None = Non
             logger.debug(
                 f"Calculating {split=} {batch_size*batch_count=} {positives_count=} {backgrounds_count=}..."
             )
-    logger.info(f"RESULTS: {target=} final size: {split=} {batch_count=} {batch_count*batch_size=} {positives_count=} {backgrounds_count=}...")  # fmt: skip
+    logger.info(f"RESULTS: {target=} final size: {split=} {batch_count=} {batch_count*batch_size=} {positives_count=} {backgrounds_count=}")  # fmt: skip
     # bird:
     # test: 3008
 
@@ -209,6 +209,29 @@ def get_sizes(target: str, split: str, batch_size: int, wv_dir: str | None = Non
     # split='val' dataset_size=8264
     #
 
+def get_sizes_bs1(target: str, split: str):
+    assert target in ["car", "birds"]
+    if target == "car":
+        ds = get_car_ds()
+    elif target == "birds":
+        ds = get_bird_ds()
+    assert split in ["train", "val", "test"]
+    ds = ds[split]
+    logger.info(f"{split=} loaded")
+    count = 0
+    positives_count = 0
+    backgrounds_count = 0
+    for image, label in ds.unbatch().batch(1):
+        count += 1
+        if label.numpy() == 1:
+            positives_count += 1
+        else:
+            backgrounds_count += 1
+        if count % 500 == 0:
+            logger.debug(
+                f"Calculating {split=} {count=} {positives_count=} {backgrounds_count=}..."
+            )
+    logger.info(f"RESULTS: {target=} final size: {split=} {count=} {positives_count=} {backgrounds_count=}")  # fmt: skip
 
 def copy_oi_to_ram() -> tempfile.TemporaryDirectory:
     """
@@ -241,21 +264,34 @@ def copy_oi_to_ram() -> tempfile.TemporaryDirectory:
     return tmpdir
 
 
-def get_sizes_fasrc(target: str):
-    assert target in ["car", "birds"]
-    logger.add(f"fasrc_output_{target}_pn.log", colorize=True)
+# def get_sizes_fasrc_ramdisk(target: str):
+def get_sizes_fasrc_ramdisk():
+    """alloc at least 512GB ram"""
+    logger.add(f"fasrc_ramdisk_pn.log", colorize=True)
 
     # will be deleted when GC collects it
     wv_dir_td = copy_oi_to_ram()
 
     batch_size = 1024
     for split in ["test", "val", "train"]:
-        # for target in ["car", "birds"]:
-        # for target in ["birds"]:
-        get_sizes(target, split, batch_size, wv_dir=wv_dir_td.name)
+        # get_sizes(target, split, batch_size, wv_dir=wv_dir_td.name)
+        for target in ["car", "birds"]:
+            logger.info(f"Calculating {target=} {split=}")
+            get_sizes(target, split, batch_size, wv_dir=wv_dir_td.name)
 
+def get_sizes_fasrc_ondisk():
+    """128 cores & 128 GB ram"""
+    logger.add(f"fasrc_testval_exact_ondisk_pn.log", colorize=True)
+
+    # batch_size = 1024
+    # for split in ["test", "val", "train"]:
+    for split in ["test", "val"]:
+        for target in ["car", "birds"]:
+            logger.info(f"Calculating {target=} {split=}")
+            # get_sizes(target, split, batch_size)
+            get_sizes_bs1(target, split)
 
 # module load python cuda/12.4.1-fasrc01 cudnn/9.5.1.17_cuda12-fasrc01
 # conda activate wakevision_env
 if __name__ == "__main__":
-    fire.Fire(get_sizes_fasrc)
+    fire.Fire(get_sizes_fasrc_ondisk)

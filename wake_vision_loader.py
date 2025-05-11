@@ -268,7 +268,9 @@ def preprocessing(ds_split, batch_size, train=False, cfg=default_cfg):
 
     if train:
         # Repeat indefinitely and shuffle the dataset
-        ds_split = ds_split.repeat().shuffle(cfg.SHUFFLE_BUFFER_SIZE)
+        print("DISABLING REPEAT AND SHUFFLE FOR CARDINALITY ESTIMATION")
+        print("\n\n\n DO NOT TRAIN WITH THIS CONFIG \n\n\n")
+        # ds_split = ds_split.repeat().shuffle(cfg.SHUFFLE_BUFFER_SIZE)
         # inception crop
         ds_split = ds_split.map(
             pp_ops.inception_crop, num_parallel_calls=tf.data.AUTOTUNE
