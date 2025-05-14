@@ -18,6 +18,7 @@ from experiments.car_cfg_def import get_car_cfg
 # %%
 boxable_class_url = "https://storage.googleapis.com/openimages/v7/oidv7-class-descriptions-boxable.csv"
 boxable_class_df = pd.read_csv(boxable_class_url)
+print(boxable_class_df.shape) 
 # target_name = "Car"
 target_name = "Bird"
 label_name = boxable_class_df[boxable_class_df["DisplayName"] == target_name]["LabelName"].values[0]
