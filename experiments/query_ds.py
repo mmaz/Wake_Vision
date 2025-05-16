@@ -20,6 +20,7 @@ import tensorflow as tf
 import tqdm
 import numpy as np
 import sklearn.metrics
+from PIL import Image
 from loguru import logger
 
 
@@ -87,6 +88,86 @@ def save_images(
         image = tf.cast(image, tf.uint8)
         encoded_image = tf.image.encode_png(image)
         tf.io.write_file(str(target_fn), encoded_image)
+
+def make_collage(
+    target: str,
+    label_id: int,
+    split: str = "test",
+    grid_size: tuple[int, int] = (3, 3),
+    margin: int = 10,
+    seed: int = 0,
+    skip: int | tuple[int, ...] | None = None,
+    sample: int | None = None,
+) -> Image.Image:
+    """
+    Pulls out grid_size[0] * grid_size[1] random images with label==1
+    from the specified dataset slice, and returns a single PIL.Image
+    collage with `margin` pixels of white border around each.
+
+    Args:
+        target: "car" or "bird"
+        split: which split of the dataset ("train"/"val"/"test")
+        grid_size: (cols, rows) of the grid, defaults to (3,3)
+        margin: pixels of whitespace between (and around) each tile
+        seed: random seed for reproducibility
+        skip: how many examples to skip before sampling (overrides defaults)
+        sample: how many examples to draw before filtering to label==1
+    Returns:
+        A PIL.Image of size
+        (cols*W + (cols+1)*margin) × (rows*H + (rows+1)*margin).
+    """
+    assert target in ["car", "bird"]
+    if target == "car":
+        ds = get_car_ds()[split]
+        default_skip, default_sample = 5_000, 30
+    else:
+        ds = get_bird_ds()[split]
+        default_skip, default_sample = 500, 30
+
+    n_skip = skip if skip is not None else default_skip
+    n_sample = sample if sample is not None else default_sample
+
+    ds = ds.unbatch().skip(n_skip).take(n_sample)
+
+    imgs: list[np.ndarray] = []
+    labs: list[np.ndarray] = []
+    for image, label in tfds.as_numpy(ds):
+        # image in [-1,1], convert to [0,255]
+        im = ((image + 1.0) * 127.5).clip(0, 255).astype(np.uint8)
+        imgs.append(im)
+        labs.append(label.squeeze())
+
+    # filter for label_id
+    imgs = [img for img, lab in zip(imgs, labs) if lab == label_id]
+    n_needed = grid_size[0] * grid_size[1]
+    if len(imgs) < n_needed:
+        raise RuntimeError(
+            f"Found only {len(imgs)} label-1 images, but need {n_needed}."
+        )
+
+    # random pick
+    rng = np.random.default_rng(seed)
+    chosen = rng.choice(len(imgs), size=n_needed, replace=False)
+    tiles = [Image.fromarray(imgs[i]) for i in chosen]
+
+    # all tiles same size
+    W, H = tiles[0].size
+    cols, rows = grid_size
+
+    # compute canvas size
+    canvas_w = cols * W + (cols + 1) * margin
+    canvas_h = rows * H + (rows + 1) * margin
+    canvas = Image.new("RGB", (canvas_w, canvas_h), color=(255, 255, 255))
+
+    # paste
+    for idx, tile in enumerate(tiles):
+        row = idx // cols
+        col = idx % cols
+        x = margin + col * (W + margin)
+        y = margin + row * (H + margin)
+        canvas.paste(tile, (x, y))
+
+    return canvas
 
 
 def report_tfds_balance(
@@ -290,6 +371,29 @@ def get_sizes_fasrc_ondisk():
             logger.info(f"Calculating {target=} {split=}")
             # get_sizes(target, split, batch_size)
             get_sizes_bs1(target, split)
+
+
+def save_collages():
+    bird_collage = make_collage(
+        target="bird",
+        label_id=1,
+        split="test",
+        grid_size=(3, 3),
+        margin=10,
+        seed=0,
+    )
+    car_collage = make_collage(
+        target="car",
+        label_id=1,
+        split="test",
+        grid_size=(3, 3),
+        margin=10,
+        skip=2_000,
+        seed=0,
+    )
+    bird_collage.save("bird_collage.png")
+    car_collage.save("car_collage.png")
+
 
 # module load python cuda/12.4.1-fasrc01 cudnn/9.5.1.17_cuda12-fasrc01
 # conda activate wakevision_env
